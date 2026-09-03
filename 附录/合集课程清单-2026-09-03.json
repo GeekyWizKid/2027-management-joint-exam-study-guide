@@ -1,0 +1,49 @@
+{
+  "season_source_bvid": "BV1p4PjzCErd",
+  "fetched_at": "2026-09-03T17:09:33+0800",
+  "courses": [
+    {
+      "key": "logic",
+      "bvid": "BV1ypPjzjEac",
+      "title": "【已完结】27新版老吕逻辑要点7讲/管综逻辑、经综逻辑零基础入门及高分备考方案/管理类联考、经济类联考系统课程/MBA、MEM、MPAcc、会计专硕、审计专硕",
+      "page_count": 50,
+      "duration_seconds": 125340,
+      "duration": "34:49:00"
+    },
+    {
+      "key": "math",
+      "bvid": "BV1p4PjzCErd",
+      "title": "【已完结】27新版老吕&老罗数学要点7讲/管综数学零基础入门及高分备考方案/199管理类联考系统课程/MBA、MPA、MPAcc、MEM、MTA、MLIS",
+      "page_count": 83,
+      "duration_seconds": 188764,
+      "duration": "52:26:04"
+    },
+    {
+      "key": "writing_33",
+      "bvid": "BV1JPMi6REXC",
+      "title": "【最新版】27老吕管综/经综写作考前33篇（写作高分必备）配套课程！管综写作、管理类联考、199管综、396经综、MBA、MPA、MEM、会计专硕、金融专硕",
+      "page_count": 33,
+      "duration_seconds": 101002,
+      "duration": "28:03:22"
+    },
+    {
+      "key": "writing_7",
+      "bvid": "BV1wD9MBfEqM",
+      "title": "【已完结】27新版老吕写作要点7讲/管综写作、经综写作零基础入门及高分备考方案/199管理类联考、396经济类联考系统课程/MBA、MEM、MPAcc、MF",
+      "page_count": 48,
+      "duration_seconds": 51127,
+      "duration": "14:12:07"
+    },
+    {
+      "key": "english_2",
+      "bvid": "BV1gj421D7c9",
+      "title": "【考研英语】陈正康英语二要点7讲系统课程\\管理类、经济类联考\\MPACC\\MPA\\MEM\\MTA\\MLIS\\MF\\MIB\\MT\\MV等专硕适用\\考研必看！",
+      "page_count": 29,
+      "duration_seconds": 48791,
+      "duration": "13:33:11"
+    }
+  ],
+  "total_parts": 243,
+  "total_duration_seconds": 515024,
+  "total_duration": "143:03:44"
+}

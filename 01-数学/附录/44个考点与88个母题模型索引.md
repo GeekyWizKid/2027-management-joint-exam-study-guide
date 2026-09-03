@@ -1,0 +1,145 @@
+# 2027 管综数学《要点 7 讲》：44 个考点与 88 个母题模型索引
+
+> 本索引用于从错题快速回跳到对应分集。名称依据逐集提炼；详细识别信号、步骤和边界见《逐讲逐节总纲与细则》主文档。
+
+## 44 个大纲考点
+
+| 编号 | 名称 | 讲 | 节 | 分集 |
+| --- | --- | --- | --- | --- |
+| 考点 1 | 实数分类 | 第 1 讲：算术 | 实数 | [P04](https://www.bilibili.com/video/BV1p4PjzCErd?p=4) |
+| 考点 2 | 整除与带余除法 | 第 1 讲：算术 | 实数 | [P04](https://www.bilibili.com/video/BV1p4PjzCErd?p=4) |
+| 考点 3 | 奇数与偶数 | 第 1 讲：算术 | 实数 | [P04](https://www.bilibili.com/video/BV1p4PjzCErd?p=4) |
+| 考点 4 | 质数与合数 | 第 1 讲：算术 | 实数 | [P05](https://www.bilibili.com/video/BV1p4PjzCErd?p=5) |
+| 考点 5 | 约数与倍数 | 第 1 讲：算术 | 实数 | [P05](https://www.bilibili.com/video/BV1p4PjzCErd?p=5) |
+| 考点 6 | 实数的运算（幂、根式与分数指数） | 第 1 讲：算术 | 实数的运算 | [P09](https://www.bilibili.com/video/BV1p4PjzCErd?p=9) |
+| 考点 7 | 比与比例 | 第 1 讲：算术 | 比与比例 | [P12](https://www.bilibili.com/video/BV1p4PjzCErd?p=12) |
+| 考点 8 | 正比与反比 | 第 1 讲：算术 | 比与比例 | [P12](https://www.bilibili.com/video/BV1p4PjzCErd?p=12) |
+| 考点 9 | 绝对值 | 第 1 讲：算术 | 绝对值 | [P15](https://www.bilibili.com/video/BV1p4PjzCErd?p=15) |
+| 考点 10 | 整式 | 第 2 讲：整式与分式 | 整式 | [P19](https://www.bilibili.com/video/BV1p4PjzCErd?p=19) |
+| 考点 11 | 分式 | 第 2 讲：整式与分式 | 分式 | [P22](https://www.bilibili.com/video/BV1p4PjzCErd?p=22) |
+| 考点 12 | 一次方程与方程组 | 第 3 讲：方程、不等式与函数 | 基本方程（组）与不等式（组） | [P25](https://www.bilibili.com/video/BV1p4PjzCErd?p=25) |
+| 考点 13 | 不等式的性质 | 第 3 讲：方程、不等式与函数 | 基本方程（组）与不等式（组） | [P25](https://www.bilibili.com/video/BV1p4PjzCErd?p=25) |
+| 考点 14 | 一元一次不等式与不等式组 | 第 3 讲：方程、不等式与函数 | 基本方程（组）与不等式（组） | [P25](https://www.bilibili.com/video/BV1p4PjzCErd?p=25) |
+| 考点 15 | 集合 | 第 3 讲：方程、不等式与函数 | 集合与函数 | [P29](https://www.bilibili.com/video/BV1p4PjzCErd?p=29) |
+| 考点 16 | 平面直角坐标系 | 第 3 讲：方程、不等式与函数 | 集合与函数 | [P29](https://www.bilibili.com/video/BV1p4PjzCErd?p=29) |
+| 考点 17 | 函数及性质 | 第 3 讲：方程、不等式与函数 | 集合与函数 | [P29](https://www.bilibili.com/video/BV1p4PjzCErd?p=29) |
+| 考点 18 | 典型函数 | 第 3 讲：方程、不等式与函数 | 集合与函数 | [P29](https://www.bilibili.com/video/BV1p4PjzCErd?p=29) |
+| 考点 19 | 一元二次函数 | 第 3 讲：方程、不等式与函数 | 一元二次函数、方程与不等式 | [P32](https://www.bilibili.com/video/BV1p4PjzCErd?p=32) |
+| 考点 20 | 一元二次方程 | 第 3 讲：方程、不等式与函数 | 一元二次函数、方程与不等式 | [P32](https://www.bilibili.com/video/BV1p4PjzCErd?p=32) |
+| 考点 21 | 一元二次不等式 | 第 3 讲：方程、不等式与函数 | 一元二次函数、方程与不等式 | [P32](https://www.bilibili.com/video/BV1p4PjzCErd?p=32) |
+| 考点 22 | 幂函数 | 第 3 讲：方程、不等式与函数 | 幂函数、指数函数与对数函数 | [P36](https://www.bilibili.com/video/BV1p4PjzCErd?p=36) |
+| 考点 23 | 指数与指数函数 | 第 3 讲：方程、不等式与函数 | 幂函数、指数函数与对数函数 | [P36](https://www.bilibili.com/video/BV1p4PjzCErd?p=36) |
+| 考点 24 | 对数与对数函数 | 第 3 讲：方程、不等式与函数 | 幂函数、指数函数与对数函数 | [P36](https://www.bilibili.com/video/BV1p4PjzCErd?p=36) |
+| 考点 25 | 数列的概念 | 第 4 讲：数列 | 等差数列 | [P41](https://www.bilibili.com/video/BV1p4PjzCErd?p=41) |
+| 考点 26 | 等差数列的基本概念与公式 | 第 4 讲：数列 | 等差数列 | [P41](https://www.bilibili.com/video/BV1p4PjzCErd?p=41) |
+| 考点 27 | 等比数列 | 第 4 讲：数列 | 等比数列 | [P44](https://www.bilibili.com/video/BV1p4PjzCErd?p=44) |
+| 考点 28 | 直线与角 | 第 5 讲：几何 | 平面图形 | [P50](https://www.bilibili.com/video/BV1p4PjzCErd?p=50) |
+| 考点 29 | 三角形 | 第 5 讲：几何 | 平面图形 | [P50](https://www.bilibili.com/video/BV1p4PjzCErd?p=50) |
+| 考点 30 | 四边形与多边形 | 第 5 讲：几何 | 平面图形 | [P51](https://www.bilibili.com/video/BV1p4PjzCErd?p=51) |
+| 考点 31 | 圆与扇形 | 第 5 讲：几何 | 平面图形 | [P51](https://www.bilibili.com/video/BV1p4PjzCErd?p=51) |
+| 考点 32 | 长方体与正方体 | 第 5 讲：几何 | 空间几何体 | [P57](https://www.bilibili.com/video/BV1p4PjzCErd?p=57) |
+| 考点 33 | 圆柱与球 | 第 5 讲：几何 | 空间几何体 | [P57](https://www.bilibili.com/video/BV1p4PjzCErd?p=57) |
+| 考点 34 | 圆锥与棱锥 | 第 5 讲：几何 | 空间几何体 | [P57](https://www.bilibili.com/video/BV1p4PjzCErd?p=57) |
+| 考点 35 | 点 | 第 5 讲：几何 | 平面解析几何 | [P60](https://www.bilibili.com/video/BV1p4PjzCErd?p=60) |
+| 考点 36 | 直线 | 第 5 讲：几何 | 平面解析几何 | [P60](https://www.bilibili.com/video/BV1p4PjzCErd?p=60) |
+| 考点 37 | 圆 | 第 5 讲：几何 | 平面解析几何 | [P60](https://www.bilibili.com/video/BV1p4PjzCErd?p=60) |
+| 考点 38 | 算术平均数 | 第 6 讲：数据分析 | 数据描述 | [P66](https://www.bilibili.com/video/BV1p4PjzCErd?p=66) |
+| 考点 39 | 方差与标准差 | 第 6 讲：数据分析 | 数据描述 | [P66](https://www.bilibili.com/video/BV1p4PjzCErd?p=66) |
+| 考点 40 | 其他数据特征 | 第 6 讲：数据分析 | 数据描述 | [P66](https://www.bilibili.com/video/BV1p4PjzCErd?p=66) |
+| 考点 41 | 加法原理与乘法原理 | 第 6 讲：数据分析 | 排列组合 | [P69](https://www.bilibili.com/video/BV1p4PjzCErd?p=69) |
+| 考点 42 | 组合数与排列数 | 第 6 讲：数据分析 | 排列组合 | [P69](https://www.bilibili.com/video/BV1p4PjzCErd?p=69) |
+| 考点 43 | 事件与概率 | 第 6 讲：数据分析 | 概率 | [P74](https://www.bilibili.com/video/BV1p4PjzCErd?p=74) |
+| 考点 44 | 概率加法公式 | 第 6 讲：数据分析 | 概率 | [P74](https://www.bilibili.com/video/BV1p4PjzCErd?p=74) |
+
+## 88 个母题模型
+
+| 编号 | 名称 | 讲 | 节 | 分集 |
+| --- | --- | --- | --- | --- |
+| 模型 1 | 整除问题 | 第 1 讲：算术 | 实数 | [P06](https://www.bilibili.com/video/BV1p4PjzCErd?p=6) |
+| 模型 2 | 带余除法问题 | 第 1 讲：算术 | 实数 | [P06](https://www.bilibili.com/video/BV1p4PjzCErd?p=6) |
+| 模型 3 | 奇偶问题 | 第 1 讲：算术 | 实数 | [P06](https://www.bilibili.com/video/BV1p4PjzCErd?p=6) |
+| 模型 4 | 质数、合数问题 | 第 1 讲：算术 | 实数 | [P07](https://www.bilibili.com/video/BV1p4PjzCErd?p=7) |
+| 模型 5 | 约数、倍数问题 | 第 1 讲：算术 | 实数 | [P07](https://www.bilibili.com/video/BV1p4PjzCErd?p=7) |
+| 模型 6 | 整数不定方程 | 第 1 讲：算术 | 实数 | [P07](https://www.bilibili.com/video/BV1p4PjzCErd?p=7) |
+| 模型 7 | 有理数与无理数的混合运算 | 第 1 讲：算术 | 实数的运算 | [P10](https://www.bilibili.com/video/BV1p4PjzCErd?p=10) |
+| 模型 8 | 实数运算技巧 | 第 1 讲：算术 | 实数的运算 | [P10](https://www.bilibili.com/video/BV1p4PjzCErd?p=10) |
+| 模型 9 | 比例计算与比例统一 | 第 1 讲：算术 | 比与比例 | [P13](https://www.bilibili.com/video/BV1p4PjzCErd?p=13) |
+| 模型 10 | 非负性 | 第 1 讲：算术 | 绝对值 | [P16](https://www.bilibili.com/video/BV1p4PjzCErd?p=16) |
+| 模型 11 | 符号判断 | 第 1 讲：算术 | 绝对值 | [P16](https://www.bilibili.com/video/BV1p4PjzCErd?p=16) |
+| 模型 12 | 绝对值方程与不等式 | 第 1 讲：算术 | 绝对值 | [P16](https://www.bilibili.com/video/BV1p4PjzCErd?p=16) |
+| 模型 13 | 绝对值化简求值与三角不等式 | 第 1 讲：算术 | 绝对值 | [P17](https://www.bilibili.com/video/BV1p4PjzCErd?p=17) |
+| 模型 14 | 绝对值线性和、差 | 第 1 讲：算术 | 绝对值 | [P17](https://www.bilibili.com/video/BV1p4PjzCErd?p=17) |
+| 模型 15 | 因式分解 | 第 2 讲：整式与分式 | 整式 | [P20](https://www.bilibili.com/video/BV1p4PjzCErd?p=20) |
+| 模型 16 | 双十字相乘 | 第 2 讲：整式与分式 | 整式 | [P20](https://www.bilibili.com/video/BV1p4PjzCErd?p=20) |
+| 模型 17 | 三角形形状判断 | 第 2 讲：整式与分式 | 整式 | [P20](https://www.bilibili.com/video/BV1p4PjzCErd?p=20) |
+| 模型 18 | 整式除法、因式定理与余式定理 | 第 2 讲：整式与分式 | 整式 | [P20](https://www.bilibili.com/video/BV1p4PjzCErd?p=20) |
+| 模型 19 | 代数式化简求值 | 第 2 讲：整式与分式 | 分式 | [P23](https://www.bilibili.com/video/BV1p4PjzCErd?p=23) |
+| 模型 20 | 降次与对勾式递推 | 第 2 讲：整式与分式 | 分式 | [P23](https://www.bilibili.com/video/BV1p4PjzCErd?p=23) |
+| 模型 21 | 基本方程与不等式的解数、整数解 | 第 3 讲：方程、不等式与函数 | 基本方程（组）与不等式（组） | [P26](https://www.bilibili.com/video/BV1p4PjzCErd?p=26) |
+| 模型 22 | 不等式性质的结构化应用 | 第 3 讲：方程、不等式与函数 | 基本方程（组）与不等式（组） | [P26](https://www.bilibili.com/video/BV1p4PjzCErd?p=26) |
+| 模型 23 | 均值不等式 | 第 3 讲：方程、不等式与函数 | 基本方程（组）与不等式（组） | [P27](https://www.bilibili.com/video/BV1p4PjzCErd?p=27) |
+| 模型 24 | 二维柯西不等式 | 第 3 讲：方程、不等式与函数 | 基本方程（组）与不等式（组） | [P27](https://www.bilibili.com/video/BV1p4PjzCErd?p=27) |
+| 模型 25 | 集合计数，以两集合、三集合 Venn 图为核心 | 第 3 讲：方程、不等式与函数 | 集合与函数 | [P30](https://www.bilibili.com/video/BV1p4PjzCErd?p=30) |
+| 模型 26 | 一元二次函数的基本问题 | 第 3 讲：方程、不等式与函数 | 一元二次函数、方程与不等式 | [P33](https://www.bilibili.com/video/BV1p4PjzCErd?p=33) |
+| 模型 27 | 一元二次函数最值 | 第 3 讲：方程、不等式与函数 | 一元二次函数、方程与不等式 | [P33](https://www.bilibili.com/video/BV1p4PjzCErd?p=33) |
+| 模型 28 | 一元二次方程根的个数 | 第 3 讲：方程、不等式与函数 | 一元二次函数、方程与不等式 | [P33](https://www.bilibili.com/video/BV1p4PjzCErd?p=33) |
+| 模型 29 | 韦达定理及高次根式 | 第 3 讲：方程、不等式与函数 | 一元二次函数、方程与不等式 | [P34](https://www.bilibili.com/video/BV1p4PjzCErd?p=34) |
+| 模型 30 | 根的分布 | 第 3 讲：方程、不等式与函数 | 一元二次函数、方程与不等式 | [P34](https://www.bilibili.com/video/BV1p4PjzCErd?p=34) |
+| 模型 31 | 一元二次不等式恒成立 | 第 3 讲：方程、不等式与函数 | 一元二次函数、方程与不等式 | [P34](https://www.bilibili.com/video/BV1p4PjzCErd?p=34) |
+| 模型 32 | 幂、指数、对数函数综合 | 第 3 讲：方程、不等式与函数 | 幂函数、指数函数与对数函数 | [P37](https://www.bilibili.com/video/BV1p4PjzCErd?p=37) |
+| 模型 33 | 分式方程与分式不等式 | 第 3 讲：方程、不等式与函数 | 特殊的函数、方程与不等式 | [P39](https://www.bilibili.com/video/BV1p4PjzCErd?p=39) |
+| 模型 34 | 根式方程与根式不等式 | 第 3 讲：方程、不等式与函数 | 特殊的函数、方程与不等式 | [P39](https://www.bilibili.com/video/BV1p4PjzCErd?p=39) |
+| 模型 35 | 平移、绝对值、最值函数与分段函数 | 第 3 讲：方程、不等式与函数 | 特殊的函数、方程与不等式 | [P39](https://www.bilibili.com/video/BV1p4PjzCErd?p=39) |
+| 模型 36 | 等差数列的性质与计算 | 第 4 讲：数列 | 等差数列 | [P42](https://www.bilibili.com/video/BV1p4PjzCErd?p=42) |
+| 模型 37 | 等差数列前 `n` 项和的最值 | 第 4 讲：数列 | 等差数列 | [P42](https://www.bilibili.com/video/BV1p4PjzCErd?p=42) |
+| 模型 38 | 等比数列的性质与计算 | 第 4 讲：数列 | 等比数列 | [P45](https://www.bilibili.com/video/BV1p4PjzCErd?p=45) |
+| 模型 39 | 无穷递缩等比数列 | 第 4 讲：数列 | 等比数列 | [P45](https://www.bilibili.com/video/BV1p4PjzCErd?p=45) |
+| 模型 40 | 奇数项与偶数项求和 | 第 4 讲：数列 | 等差、等比数列综合 | [P47](https://www.bilibili.com/video/BV1p4PjzCErd?p=47) |
+| 模型 41 | 连续等长片段求和 | 第 4 讲：数列 | 等差、等比数列综合 | [P47](https://www.bilibili.com/video/BV1p4PjzCErd?p=47) |
+| 模型 42 | 数列的判定 | 第 4 讲：数列 | 等差、等比数列综合 | [P47](https://www.bilibili.com/video/BV1p4PjzCErd?p=47) |
+| 模型 43 | 数列的综合应用 | 第 4 讲：数列 | 等差、等比数列综合 | [P48](https://www.bilibili.com/video/BV1p4PjzCErd?p=48) |
+| 模型 44 | 递推公式 | 第 4 讲：数列 | 等差、等比数列综合 | [P48](https://www.bilibili.com/video/BV1p4PjzCErd?p=48) |
+| 模型 45 | 平面图形的基本问题 | 第 5 讲：几何 | 平面图形 | [P52](https://www.bilibili.com/video/BV1p4PjzCErd?p=52) |
+| 模型 46 | 三角形的四心 | 第 5 讲：几何 | 平面图形 | [P53](https://www.bilibili.com/video/BV1p4PjzCErd?p=53) |
+| 模型 47 | 平面几何五大模型 | 第 5 讲：几何 | 平面图形 | [P54](https://www.bilibili.com/video/BV1p4PjzCErd?p=54) |
+| 模型 48 | 不规则图形面积 | 第 5 讲：几何 | 平面图形 | [P55](https://www.bilibili.com/video/BV1p4PjzCErd?p=55) |
+| 模型 49 | 空间几何体的基本问题 | 第 5 讲：几何 | 空间几何体 | [P58](https://www.bilibili.com/video/BV1p4PjzCErd?p=58) |
+| 模型 50 | 截面问题 | 第 5 讲：几何 | 空间几何体 | [P58](https://www.bilibili.com/video/BV1p4PjzCErd?p=58) |
+| 模型 51 | 内切、外接与相切 | 第 5 讲：几何 | 空间几何体 | [P58](https://www.bilibili.com/video/BV1p4PjzCErd?p=58) |
+| 模型 52 | 解析几何的基本问题 | 第 5 讲：几何 | 平面解析几何 | [P61](https://www.bilibili.com/video/BV1p4PjzCErd?p=61) |
+| 模型 53 | 直线与直线的位置关系 | 第 5 讲：几何 | 平面解析几何 | [P61](https://www.bilibili.com/video/BV1p4PjzCErd?p=61) |
+| 模型 54 | 直线与圆的位置关系（解析几何最高频模型） | 第 5 讲：几何 | 平面解析几何 | [P62](https://www.bilibili.com/video/BV1p4PjzCErd?p=62) |
+| 模型 55 | 圆与圆的位置关系 | 第 5 讲：几何 | 平面解析几何 | [P62](https://www.bilibili.com/video/BV1p4PjzCErd?p=62) |
+| 模型 56 | 参数直线过定点 | 第 5 讲：几何 | 平面解析几何 | [P62](https://www.bilibili.com/video/BV1p4PjzCErd?p=62) |
+| 模型 57 | 图像判断 | 第 5 讲：几何 | 平面解析几何 | [P63](https://www.bilibili.com/video/BV1p4PjzCErd?p=63) |
+| 模型 58 | 解析几何区域面积 | 第 5 讲：几何 | 平面解析几何 | [P63](https://www.bilibili.com/video/BV1p4PjzCErd?p=63) |
+| 模型 59 | 对称问题 | 第 5 讲：几何 | 平面解析几何 | [P64](https://www.bilibili.com/video/BV1p4PjzCErd?p=64) |
+| 模型 60 | 解析几何最值 | 第 5 讲：几何 | 平面解析几何 | [P64](https://www.bilibili.com/video/BV1p4PjzCErd?p=64) |
+| 模型 61 | 数据图表分析 | 第 6 讲：数据分析 | 数据描述 | [P67](https://www.bilibili.com/video/BV1p4PjzCErd?p=67) |
+| 模型 62 | 平均值和方差 | 第 6 讲：数据分析 | 数据描述 | [P67](https://www.bilibili.com/video/BV1p4PjzCErd?p=67) |
+| 模型 63 | 排列组合的基本问题 | 第 6 讲：数据分析 | 排列组合 | [P70](https://www.bilibili.com/video/BV1p4PjzCErd?p=70) |
+| 模型 64 | 排队问题 | 第 6 讲：数据分析 | 排列组合 | [P70](https://www.bilibili.com/video/BV1p4PjzCErd?p=70) |
+| 模型 65 | 万能元素问题 | 第 6 讲：数据分析 | 排列组合 | [P71](https://www.bilibili.com/video/BV1p4PjzCErd?p=71) |
+| 模型 66 | 不同元素的分组与分配 | 第 6 讲：数据分析 | 排列组合 | [P71](https://www.bilibili.com/video/BV1p4PjzCErd?p=71) |
+| 模型 67 | 相同元素的分配（隔板法） | 第 6 讲：数据分析 | 排列组合 | [P71](https://www.bilibili.com/video/BV1p4PjzCErd?p=71) |
+| 模型 68 | 错排（不对号入座） | 第 6 讲：数据分析 | 排列组合 | [P71](https://www.bilibili.com/video/BV1p4PjzCErd?p=71) |
+| 模型 69 | 相邻区域染色 | 第 6 讲：数据分析 | 排列组合 | [P72](https://www.bilibili.com/video/BV1p4PjzCErd?p=72) |
+| 模型 70 | 二项式定理与系数 | 第 6 讲：数据分析 | 排列组合 | [P72](https://www.bilibili.com/video/BV1p4PjzCErd?p=72) |
+| 模型 71 | 概率基本问题与古典概型 | 第 6 讲：数据分析 | 概率 | [P75](https://www.bilibili.com/video/BV1p4PjzCErd?p=75) |
+| 模型 72 | 独立事件 | 第 6 讲：数据分析 | 概率 | [P75](https://www.bilibili.com/video/BV1p4PjzCErd?p=75) |
+| 模型 73 | 伯努利概型 | 第 6 讲：数据分析 | 概率 | [P76](https://www.bilibili.com/video/BV1p4PjzCErd?p=76) |
+| 模型 74 | 袋中取球 | 第 6 讲：数据分析 | 概率 | [P76](https://www.bilibili.com/video/BV1p4PjzCErd?p=76) |
+| 模型 75 | 简单算术问题 | 第 7 讲：应用题 | 应用题综合 | [P78](https://www.bilibili.com/video/BV1p4PjzCErd?p=78) |
+| 模型 76 | 植树与等距布点 | 第 7 讲：应用题 | 应用题综合 | [P78](https://www.bilibili.com/video/BV1p4PjzCErd?p=78) |
+| 模型 77 | 牛吃草模型 | 第 7 讲：应用题 | 应用题综合 | [P78](https://www.bilibili.com/video/BV1p4PjzCErd?p=78) |
+| 模型 78 | 比例问题 | 第 7 讲：应用题 | 应用题综合 | [P78](https://www.bilibili.com/video/BV1p4PjzCErd?p=78) |
+| 模型 79 | 增长率 | 第 7 讲：应用题 | 应用题综合 | [P79](https://www.bilibili.com/video/BV1p4PjzCErd?p=79) |
+| 模型 80 | 利润 | 第 7 讲：应用题 | 应用题综合 | [P79](https://www.bilibili.com/video/BV1p4PjzCErd?p=79) |
+| 模型 81 | 阶梯计价 | 第 7 讲：应用题 | 应用题综合 | [P79](https://www.bilibili.com/video/BV1p4PjzCErd?p=79) |
+| 模型 82 | 平均值应用 | 第 7 讲：应用题 | 应用题综合 | [P79](https://www.bilibili.com/video/BV1p4PjzCErd?p=79) |
+| 模型 83 | 溶液浓度 | 第 7 讲：应用题 | 应用题综合 | [P80](https://www.bilibili.com/video/BV1p4PjzCErd?p=80) |
+| 模型 84 | 工程问题 | 第 7 讲：应用题 | 应用题综合 | [P80](https://www.bilibili.com/video/BV1p4PjzCErd?p=80) |
+| 模型 85 | 行程问题 | 第 7 讲：应用题 | 应用题综合 | [P81](https://www.bilibili.com/video/BV1p4PjzCErd?p=81) |
+| 模型 86 | 图像问题 | 第 7 讲：应用题 | 应用题综合 | [P82](https://www.bilibili.com/video/BV1p4PjzCErd?p=82) |
+| 模型 87 | 应用题最值 | 第 7 讲：应用题 | 应用题综合 | [P82](https://www.bilibili.com/video/BV1p4PjzCErd?p=82) |
+| 模型 88 | 线性规划 | 第 7 讲：应用题 | 应用题综合 | [P82](https://www.bilibili.com/video/BV1p4PjzCErd?p=82) |

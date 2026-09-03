@@ -1,0 +1,2610 @@
+{
+  "result": "PASS",
+  "nonmath_episode_count": 160,
+  "valid_episode_count": 160,
+  "nonmath_duration_seconds": 326260,
+  "inventory_duration_seconds": 326260,
+  "errors": [],
+  "courses": {
+    "logic": {
+      "expected_episodes": 50,
+      "valid_episodes": 50,
+      "duration_seconds": 125340,
+      "transcript_chars": 666504,
+      "transcript_segments": 60506,
+      "ocr_lines": 2662,
+      "episodes": [
+        {
+          "page": 1,
+          "state": "valid",
+          "duration_seconds": 3470,
+          "transcript_chars": 18394,
+          "transcript_segments": 1774,
+          "last_segment_end": 3439.36,
+          "chars_per_minute": 318.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 93,
+          "errors": []
+        },
+        {
+          "page": 2,
+          "state": "valid",
+          "duration_seconds": 2067,
+          "transcript_chars": 12362,
+          "transcript_segments": 1378,
+          "last_segment_end": 2066.56,
+          "chars_per_minute": 358.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 111,
+          "errors": []
+        },
+        {
+          "page": 3,
+          "state": "valid",
+          "duration_seconds": 4149,
+          "transcript_chars": 22395,
+          "transcript_segments": 2527,
+          "last_segment_end": 4147.76,
+          "chars_per_minute": 323.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 110,
+          "errors": []
+        },
+        {
+          "page": 4,
+          "state": "valid",
+          "duration_seconds": 651,
+          "transcript_chars": 4158,
+          "transcript_segments": 404,
+          "last_segment_end": 652.14,
+          "chars_per_minute": 383.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 97,
+          "errors": []
+        },
+        {
+          "page": 5,
+          "state": "valid",
+          "duration_seconds": 3562,
+          "transcript_chars": 19780,
+          "transcript_segments": 1769,
+          "last_segment_end": 3561.94,
+          "chars_per_minute": 333.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 46,
+          "errors": []
+        },
+        {
+          "page": 6,
+          "state": "valid",
+          "duration_seconds": 5233,
+          "transcript_chars": 27376,
+          "transcript_segments": 2493,
+          "last_segment_end": 5231.84,
+          "chars_per_minute": 313.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 55,
+          "errors": []
+        },
+        {
+          "page": 7,
+          "state": "valid",
+          "duration_seconds": 2233,
+          "transcript_chars": 11511,
+          "transcript_segments": 1107,
+          "last_segment_end": 2232.34,
+          "chars_per_minute": 309.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 54,
+          "errors": []
+        },
+        {
+          "page": 8,
+          "state": "valid",
+          "duration_seconds": 2533,
+          "transcript_chars": 13971,
+          "transcript_segments": 1257,
+          "last_segment_end": 2532.54,
+          "chars_per_minute": 330.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 38,
+          "errors": []
+        },
+        {
+          "page": 9,
+          "state": "valid",
+          "duration_seconds": 2514,
+          "transcript_chars": 13348,
+          "transcript_segments": 1227,
+          "last_segment_end": 2513.42,
+          "chars_per_minute": 318.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 55,
+          "errors": []
+        },
+        {
+          "page": 10,
+          "state": "valid",
+          "duration_seconds": 581,
+          "transcript_chars": 3182,
+          "transcript_segments": 250,
+          "last_segment_end": 580.18,
+          "chars_per_minute": 328.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 33,
+          "errors": []
+        },
+        {
+          "page": 11,
+          "state": "valid",
+          "duration_seconds": 1207,
+          "transcript_chars": 6614,
+          "transcript_segments": 571,
+          "last_segment_end": 1206.08,
+          "chars_per_minute": 328.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 48,
+          "errors": []
+        },
+        {
+          "page": 12,
+          "state": "valid",
+          "duration_seconds": 617,
+          "transcript_chars": 3236,
+          "transcript_segments": 289,
+          "last_segment_end": 616.06,
+          "chars_per_minute": 314.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 35,
+          "errors": []
+        },
+        {
+          "page": 13,
+          "state": "valid",
+          "duration_seconds": 286,
+          "transcript_chars": 1510,
+          "transcript_segments": 132,
+          "last_segment_end": 285.44,
+          "chars_per_minute": 316.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 39,
+          "errors": []
+        },
+        {
+          "page": 14,
+          "state": "valid",
+          "duration_seconds": 2474,
+          "transcript_chars": 13250,
+          "transcript_segments": 1313,
+          "last_segment_end": 2473.26,
+          "chars_per_minute": 321.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 44,
+          "errors": []
+        },
+        {
+          "page": 15,
+          "state": "valid",
+          "duration_seconds": 1828,
+          "transcript_chars": 10205,
+          "transcript_segments": 959,
+          "last_segment_end": 1827.02,
+          "chars_per_minute": 335.0,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 35,
+          "errors": []
+        },
+        {
+          "page": 16,
+          "state": "valid",
+          "duration_seconds": 2312,
+          "transcript_chars": 12156,
+          "transcript_segments": 1047,
+          "last_segment_end": 2311.56,
+          "chars_per_minute": 315.5,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 98,
+          "errors": []
+        },
+        {
+          "page": 17,
+          "state": "valid",
+          "duration_seconds": 1532,
+          "transcript_chars": 8190,
+          "transcript_segments": 747,
+          "last_segment_end": 1531.86,
+          "chars_per_minute": 320.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 33,
+          "errors": []
+        },
+        {
+          "page": 18,
+          "state": "valid",
+          "duration_seconds": 2850,
+          "transcript_chars": 15343,
+          "transcript_segments": 1276,
+          "last_segment_end": 2849.22,
+          "chars_per_minute": 323.0,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 47,
+          "errors": []
+        },
+        {
+          "page": 19,
+          "state": "valid",
+          "duration_seconds": 979,
+          "transcript_chars": 4937,
+          "transcript_segments": 471,
+          "last_segment_end": 978.54,
+          "chars_per_minute": 302.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 28,
+          "errors": []
+        },
+        {
+          "page": 20,
+          "state": "valid",
+          "duration_seconds": 1924,
+          "transcript_chars": 10472,
+          "transcript_segments": 1028,
+          "last_segment_end": 1923.28,
+          "chars_per_minute": 326.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 20,
+          "errors": []
+        },
+        {
+          "page": 21,
+          "state": "valid",
+          "duration_seconds": 1531,
+          "transcript_chars": 8439,
+          "transcript_segments": 749,
+          "last_segment_end": 1530.28,
+          "chars_per_minute": 330.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 39,
+          "errors": []
+        },
+        {
+          "page": 22,
+          "state": "valid",
+          "duration_seconds": 646,
+          "transcript_chars": 3569,
+          "transcript_segments": 322,
+          "last_segment_end": 645.42,
+          "chars_per_minute": 331.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 42,
+          "errors": []
+        },
+        {
+          "page": 23,
+          "state": "valid",
+          "duration_seconds": 523,
+          "transcript_chars": 2838,
+          "transcript_segments": 229,
+          "last_segment_end": 521.74,
+          "chars_per_minute": 325.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 28,
+          "errors": []
+        },
+        {
+          "page": 24,
+          "state": "valid",
+          "duration_seconds": 6858,
+          "transcript_chars": 37633,
+          "transcript_segments": 3347,
+          "last_segment_end": 6857.88,
+          "chars_per_minute": 329.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 14,
+          "errors": []
+        },
+        {
+          "page": 25,
+          "state": "valid",
+          "duration_seconds": 3019,
+          "transcript_chars": 15514,
+          "transcript_segments": 1487,
+          "last_segment_end": 3018.76,
+          "chars_per_minute": 308.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 57,
+          "errors": []
+        },
+        {
+          "page": 26,
+          "state": "valid",
+          "duration_seconds": 1191,
+          "transcript_chars": 5903,
+          "transcript_segments": 549,
+          "last_segment_end": 1190.5,
+          "chars_per_minute": 297.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 21,
+          "errors": []
+        },
+        {
+          "page": 27,
+          "state": "valid",
+          "duration_seconds": 3673,
+          "transcript_chars": 19314,
+          "transcript_segments": 1674,
+          "last_segment_end": 3672.36,
+          "chars_per_minute": 315.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 71,
+          "errors": []
+        },
+        {
+          "page": 28,
+          "state": "valid",
+          "duration_seconds": 783,
+          "transcript_chars": 4409,
+          "transcript_segments": 355,
+          "last_segment_end": 782.64,
+          "chars_per_minute": 337.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 42,
+          "errors": []
+        },
+        {
+          "page": 29,
+          "state": "valid",
+          "duration_seconds": 1798,
+          "transcript_chars": 8182,
+          "transcript_segments": 836,
+          "last_segment_end": 1797.34,
+          "chars_per_minute": 273.0,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 54,
+          "errors": []
+        },
+        {
+          "page": 30,
+          "state": "valid",
+          "duration_seconds": 491,
+          "transcript_chars": 2542,
+          "transcript_segments": 218,
+          "last_segment_end": 490.14,
+          "chars_per_minute": 310.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 47,
+          "errors": []
+        },
+        {
+          "page": 31,
+          "state": "valid",
+          "duration_seconds": 5716,
+          "transcript_chars": 30915,
+          "transcript_segments": 2838,
+          "last_segment_end": 5715.44,
+          "chars_per_minute": 324.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 39,
+          "errors": []
+        },
+        {
+          "page": 32,
+          "state": "valid",
+          "duration_seconds": 1019,
+          "transcript_chars": 5814,
+          "transcript_segments": 486,
+          "last_segment_end": 1018.12,
+          "chars_per_minute": 342.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 39,
+          "errors": []
+        },
+        {
+          "page": 33,
+          "state": "valid",
+          "duration_seconds": 3965,
+          "transcript_chars": 21810,
+          "transcript_segments": 1901,
+          "last_segment_end": 3964.8,
+          "chars_per_minute": 330.0,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 69,
+          "errors": []
+        },
+        {
+          "page": 34,
+          "state": "valid",
+          "duration_seconds": 4661,
+          "transcript_chars": 24098,
+          "transcript_segments": 2081,
+          "last_segment_end": 4660.04,
+          "chars_per_minute": 310.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 84,
+          "errors": []
+        },
+        {
+          "page": 35,
+          "state": "valid",
+          "duration_seconds": 3622,
+          "transcript_chars": 19578,
+          "transcript_segments": 1853,
+          "last_segment_end": 3621.6,
+          "chars_per_minute": 324.3,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 117,
+          "errors": []
+        },
+        {
+          "page": 36,
+          "state": "valid",
+          "duration_seconds": 3147,
+          "transcript_chars": 17268,
+          "transcript_segments": 1559,
+          "last_segment_end": 3146.14,
+          "chars_per_minute": 329.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 58,
+          "errors": []
+        },
+        {
+          "page": 37,
+          "state": "valid",
+          "duration_seconds": 3455,
+          "transcript_chars": 18371,
+          "transcript_segments": 1666,
+          "last_segment_end": 3453.98,
+          "chars_per_minute": 319.0,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 65,
+          "errors": []
+        },
+        {
+          "page": 38,
+          "state": "valid",
+          "duration_seconds": 1343,
+          "transcript_chars": 7247,
+          "transcript_segments": 661,
+          "last_segment_end": 1342.04,
+          "chars_per_minute": 323.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 53,
+          "errors": []
+        },
+        {
+          "page": 39,
+          "state": "valid",
+          "duration_seconds": 2049,
+          "transcript_chars": 11045,
+          "transcript_segments": 931,
+          "last_segment_end": 2048.5,
+          "chars_per_minute": 323.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 47,
+          "errors": []
+        },
+        {
+          "page": 40,
+          "state": "valid",
+          "duration_seconds": 4157,
+          "transcript_chars": 21690,
+          "transcript_segments": 1819,
+          "last_segment_end": 4156.1,
+          "chars_per_minute": 313.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 64,
+          "errors": []
+        },
+        {
+          "page": 41,
+          "state": "valid",
+          "duration_seconds": 4037,
+          "transcript_chars": 20830,
+          "transcript_segments": 1829,
+          "last_segment_end": 4036.08,
+          "chars_per_minute": 309.6,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 29,
+          "errors": []
+        },
+        {
+          "page": 42,
+          "state": "valid",
+          "duration_seconds": 2724,
+          "transcript_chars": 13635,
+          "transcript_segments": 1171,
+          "last_segment_end": 2722.92,
+          "chars_per_minute": 300.3,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 93,
+          "errors": []
+        },
+        {
+          "page": 43,
+          "state": "valid",
+          "duration_seconds": 1048,
+          "transcript_chars": 5557,
+          "transcript_segments": 540,
+          "last_segment_end": 1047.42,
+          "chars_per_minute": 318.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 25,
+          "errors": []
+        },
+        {
+          "page": 44,
+          "state": "valid",
+          "duration_seconds": 2656,
+          "transcript_chars": 13221,
+          "transcript_segments": 1200,
+          "last_segment_end": 2654.42,
+          "chars_per_minute": 298.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 48,
+          "errors": []
+        },
+        {
+          "page": 45,
+          "state": "valid",
+          "duration_seconds": 4054,
+          "transcript_chars": 20856,
+          "transcript_segments": 1790,
+          "last_segment_end": 4053.18,
+          "chars_per_minute": 308.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 35,
+          "errors": []
+        },
+        {
+          "page": 46,
+          "state": "valid",
+          "duration_seconds": 1990,
+          "transcript_chars": 10203,
+          "transcript_segments": 829,
+          "last_segment_end": 1988.62,
+          "chars_per_minute": 307.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 46,
+          "errors": []
+        },
+        {
+          "page": 47,
+          "state": "valid",
+          "duration_seconds": 1384,
+          "transcript_chars": 7177,
+          "transcript_segments": 652,
+          "last_segment_end": 1383.2,
+          "chars_per_minute": 311.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 13,
+          "errors": []
+        },
+        {
+          "page": 48,
+          "state": "valid",
+          "duration_seconds": 5105,
+          "transcript_chars": 26852,
+          "transcript_segments": 2286,
+          "last_segment_end": 5104.26,
+          "chars_per_minute": 315.6,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 115,
+          "errors": []
+        },
+        {
+          "page": 49,
+          "state": "valid",
+          "duration_seconds": 3474,
+          "transcript_chars": 18149,
+          "transcript_segments": 1603,
+          "last_segment_end": 3472.94,
+          "chars_per_minute": 313.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 58,
+          "errors": []
+        },
+        {
+          "page": 50,
+          "state": "valid",
+          "duration_seconds": 2219,
+          "transcript_chars": 11455,
+          "transcript_segments": 1026,
+          "last_segment_end": 2218.1,
+          "chars_per_minute": 309.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 31,
+          "errors": []
+        }
+      ]
+    },
+    "writing_7": {
+      "expected_episodes": 48,
+      "valid_episodes": 48,
+      "duration_seconds": 51127,
+      "transcript_chars": 251566,
+      "transcript_segments": 22217,
+      "ocr_lines": 3712,
+      "episodes": [
+        {
+          "page": 1,
+          "state": "valid",
+          "duration_seconds": 1689,
+          "transcript_chars": 8355,
+          "transcript_segments": 709,
+          "last_segment_end": 1688.32,
+          "chars_per_minute": 296.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 61,
+          "errors": []
+        },
+        {
+          "page": 2,
+          "state": "valid",
+          "duration_seconds": 180,
+          "transcript_chars": 1013,
+          "transcript_segments": 67,
+          "last_segment_end": 179.88,
+          "chars_per_minute": 337.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 52,
+          "errors": []
+        },
+        {
+          "page": 3,
+          "state": "valid",
+          "duration_seconds": 621,
+          "transcript_chars": 3512,
+          "transcript_segments": 265,
+          "last_segment_end": 620.08,
+          "chars_per_minute": 339.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 61,
+          "errors": []
+        },
+        {
+          "page": 4,
+          "state": "valid",
+          "duration_seconds": 539,
+          "transcript_chars": 3180,
+          "transcript_segments": 231,
+          "last_segment_end": 538.06,
+          "chars_per_minute": 354.0,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 47,
+          "errors": []
+        },
+        {
+          "page": 5,
+          "state": "valid",
+          "duration_seconds": 378,
+          "transcript_chars": 2031,
+          "transcript_segments": 158,
+          "last_segment_end": 377.0,
+          "chars_per_minute": 322.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 70,
+          "errors": []
+        },
+        {
+          "page": 6,
+          "state": "valid",
+          "duration_seconds": 429,
+          "transcript_chars": 2334,
+          "transcript_segments": 207,
+          "last_segment_end": 428.14,
+          "chars_per_minute": 326.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 49,
+          "errors": []
+        },
+        {
+          "page": 7,
+          "state": "valid",
+          "duration_seconds": 796,
+          "transcript_chars": 4373,
+          "transcript_segments": 351,
+          "last_segment_end": 795.48,
+          "chars_per_minute": 329.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 34,
+          "errors": []
+        },
+        {
+          "page": 8,
+          "state": "valid",
+          "duration_seconds": 216,
+          "transcript_chars": 1220,
+          "transcript_segments": 102,
+          "last_segment_end": 215.5,
+          "chars_per_minute": 338.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 44,
+          "errors": []
+        },
+        {
+          "page": 9,
+          "state": "valid",
+          "duration_seconds": 472,
+          "transcript_chars": 2469,
+          "transcript_segments": 204,
+          "last_segment_end": 471.46,
+          "chars_per_minute": 313.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 71,
+          "errors": []
+        },
+        {
+          "page": 10,
+          "state": "valid",
+          "duration_seconds": 379,
+          "transcript_chars": 2101,
+          "transcript_segments": 168,
+          "last_segment_end": 378.68,
+          "chars_per_minute": 332.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 49,
+          "errors": []
+        },
+        {
+          "page": 11,
+          "state": "valid",
+          "duration_seconds": 1900,
+          "transcript_chars": 10232,
+          "transcript_segments": 905,
+          "last_segment_end": 1899.64,
+          "chars_per_minute": 323.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 58,
+          "errors": []
+        },
+        {
+          "page": 12,
+          "state": "valid",
+          "duration_seconds": 1341,
+          "transcript_chars": 6896,
+          "transcript_segments": 586,
+          "last_segment_end": 1340.12,
+          "chars_per_minute": 308.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 52,
+          "errors": []
+        },
+        {
+          "page": 13,
+          "state": "valid",
+          "duration_seconds": 5454,
+          "transcript_chars": 27254,
+          "transcript_segments": 2340,
+          "last_segment_end": 5453.16,
+          "chars_per_minute": 299.8,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 86,
+          "errors": []
+        },
+        {
+          "page": 14,
+          "state": "valid",
+          "duration_seconds": 309,
+          "transcript_chars": 1630,
+          "transcript_segments": 111,
+          "last_segment_end": 308.44,
+          "chars_per_minute": 316.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 74,
+          "errors": []
+        },
+        {
+          "page": 15,
+          "state": "valid",
+          "duration_seconds": 2354,
+          "transcript_chars": 11779,
+          "transcript_segments": 1011,
+          "last_segment_end": 2353.16,
+          "chars_per_minute": 300.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 59,
+          "errors": []
+        },
+        {
+          "page": 16,
+          "state": "valid",
+          "duration_seconds": 1428,
+          "transcript_chars": 6967,
+          "transcript_segments": 612,
+          "last_segment_end": 1427.0,
+          "chars_per_minute": 292.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 52,
+          "errors": []
+        },
+        {
+          "page": 17,
+          "state": "valid",
+          "duration_seconds": 1205,
+          "transcript_chars": 5975,
+          "transcript_segments": 576,
+          "last_segment_end": 1204.72,
+          "chars_per_minute": 297.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 54,
+          "errors": []
+        },
+        {
+          "page": 18,
+          "state": "valid",
+          "duration_seconds": 1304,
+          "transcript_chars": 6353,
+          "transcript_segments": 534,
+          "last_segment_end": 1302.74,
+          "chars_per_minute": 292.3,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 122,
+          "errors": []
+        },
+        {
+          "page": 19,
+          "state": "valid",
+          "duration_seconds": 1821,
+          "transcript_chars": 8674,
+          "transcript_segments": 747,
+          "last_segment_end": 1819.1,
+          "chars_per_minute": 285.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 85,
+          "errors": []
+        },
+        {
+          "page": 20,
+          "state": "valid",
+          "duration_seconds": 1218,
+          "transcript_chars": 5323,
+          "transcript_segments": 557,
+          "last_segment_end": 1217.42,
+          "chars_per_minute": 262.2,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 72,
+          "errors": []
+        },
+        {
+          "page": 21,
+          "state": "valid",
+          "duration_seconds": 1005,
+          "transcript_chars": 4254,
+          "transcript_segments": 420,
+          "last_segment_end": 1004.54,
+          "chars_per_minute": 254.0,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 115,
+          "errors": []
+        },
+        {
+          "page": 22,
+          "state": "valid",
+          "duration_seconds": 1222,
+          "transcript_chars": 5223,
+          "transcript_segments": 569,
+          "last_segment_end": 1221.84,
+          "chars_per_minute": 256.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 121,
+          "errors": []
+        },
+        {
+          "page": 23,
+          "state": "valid",
+          "duration_seconds": 831,
+          "transcript_chars": 3445,
+          "transcript_segments": 325,
+          "last_segment_end": 830.66,
+          "chars_per_minute": 248.7,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 101,
+          "errors": []
+        },
+        {
+          "page": 24,
+          "state": "valid",
+          "duration_seconds": 1096,
+          "transcript_chars": 4654,
+          "transcript_segments": 418,
+          "last_segment_end": 1095.78,
+          "chars_per_minute": 254.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 121,
+          "errors": []
+        },
+        {
+          "page": 25,
+          "state": "valid",
+          "duration_seconds": 1198,
+          "transcript_chars": 5145,
+          "transcript_segments": 490,
+          "last_segment_end": 1197.82,
+          "chars_per_minute": 257.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 112,
+          "errors": []
+        },
+        {
+          "page": 26,
+          "state": "valid",
+          "duration_seconds": 423,
+          "transcript_chars": 2238,
+          "transcript_segments": 203,
+          "last_segment_end": 422.46,
+          "chars_per_minute": 317.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 52,
+          "errors": []
+        },
+        {
+          "page": 27,
+          "state": "valid",
+          "duration_seconds": 3752,
+          "transcript_chars": 19119,
+          "transcript_segments": 1663,
+          "last_segment_end": 3751.58,
+          "chars_per_minute": 305.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 107,
+          "errors": []
+        },
+        {
+          "page": 28,
+          "state": "valid",
+          "duration_seconds": 746,
+          "transcript_chars": 3841,
+          "transcript_segments": 320,
+          "last_segment_end": 745.52,
+          "chars_per_minute": 308.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 97,
+          "errors": []
+        },
+        {
+          "page": 29,
+          "state": "valid",
+          "duration_seconds": 1042,
+          "transcript_chars": 5792,
+          "transcript_segments": 498,
+          "last_segment_end": 1041.2,
+          "chars_per_minute": 333.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 142,
+          "errors": []
+        },
+        {
+          "page": 30,
+          "state": "valid",
+          "duration_seconds": 674,
+          "transcript_chars": 3770,
+          "transcript_segments": 338,
+          "last_segment_end": 673.12,
+          "chars_per_minute": 335.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 153,
+          "errors": []
+        },
+        {
+          "page": 31,
+          "state": "valid",
+          "duration_seconds": 347,
+          "transcript_chars": 1815,
+          "transcript_segments": 134,
+          "last_segment_end": 346.72,
+          "chars_per_minute": 313.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 97,
+          "errors": []
+        },
+        {
+          "page": 32,
+          "state": "valid",
+          "duration_seconds": 613,
+          "transcript_chars": 3237,
+          "transcript_segments": 317,
+          "last_segment_end": 612.64,
+          "chars_per_minute": 316.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 58,
+          "errors": []
+        },
+        {
+          "page": 33,
+          "state": "valid",
+          "duration_seconds": 987,
+          "transcript_chars": 5494,
+          "transcript_segments": 431,
+          "last_segment_end": 986.12,
+          "chars_per_minute": 334.0,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 77,
+          "errors": []
+        },
+        {
+          "page": 34,
+          "state": "valid",
+          "duration_seconds": 511,
+          "transcript_chars": 2803,
+          "transcript_segments": 213,
+          "last_segment_end": 510.14,
+          "chars_per_minute": 329.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 65,
+          "errors": []
+        },
+        {
+          "page": 35,
+          "state": "valid",
+          "duration_seconds": 488,
+          "transcript_chars": 2530,
+          "transcript_segments": 220,
+          "last_segment_end": 488.82,
+          "chars_per_minute": 311.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 64,
+          "errors": []
+        },
+        {
+          "page": 36,
+          "state": "valid",
+          "duration_seconds": 1054,
+          "transcript_chars": 5775,
+          "transcript_segments": 466,
+          "last_segment_end": 1053.84,
+          "chars_per_minute": 328.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 60,
+          "errors": []
+        },
+        {
+          "page": 37,
+          "state": "valid",
+          "duration_seconds": 717,
+          "transcript_chars": 3717,
+          "transcript_segments": 320,
+          "last_segment_end": 716.8,
+          "chars_per_minute": 311.0,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 130,
+          "errors": []
+        },
+        {
+          "page": 38,
+          "state": "valid",
+          "duration_seconds": 767,
+          "transcript_chars": 3849,
+          "transcript_segments": 368,
+          "last_segment_end": 766.84,
+          "chars_per_minute": 301.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 85,
+          "errors": []
+        },
+        {
+          "page": 39,
+          "state": "valid",
+          "duration_seconds": 776,
+          "transcript_chars": 3731,
+          "transcript_segments": 330,
+          "last_segment_end": 774.96,
+          "chars_per_minute": 288.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 74,
+          "errors": []
+        },
+        {
+          "page": 40,
+          "state": "valid",
+          "duration_seconds": 701,
+          "transcript_chars": 3328,
+          "transcript_segments": 292,
+          "last_segment_end": 700.86,
+          "chars_per_minute": 284.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 80,
+          "errors": []
+        },
+        {
+          "page": 41,
+          "state": "valid",
+          "duration_seconds": 885,
+          "transcript_chars": 4506,
+          "transcript_segments": 382,
+          "last_segment_end": 884.16,
+          "chars_per_minute": 305.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 71,
+          "errors": []
+        },
+        {
+          "page": 42,
+          "state": "valid",
+          "duration_seconds": 1115,
+          "transcript_chars": 5474,
+          "transcript_segments": 455,
+          "last_segment_end": 1114.74,
+          "chars_per_minute": 294.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 68,
+          "errors": []
+        },
+        {
+          "page": 43,
+          "state": "valid",
+          "duration_seconds": 1071,
+          "transcript_chars": 4656,
+          "transcript_segments": 462,
+          "last_segment_end": 1070.0,
+          "chars_per_minute": 260.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 57,
+          "errors": []
+        },
+        {
+          "page": 44,
+          "state": "valid",
+          "duration_seconds": 826,
+          "transcript_chars": 3675,
+          "transcript_segments": 348,
+          "last_segment_end": 825.14,
+          "chars_per_minute": 266.9,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 66,
+          "errors": []
+        },
+        {
+          "page": 45,
+          "state": "valid",
+          "duration_seconds": 976,
+          "transcript_chars": 3885,
+          "transcript_segments": 405,
+          "last_segment_end": 975.36,
+          "chars_per_minute": 238.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 85,
+          "errors": []
+        },
+        {
+          "page": 46,
+          "state": "valid",
+          "duration_seconds": 1170,
+          "transcript_chars": 5248,
+          "transcript_segments": 522,
+          "last_segment_end": 1168.9,
+          "chars_per_minute": 269.1,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 86,
+          "errors": []
+        },
+        {
+          "page": 47,
+          "state": "valid",
+          "duration_seconds": 1083,
+          "transcript_chars": 4544,
+          "transcript_segments": 433,
+          "last_segment_end": 1082.36,
+          "chars_per_minute": 251.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 52,
+          "errors": []
+        },
+        {
+          "page": 48,
+          "state": "valid",
+          "duration_seconds": 1018,
+          "transcript_chars": 4147,
+          "transcript_segments": 434,
+          "last_segment_end": 1017.68,
+          "chars_per_minute": 244.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 64,
+          "errors": []
+        }
+      ]
+    },
+    "writing_33": {
+      "expected_episodes": 33,
+      "valid_episodes": 33,
+      "duration_seconds": 101002,
+      "transcript_chars": 533503,
+      "transcript_segments": 49427,
+      "ocr_lines": 2948,
+      "episodes": [
+        {
+          "page": 1,
+          "state": "valid",
+          "duration_seconds": 5754,
+          "transcript_chars": 28125,
+          "transcript_segments": 2872,
+          "last_segment_end": 5752.6,
+          "chars_per_minute": 293.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 63,
+          "errors": []
+        },
+        {
+          "page": 2,
+          "state": "valid",
+          "duration_seconds": 2698,
+          "transcript_chars": 15252,
+          "transcript_segments": 1519,
+          "last_segment_end": 2697.54,
+          "chars_per_minute": 339.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 130,
+          "errors": []
+        },
+        {
+          "page": 3,
+          "state": "valid",
+          "duration_seconds": 1386,
+          "transcript_chars": 7794,
+          "transcript_segments": 741,
+          "last_segment_end": 1384.96,
+          "chars_per_minute": 337.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 65,
+          "errors": []
+        },
+        {
+          "page": 4,
+          "state": "valid",
+          "duration_seconds": 10045,
+          "transcript_chars": 51265,
+          "transcript_segments": 5153,
+          "last_segment_end": 10044.58,
+          "chars_per_minute": 306.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 80,
+          "errors": []
+        },
+        {
+          "page": 5,
+          "state": "valid",
+          "duration_seconds": 2300,
+          "transcript_chars": 12019,
+          "transcript_segments": 1083,
+          "last_segment_end": 2299.28,
+          "chars_per_minute": 313.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 133,
+          "errors": []
+        },
+        {
+          "page": 6,
+          "state": "valid",
+          "duration_seconds": 1352,
+          "transcript_chars": 7016,
+          "transcript_segments": 610,
+          "last_segment_end": 1350.98,
+          "chars_per_minute": 311.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 64,
+          "errors": []
+        },
+        {
+          "page": 7,
+          "state": "valid",
+          "duration_seconds": 1517,
+          "transcript_chars": 7906,
+          "transcript_segments": 636,
+          "last_segment_end": 1516.24,
+          "chars_per_minute": 312.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 54,
+          "errors": []
+        },
+        {
+          "page": 8,
+          "state": "valid",
+          "duration_seconds": 5490,
+          "transcript_chars": 27476,
+          "transcript_segments": 2624,
+          "last_segment_end": 5489.3,
+          "chars_per_minute": 300.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 86,
+          "errors": []
+        },
+        {
+          "page": 9,
+          "state": "valid",
+          "duration_seconds": 3092,
+          "transcript_chars": 15568,
+          "transcript_segments": 1380,
+          "last_segment_end": 3091.8,
+          "chars_per_minute": 302.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 101,
+          "errors": []
+        },
+        {
+          "page": 10,
+          "state": "valid",
+          "duration_seconds": 4519,
+          "transcript_chars": 23444,
+          "transcript_segments": 2337,
+          "last_segment_end": 4517.82,
+          "chars_per_minute": 311.3,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 152,
+          "errors": []
+        },
+        {
+          "page": 11,
+          "state": "valid",
+          "duration_seconds": 1943,
+          "transcript_chars": 9856,
+          "transcript_segments": 949,
+          "last_segment_end": 1943.22,
+          "chars_per_minute": 304.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 90,
+          "errors": []
+        },
+        {
+          "page": 12,
+          "state": "valid",
+          "duration_seconds": 2603,
+          "transcript_chars": 14195,
+          "transcript_segments": 1420,
+          "last_segment_end": 2602.86,
+          "chars_per_minute": 327.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 69,
+          "errors": []
+        },
+        {
+          "page": 13,
+          "state": "valid",
+          "duration_seconds": 10333,
+          "transcript_chars": 58289,
+          "transcript_segments": 5117,
+          "last_segment_end": 10332.38,
+          "chars_per_minute": 338.5,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 139,
+          "errors": []
+        },
+        {
+          "page": 14,
+          "state": "valid",
+          "duration_seconds": 7947,
+          "transcript_chars": 40969,
+          "transcript_segments": 3678,
+          "last_segment_end": 7946.72,
+          "chars_per_minute": 309.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 105,
+          "errors": []
+        },
+        {
+          "page": 15,
+          "state": "valid",
+          "duration_seconds": 6852,
+          "transcript_chars": 37638,
+          "transcript_segments": 3506,
+          "last_segment_end": 6851.82,
+          "chars_per_minute": 329.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 94,
+          "errors": []
+        },
+        {
+          "page": 16,
+          "state": "valid",
+          "duration_seconds": 6273,
+          "transcript_chars": 32647,
+          "transcript_segments": 3045,
+          "last_segment_end": 6272.3,
+          "chars_per_minute": 312.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 79,
+          "errors": []
+        },
+        {
+          "page": 17,
+          "state": "valid",
+          "duration_seconds": 5266,
+          "transcript_chars": 28616,
+          "transcript_segments": 2531,
+          "last_segment_end": 5265.06,
+          "chars_per_minute": 326.0,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 85,
+          "errors": []
+        },
+        {
+          "page": 18,
+          "state": "valid",
+          "duration_seconds": 4445,
+          "transcript_chars": 23699,
+          "transcript_segments": 2163,
+          "last_segment_end": 4444.2,
+          "chars_per_minute": 319.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 78,
+          "errors": []
+        },
+        {
+          "page": 19,
+          "state": "valid",
+          "duration_seconds": 843,
+          "transcript_chars": 4682,
+          "transcript_segments": 382,
+          "last_segment_end": 842.46,
+          "chars_per_minute": 333.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 60,
+          "errors": []
+        },
+        {
+          "page": 20,
+          "state": "valid",
+          "duration_seconds": 1001,
+          "transcript_chars": 5351,
+          "transcript_segments": 536,
+          "last_segment_end": 1000.56,
+          "chars_per_minute": 320.7,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 124,
+          "errors": []
+        },
+        {
+          "page": 21,
+          "state": "valid",
+          "duration_seconds": 715,
+          "transcript_chars": 3681,
+          "transcript_segments": 358,
+          "last_segment_end": 714.56,
+          "chars_per_minute": 308.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 80,
+          "errors": []
+        },
+        {
+          "page": 22,
+          "state": "valid",
+          "duration_seconds": 1805,
+          "transcript_chars": 9544,
+          "transcript_segments": 860,
+          "last_segment_end": 1804.56,
+          "chars_per_minute": 317.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 77,
+          "errors": []
+        },
+        {
+          "page": 23,
+          "state": "valid",
+          "duration_seconds": 4233,
+          "transcript_chars": 23098,
+          "transcript_segments": 1905,
+          "last_segment_end": 4232.84,
+          "chars_per_minute": 327.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 109,
+          "errors": []
+        },
+        {
+          "page": 24,
+          "state": "valid",
+          "duration_seconds": 961,
+          "transcript_chars": 5176,
+          "transcript_segments": 485,
+          "last_segment_end": 960.16,
+          "chars_per_minute": 323.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 78,
+          "errors": []
+        },
+        {
+          "page": 25,
+          "state": "valid",
+          "duration_seconds": 960,
+          "transcript_chars": 5076,
+          "transcript_segments": 456,
+          "last_segment_end": 958.96,
+          "chars_per_minute": 317.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 73,
+          "errors": []
+        },
+        {
+          "page": 26,
+          "state": "valid",
+          "duration_seconds": 1244,
+          "transcript_chars": 6291,
+          "transcript_segments": 585,
+          "last_segment_end": 1243.9,
+          "chars_per_minute": 303.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 71,
+          "errors": []
+        },
+        {
+          "page": 27,
+          "state": "valid",
+          "duration_seconds": 650,
+          "transcript_chars": 3380,
+          "transcript_segments": 311,
+          "last_segment_end": 649.28,
+          "chars_per_minute": 312.0,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 163,
+          "errors": []
+        },
+        {
+          "page": 28,
+          "state": "valid",
+          "duration_seconds": 489,
+          "transcript_chars": 2520,
+          "transcript_segments": 187,
+          "last_segment_end": 488.12,
+          "chars_per_minute": 309.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 75,
+          "errors": []
+        },
+        {
+          "page": 29,
+          "state": "valid",
+          "duration_seconds": 528,
+          "transcript_chars": 2833,
+          "transcript_segments": 229,
+          "last_segment_end": 527.32,
+          "chars_per_minute": 321.9,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 131,
+          "errors": []
+        },
+        {
+          "page": 30,
+          "state": "valid",
+          "duration_seconds": 1434,
+          "transcript_chars": 7574,
+          "transcript_segments": 645,
+          "last_segment_end": 1433.72,
+          "chars_per_minute": 316.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 71,
+          "errors": []
+        },
+        {
+          "page": 31,
+          "state": "valid",
+          "duration_seconds": 602,
+          "transcript_chars": 3143,
+          "transcript_segments": 276,
+          "last_segment_end": 601.2,
+          "chars_per_minute": 313.3,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 47,
+          "errors": []
+        },
+        {
+          "page": 32,
+          "state": "valid",
+          "duration_seconds": 565,
+          "transcript_chars": 2942,
+          "transcript_segments": 279,
+          "last_segment_end": 564.04,
+          "chars_per_minute": 312.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 70,
+          "errors": []
+        },
+        {
+          "page": 33,
+          "state": "valid",
+          "duration_seconds": 1157,
+          "transcript_chars": 6438,
+          "transcript_segments": 569,
+          "last_segment_end": 1155.94,
+          "chars_per_minute": 333.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 52,
+          "errors": []
+        }
+      ]
+    },
+    "english_2": {
+      "expected_episodes": 29,
+      "valid_episodes": 29,
+      "duration_seconds": 48791,
+      "transcript_chars": 309880,
+      "transcript_segments": 26725,
+      "ocr_lines": 2661,
+      "episodes": [
+        {
+          "page": 1,
+          "state": "valid",
+          "duration_seconds": 110,
+          "transcript_chars": 584,
+          "transcript_segments": 43,
+          "last_segment_end": 108.88,
+          "chars_per_minute": 318.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 32,
+          "errors": []
+        },
+        {
+          "page": 2,
+          "state": "valid",
+          "duration_seconds": 2027,
+          "transcript_chars": 12571,
+          "transcript_segments": 1084,
+          "last_segment_end": 2026.14,
+          "chars_per_minute": 372.1,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 153,
+          "errors": []
+        },
+        {
+          "page": 3,
+          "state": "valid",
+          "duration_seconds": 408,
+          "transcript_chars": 2221,
+          "transcript_segments": 198,
+          "last_segment_end": 407.86,
+          "chars_per_minute": 326.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 92,
+          "errors": []
+        },
+        {
+          "page": 4,
+          "state": "valid",
+          "duration_seconds": 594,
+          "transcript_chars": 3631,
+          "transcript_segments": 302,
+          "last_segment_end": 593.42,
+          "chars_per_minute": 366.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 99,
+          "errors": []
+        },
+        {
+          "page": 5,
+          "state": "valid",
+          "duration_seconds": 2554,
+          "transcript_chars": 16123,
+          "transcript_segments": 1606,
+          "last_segment_end": 2552.38,
+          "chars_per_minute": 378.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 90,
+          "errors": []
+        },
+        {
+          "page": 6,
+          "state": "valid",
+          "duration_seconds": 2903,
+          "transcript_chars": 17836,
+          "transcript_segments": 1535,
+          "last_segment_end": 2901.82,
+          "chars_per_minute": 368.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 33,
+          "errors": []
+        },
+        {
+          "page": 7,
+          "state": "valid",
+          "duration_seconds": 2240,
+          "transcript_chars": 12951,
+          "transcript_segments": 1189,
+          "last_segment_end": 2239.92,
+          "chars_per_minute": 346.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 86,
+          "errors": []
+        },
+        {
+          "page": 8,
+          "state": "valid",
+          "duration_seconds": 2054,
+          "transcript_chars": 12852,
+          "transcript_segments": 1177,
+          "last_segment_end": 2052.98,
+          "chars_per_minute": 375.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 24,
+          "errors": []
+        },
+        {
+          "page": 9,
+          "state": "valid",
+          "duration_seconds": 1250,
+          "transcript_chars": 7419,
+          "transcript_segments": 734,
+          "last_segment_end": 1249.08,
+          "chars_per_minute": 356.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 69,
+          "errors": []
+        },
+        {
+          "page": 10,
+          "state": "valid",
+          "duration_seconds": 1789,
+          "transcript_chars": 11883,
+          "transcript_segments": 1118,
+          "last_segment_end": 1787.88,
+          "chars_per_minute": 398.5,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 125,
+          "errors": []
+        },
+        {
+          "page": 11,
+          "state": "valid",
+          "duration_seconds": 1624,
+          "transcript_chars": 9789,
+          "transcript_segments": 926,
+          "last_segment_end": 1623.28,
+          "chars_per_minute": 361.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 84,
+          "errors": []
+        },
+        {
+          "page": 12,
+          "state": "valid",
+          "duration_seconds": 3123,
+          "transcript_chars": 19544,
+          "transcript_segments": 1765,
+          "last_segment_end": 3122.02,
+          "chars_per_minute": 375.5,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 112,
+          "errors": []
+        },
+        {
+          "page": 13,
+          "state": "valid",
+          "duration_seconds": 2039,
+          "transcript_chars": 13247,
+          "transcript_segments": 1119,
+          "last_segment_end": 2037.96,
+          "chars_per_minute": 389.8,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 156,
+          "errors": []
+        },
+        {
+          "page": 14,
+          "state": "valid",
+          "duration_seconds": 3088,
+          "transcript_chars": 19311,
+          "transcript_segments": 1774,
+          "last_segment_end": 3085.46,
+          "chars_per_minute": 375.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 98,
+          "errors": []
+        },
+        {
+          "page": 15,
+          "state": "valid",
+          "duration_seconds": 846,
+          "transcript_chars": 4487,
+          "transcript_segments": 465,
+          "last_segment_end": 844.26,
+          "chars_per_minute": 318.2,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 97,
+          "errors": []
+        },
+        {
+          "page": 16,
+          "state": "valid",
+          "duration_seconds": 1100,
+          "transcript_chars": 7329,
+          "transcript_segments": 574,
+          "last_segment_end": 1099.0,
+          "chars_per_minute": 399.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 57,
+          "errors": []
+        },
+        {
+          "page": 17,
+          "state": "valid",
+          "duration_seconds": 1603,
+          "transcript_chars": 11139,
+          "transcript_segments": 999,
+          "last_segment_end": 1601.86,
+          "chars_per_minute": 416.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 87,
+          "errors": []
+        },
+        {
+          "page": 18,
+          "state": "valid",
+          "duration_seconds": 1629,
+          "transcript_chars": 9607,
+          "transcript_segments": 978,
+          "last_segment_end": 1628.24,
+          "chars_per_minute": 353.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 108,
+          "errors": []
+        },
+        {
+          "page": 19,
+          "state": "valid",
+          "duration_seconds": 3275,
+          "transcript_chars": 18708,
+          "transcript_segments": 1727,
+          "last_segment_end": 3273.84,
+          "chars_per_minute": 342.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 124,
+          "errors": []
+        },
+        {
+          "page": 20,
+          "state": "valid",
+          "duration_seconds": 1699,
+          "transcript_chars": 10330,
+          "transcript_segments": 801,
+          "last_segment_end": 1698.4,
+          "chars_per_minute": 364.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 130,
+          "errors": []
+        },
+        {
+          "page": 21,
+          "state": "valid",
+          "duration_seconds": 1199,
+          "transcript_chars": 7948,
+          "transcript_segments": 778,
+          "last_segment_end": 1197.9,
+          "chars_per_minute": 397.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 146,
+          "errors": []
+        },
+        {
+          "page": 22,
+          "state": "valid",
+          "duration_seconds": 547,
+          "transcript_chars": 2957,
+          "transcript_segments": 246,
+          "last_segment_end": 546.26,
+          "chars_per_minute": 324.4,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 66,
+          "errors": []
+        },
+        {
+          "page": 23,
+          "state": "valid",
+          "duration_seconds": 353,
+          "transcript_chars": 2154,
+          "transcript_segments": 144,
+          "last_segment_end": 352.42,
+          "chars_per_minute": 366.1,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 89,
+          "errors": []
+        },
+        {
+          "page": 24,
+          "state": "valid",
+          "duration_seconds": 3408,
+          "transcript_chars": 24287,
+          "transcript_segments": 1280,
+          "last_segment_end": 3406.96,
+          "chars_per_minute": 427.6,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 88,
+          "errors": []
+        },
+        {
+          "page": 25,
+          "state": "valid",
+          "duration_seconds": 1512,
+          "transcript_chars": 8735,
+          "transcript_segments": 791,
+          "last_segment_end": 1511.4,
+          "chars_per_minute": 346.6,
+          "contact_sheet_pixels": [
+            1950,
+            834
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 93,
+          "errors": []
+        },
+        {
+          "page": 26,
+          "state": "valid",
+          "duration_seconds": 761,
+          "transcript_chars": 4653,
+          "transcript_segments": 466,
+          "last_segment_end": 760.32,
+          "chars_per_minute": 366.9,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 77,
+          "errors": []
+        },
+        {
+          "page": 27,
+          "state": "valid",
+          "duration_seconds": 429,
+          "transcript_chars": 2816,
+          "transcript_segments": 265,
+          "last_segment_end": 427.4,
+          "chars_per_minute": 393.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 35,
+          "errors": []
+        },
+        {
+          "page": 28,
+          "state": "valid",
+          "duration_seconds": 2195,
+          "transcript_chars": 19818,
+          "transcript_segments": 1262,
+          "last_segment_end": 2194.72,
+          "chars_per_minute": 541.7,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 113,
+          "errors": []
+        },
+        {
+          "page": 29,
+          "state": "valid",
+          "duration_seconds": 2432,
+          "transcript_chars": 14950,
+          "transcript_segments": 1379,
+          "last_segment_end": 2431.3,
+          "chars_per_minute": 368.8,
+          "contact_sheet_pixels": [
+            1950,
+            918
+          ],
+          "ocr_frames": 12,
+          "ocr_lines": 98,
+          "errors": []
+        }
+      ]
+    }
+  }
+}

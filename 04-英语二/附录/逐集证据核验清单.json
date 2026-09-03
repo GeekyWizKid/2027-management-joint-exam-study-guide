@@ -1,0 +1,412 @@
+{
+  "generated_at": "2026-09-03",
+  "episode_count": 29,
+  "episodes": [
+    {
+      "course": "英语二",
+      "id": "P01",
+      "title": "后台回复关键词【7讲】， 可免费参与【7讲带学打卡】",
+      "duration": "00:01:50",
+      "transcript_chars": 585,
+      "transcript_segments": 43,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 32,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=1"
+    },
+    {
+      "course": "英语二",
+      "id": "P02",
+      "title": "1-1考研大纲解读",
+      "duration": "00:33:47",
+      "transcript_chars": 12572,
+      "transcript_segments": 1084,
+      "contact_sheet_pixels": [
+        1950,
+        834
+      ],
+      "board_ocr_lines": 153,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=2"
+    },
+    {
+      "course": "英语二",
+      "id": "P03",
+      "title": "1-2考研题型分析",
+      "duration": "00:06:48",
+      "transcript_chars": 2222,
+      "transcript_segments": 198,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 92,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=3"
+    },
+    {
+      "course": "英语二",
+      "id": "P04",
+      "title": "1-3备考指导",
+      "duration": "00:09:54",
+      "transcript_chars": 3632,
+      "transcript_segments": 302,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 99,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=4"
+    },
+    {
+      "course": "英语二",
+      "id": "P05",
+      "title": "2-1完型命题分析",
+      "duration": "00:42:34",
+      "transcript_chars": 16124,
+      "transcript_segments": 1606,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 90,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=5"
+    },
+    {
+      "course": "英语二",
+      "id": "P06",
+      "title": "2-2完型解题技巧",
+      "duration": "00:48:23",
+      "transcript_chars": 17837,
+      "transcript_segments": 1535,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 33,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=6"
+    },
+    {
+      "course": "英语二",
+      "id": "P07",
+      "title": "2-3完型技巧训练01",
+      "duration": "00:37:20",
+      "transcript_chars": 12952,
+      "transcript_segments": 1189,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 86,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=7"
+    },
+    {
+      "course": "英语二",
+      "id": "P08",
+      "title": "2-4完型技巧训练02",
+      "duration": "00:34:14",
+      "transcript_chars": 12853,
+      "transcript_segments": 1177,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 24,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=8"
+    },
+    {
+      "course": "英语二",
+      "id": "P09",
+      "title": "3-1阅读理解命题分析",
+      "duration": "00:20:50",
+      "transcript_chars": 7420,
+      "transcript_segments": 734,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 69,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=9"
+    },
+    {
+      "course": "英语二",
+      "id": "P10",
+      "title": "3-2阅读理解解题技巧上",
+      "duration": "00:29:49",
+      "transcript_chars": 11884,
+      "transcript_segments": 1118,
+      "contact_sheet_pixels": [
+        1950,
+        834
+      ],
+      "board_ocr_lines": 125,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=10"
+    },
+    {
+      "course": "英语二",
+      "id": "P11",
+      "title": "3-2阅读理解解题技巧下",
+      "duration": "00:27:04",
+      "transcript_chars": 9790,
+      "transcript_segments": 926,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 84,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=11"
+    },
+    {
+      "course": "英语二",
+      "id": "P12",
+      "title": "3-3阅读理解技巧训练01",
+      "duration": "00:52:03",
+      "transcript_chars": 19545,
+      "transcript_segments": 1765,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 112,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=12"
+    },
+    {
+      "course": "英语二",
+      "id": "P13",
+      "title": "3-3阅读理解技巧训练02",
+      "duration": "00:33:59",
+      "transcript_chars": 13248,
+      "transcript_segments": 1119,
+      "contact_sheet_pixels": [
+        1950,
+        834
+      ],
+      "board_ocr_lines": 156,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=13"
+    },
+    {
+      "course": "英语二",
+      "id": "P14",
+      "title": "3-3阅读理解技巧训练03",
+      "duration": "00:51:28",
+      "transcript_chars": 19312,
+      "transcript_segments": 1774,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 98,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=14"
+    },
+    {
+      "course": "英语二",
+      "id": "P15",
+      "title": "4-1&4-2新题型命题分析&解题技巧",
+      "duration": "00:14:06",
+      "transcript_chars": 4488,
+      "transcript_segments": 465,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 97,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=15"
+    },
+    {
+      "course": "英语二",
+      "id": "P16",
+      "title": "4-3新题型技巧训练01",
+      "duration": "00:18:20",
+      "transcript_chars": 7330,
+      "transcript_segments": 574,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 57,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=16"
+    },
+    {
+      "course": "英语二",
+      "id": "P17",
+      "title": "4-3新题型技巧训练02",
+      "duration": "00:26:43",
+      "transcript_chars": 11140,
+      "transcript_segments": 999,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 87,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=17"
+    },
+    {
+      "course": "英语二",
+      "id": "P18",
+      "title": "5-2.2英汉思维差异下",
+      "duration": "00:27:09",
+      "transcript_chars": 9608,
+      "transcript_segments": 978,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 108,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=18"
+    },
+    {
+      "course": "英语二",
+      "id": "P19",
+      "title": "5-2.3常用翻译技巧上",
+      "duration": "00:54:35",
+      "transcript_chars": 18709,
+      "transcript_segments": 1727,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 124,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=19"
+    },
+    {
+      "course": "英语二",
+      "id": "P20",
+      "title": "5-2.4常用翻译技巧下",
+      "duration": "00:28:19",
+      "transcript_chars": 10331,
+      "transcript_segments": 801,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 130,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=20"
+    },
+    {
+      "course": "英语二",
+      "id": "P21",
+      "title": "5-3翻译技巧训练",
+      "duration": "00:19:59",
+      "transcript_chars": 7949,
+      "transcript_segments": 778,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 146,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=21"
+    },
+    {
+      "course": "英语二",
+      "id": "P22",
+      "title": "6-1小作文命题分析（王良超）",
+      "duration": "00:09:07",
+      "transcript_chars": 2958,
+      "transcript_segments": 246,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 66,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=22"
+    },
+    {
+      "course": "英语二",
+      "id": "P23",
+      "title": "6-2小作文其他应用性作文技巧（王良超）",
+      "duration": "00:05:53",
+      "transcript_chars": 2155,
+      "transcript_segments": 144,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 89,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=23"
+    },
+    {
+      "course": "英语二",
+      "id": "P24",
+      "title": "6-2小作文书信类作文技巧（王良超）",
+      "duration": "00:56:48",
+      "transcript_chars": 24288,
+      "transcript_segments": 1280,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 88,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=24"
+    },
+    {
+      "course": "英语二",
+      "id": "P25",
+      "title": "6-3小作文真题演练",
+      "duration": "00:25:12",
+      "transcript_chars": 8736,
+      "transcript_segments": 791,
+      "contact_sheet_pixels": [
+        1950,
+        834
+      ],
+      "board_ocr_lines": 93,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=25"
+    },
+    {
+      "course": "英语二",
+      "id": "P26",
+      "title": "7-1大作文命题分析",
+      "duration": "00:12:41",
+      "transcript_chars": 4654,
+      "transcript_segments": 466,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 77,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=26"
+    },
+    {
+      "course": "英语二",
+      "id": "P27",
+      "title": "7-2大作文写作技巧",
+      "duration": "00:07:09",
+      "transcript_chars": 2817,
+      "transcript_segments": 265,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 35,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=27"
+    },
+    {
+      "course": "英语二",
+      "id": "P28",
+      "title": "7-2写作必备句型",
+      "duration": "00:36:35",
+      "transcript_chars": 19819,
+      "transcript_segments": 1262,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 113,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=28"
+    },
+    {
+      "course": "英语二",
+      "id": "P29",
+      "title": "7-3大作文真题演练",
+      "duration": "00:40:32",
+      "transcript_chars": 14951,
+      "transcript_segments": 1379,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 98,
+      "source_url": "https://www.bilibili.com/video/BV1gj421D7c9?p=29"
+    }
+  ]
+}

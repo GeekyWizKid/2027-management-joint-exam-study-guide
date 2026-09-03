@@ -1,0 +1,706 @@
+{
+  "generated_at": "2026-09-03",
+  "episode_count": 50,
+  "episodes": [
+    {
+      "course": "逻辑",
+      "id": "P01",
+      "title": "必看-逻辑大纲解读与命题规律分析",
+      "duration": "00:57:50",
+      "transcript_chars": 18395,
+      "transcript_segments": 1774,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 93,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=1"
+    },
+    {
+      "course": "逻辑",
+      "id": "P02",
+      "title": "必看-逻辑数学高分方法论（上）",
+      "duration": "00:34:27",
+      "transcript_chars": 12363,
+      "transcript_segments": 1378,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 111,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=2"
+    },
+    {
+      "course": "逻辑",
+      "id": "P03",
+      "title": "必看-逻辑数学高分方法论（下）",
+      "duration": "01:09:09",
+      "transcript_chars": 22396,
+      "transcript_segments": 2527,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 110,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=3"
+    },
+    {
+      "course": "逻辑",
+      "id": "P04",
+      "title": "必看-管综、经综全年备考规划",
+      "duration": "00:10:51",
+      "transcript_chars": 4159,
+      "transcript_segments": 404,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 97,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=4"
+    },
+    {
+      "course": "逻辑",
+      "id": "P05",
+      "title": "第1讲 模块1 第1节 假言命题",
+      "duration": "00:59:22",
+      "transcript_chars": 19781,
+      "transcript_segments": 1769,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 46,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=5"
+    },
+    {
+      "course": "逻辑",
+      "id": "P06",
+      "title": "第1讲 模块1 第2节 联言选言命题",
+      "duration": "01:27:13",
+      "transcript_chars": 27377,
+      "transcript_segments": 2493,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 55,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=6"
+    },
+    {
+      "course": "逻辑",
+      "id": "P07",
+      "title": "第1讲 模块1 第2节 专项训练1.1",
+      "duration": "00:37:13",
+      "transcript_chars": 11512,
+      "transcript_segments": 1107,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 54,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=7"
+    },
+    {
+      "course": "逻辑",
+      "id": "P08",
+      "title": "第1讲 模块2 第1节 性质命题与模态命题",
+      "duration": "00:42:13",
+      "transcript_chars": 13972,
+      "transcript_segments": 1257,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 38,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=8"
+    },
+    {
+      "course": "逻辑",
+      "id": "P09",
+      "title": "第1讲 模块2 第2节 负命题",
+      "duration": "00:41:54",
+      "transcript_chars": 13349,
+      "transcript_segments": 1227,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 55,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=9"
+    },
+    {
+      "course": "逻辑",
+      "id": "P10",
+      "title": "第1讲 模块2 第3节 关系命题",
+      "duration": "00:09:41",
+      "transcript_chars": 3183,
+      "transcript_segments": 250,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 33,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=10"
+    },
+    {
+      "course": "逻辑",
+      "id": "P11",
+      "title": "第1讲 模块3 第1节 概念与定义",
+      "duration": "00:20:07",
+      "transcript_chars": 6615,
+      "transcript_segments": 571,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 48,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=11"
+    },
+    {
+      "course": "逻辑",
+      "id": "P12",
+      "title": "第1讲 模块3 第2节 概念间的关系",
+      "duration": "00:10:17",
+      "transcript_chars": 3237,
+      "transcript_segments": 289,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 35,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=12"
+    },
+    {
+      "course": "逻辑",
+      "id": "P13",
+      "title": "第1讲 模块3 第3节 概念的划分",
+      "duration": "00:04:46",
+      "transcript_chars": 1511,
+      "transcript_segments": 132,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 39,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=13"
+    },
+    {
+      "course": "逻辑",
+      "id": "P14",
+      "title": "第1讲 模块3 第3节 专项训练1.2",
+      "duration": "00:41:14",
+      "transcript_chars": 13251,
+      "transcript_segments": 1313,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 44,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=14"
+    },
+    {
+      "course": "逻辑",
+      "id": "P15",
+      "title": "第2讲 第1节 5大条件的识别与条件优先级原则",
+      "duration": "00:30:28",
+      "transcript_chars": 10206,
+      "transcript_segments": 959,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 35,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=15"
+    },
+    {
+      "course": "逻辑",
+      "id": "P16",
+      "title": "第2讲 第2节 5大条件类核心母题模型1 事实假言模型",
+      "duration": "00:38:32",
+      "transcript_chars": 12157,
+      "transcript_segments": 1047,
+      "contact_sheet_pixels": [
+        1950,
+        834
+      ],
+      "board_ocr_lines": 98,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=16"
+    },
+    {
+      "course": "逻辑",
+      "id": "P17",
+      "title": "第2讲 第2节 5大条件类核心母题模型2 半事实假言模型",
+      "duration": "00:25:32",
+      "transcript_chars": 8191,
+      "transcript_segments": 747,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 33,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=17"
+    },
+    {
+      "course": "逻辑",
+      "id": "P18",
+      "title": "第2讲 第2节 5大条件类核心母题模型3 假言推事实模型",
+      "duration": "00:47:30",
+      "transcript_chars": 15344,
+      "transcript_segments": 1276,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 47,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=18"
+    },
+    {
+      "course": "逻辑",
+      "id": "P19",
+      "title": "第2讲 第2节 5大条件类核心母题模型4 数量关系模型",
+      "duration": "00:16:19",
+      "transcript_chars": 4938,
+      "transcript_segments": 471,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 28,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=19"
+    },
+    {
+      "course": "逻辑",
+      "id": "P20",
+      "title": "第2讲 第2节 5大条件类核心母题模型5 匹配模型（无假言）",
+      "duration": "00:32:04",
+      "transcript_chars": 10473,
+      "transcript_segments": 1028,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 20,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=20"
+    },
+    {
+      "course": "逻辑",
+      "id": "P21",
+      "title": "第2讲 第2节 5大条件类核心母题模型6 5大条件综合应用题",
+      "duration": "00:25:31",
+      "transcript_chars": 8440,
+      "transcript_segments": 749,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 39,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=21"
+    },
+    {
+      "course": "逻辑",
+      "id": "P22",
+      "title": "第2讲 第3节 5大条件类其他母题模型7",
+      "duration": "00:10:46",
+      "transcript_chars": 3570,
+      "transcript_segments": 322,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 42,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=22"
+    },
+    {
+      "course": "逻辑",
+      "id": "P23",
+      "title": "第2讲 第3节 5大条件类其他母题模型8",
+      "duration": "00:08:43",
+      "transcript_chars": 2839,
+      "transcript_segments": 229,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 28,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=23"
+    },
+    {
+      "course": "逻辑",
+      "id": "P24",
+      "title": "第2讲 专项训练2",
+      "duration": "01:54:18",
+      "transcript_chars": 37634,
+      "transcript_segments": 3347,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 14,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=24"
+    },
+    {
+      "course": "逻辑",
+      "id": "P25",
+      "title": "第3讲 第1节 与性质命题有关的推理题-母题模型9",
+      "duration": "00:50:19",
+      "transcript_chars": 15515,
+      "transcript_segments": 1487,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 57,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=25"
+    },
+    {
+      "course": "逻辑",
+      "id": "P26",
+      "title": "第3讲 第1节 与性质命题有关的推理题-母题模型10",
+      "duration": "00:19:51",
+      "transcript_chars": 5904,
+      "transcript_segments": 549,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 21,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=26"
+    },
+    {
+      "course": "逻辑",
+      "id": "P27",
+      "title": "第3讲 第2节 真假话问题-母题模型11",
+      "duration": "01:01:13",
+      "transcript_chars": 19315,
+      "transcript_segments": 1674,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 71,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=27"
+    },
+    {
+      "course": "逻辑",
+      "id": "P28",
+      "title": "第3讲 第3节 其他推理题-母题模型12",
+      "duration": "00:13:03",
+      "transcript_chars": 4410,
+      "transcript_segments": 355,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 42,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=28"
+    },
+    {
+      "course": "逻辑",
+      "id": "P29",
+      "title": "第3讲 第3节 其他推理题-母题模型13",
+      "duration": "00:29:58",
+      "transcript_chars": 8183,
+      "transcript_segments": 836,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 54,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=29"
+    },
+    {
+      "course": "逻辑",
+      "id": "P30",
+      "title": "第3讲 第3节 其他推理题-母题模型14",
+      "duration": "00:08:11",
+      "transcript_chars": 2543,
+      "transcript_segments": 218,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 47,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=30"
+    },
+    {
+      "course": "逻辑",
+      "id": "P31",
+      "title": "第3讲 专项训练3",
+      "duration": "01:35:16",
+      "transcript_chars": 30916,
+      "transcript_segments": 2838,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 39,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=31"
+    },
+    {
+      "course": "逻辑",
+      "id": "P32",
+      "title": "第4讲 第1节 什么是论证",
+      "duration": "00:16:59",
+      "transcript_chars": 5815,
+      "transcript_segments": 486,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 39,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=32"
+    },
+    {
+      "course": "逻辑",
+      "id": "P33",
+      "title": "第4讲 第2节 削弱题的母题模型15变式15.1",
+      "duration": "01:06:05",
+      "transcript_chars": 21811,
+      "transcript_segments": 1901,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 69,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=33"
+    },
+    {
+      "course": "逻辑",
+      "id": "P34",
+      "title": "第4讲 第2节 削弱题的母题模型15变式15.2",
+      "duration": "01:17:41",
+      "transcript_chars": 24099,
+      "transcript_segments": 2081,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 84,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=34"
+    },
+    {
+      "course": "逻辑",
+      "id": "P35",
+      "title": "第4讲 第2节 削弱题的母题模型15变式15.3-15.5",
+      "duration": "01:00:22",
+      "transcript_chars": 19579,
+      "transcript_segments": 1853,
+      "contact_sheet_pixels": [
+        1950,
+        834
+      ],
+      "board_ocr_lines": 117,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=35"
+    },
+    {
+      "course": "逻辑",
+      "id": "P36",
+      "title": "第4讲 第2节 削弱题的母题模型16变式16.1-16.3",
+      "duration": "00:52:27",
+      "transcript_chars": 17269,
+      "transcript_segments": 1559,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 58,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=36"
+    },
+    {
+      "course": "逻辑",
+      "id": "P37",
+      "title": "第4讲 第2节 削弱题的母题模型16变式16.4",
+      "duration": "00:57:35",
+      "transcript_chars": 18372,
+      "transcript_segments": 1666,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 65,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=37"
+    },
+    {
+      "course": "逻辑",
+      "id": "P38",
+      "title": "第4讲 第2节 削弱题的母题模型16变式16.5",
+      "duration": "00:22:23",
+      "transcript_chars": 7248,
+      "transcript_segments": 661,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 53,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=38"
+    },
+    {
+      "course": "逻辑",
+      "id": "P39",
+      "title": "第4讲 第3节 削弱论点与削弱论证的综合应用",
+      "duration": "00:34:09",
+      "transcript_chars": 11046,
+      "transcript_segments": 931,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 47,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=39"
+    },
+    {
+      "course": "逻辑",
+      "id": "P40",
+      "title": "第4讲 专项训练4",
+      "duration": "01:09:17",
+      "transcript_chars": 21691,
+      "transcript_segments": 1819,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 64,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=40"
+    },
+    {
+      "course": "逻辑",
+      "id": "P41",
+      "title": "第5讲 第1节 支持题的母题模型17",
+      "duration": "01:07:17",
+      "transcript_chars": 20831,
+      "transcript_segments": 1829,
+      "contact_sheet_pixels": [
+        1950,
+        834
+      ],
+      "board_ocr_lines": 29,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=41"
+    },
+    {
+      "course": "逻辑",
+      "id": "P42",
+      "title": "第5讲 第1节 支持题的母题模型18",
+      "duration": "00:45:24",
+      "transcript_chars": 13636,
+      "transcript_segments": 1171,
+      "contact_sheet_pixels": [
+        1950,
+        834
+      ],
+      "board_ocr_lines": 93,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=42"
+    },
+    {
+      "course": "逻辑",
+      "id": "P43",
+      "title": "第5讲 第2节 支持论点与支持论证的综合应用",
+      "duration": "00:17:28",
+      "transcript_chars": 5558,
+      "transcript_segments": 540,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 25,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=43"
+    },
+    {
+      "course": "逻辑",
+      "id": "P44",
+      "title": "第5讲 第3节 假设题的母题模型19",
+      "duration": "00:44:16",
+      "transcript_chars": 13222,
+      "transcript_segments": 1200,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 48,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=44"
+    },
+    {
+      "course": "逻辑",
+      "id": "P45",
+      "title": "第5讲 专项训练5",
+      "duration": "01:07:34",
+      "transcript_chars": 20857,
+      "transcript_segments": 1790,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 35,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=45"
+    },
+    {
+      "course": "逻辑",
+      "id": "P46",
+      "title": "第6讲 解释题-母题模型20",
+      "duration": "00:33:10",
+      "transcript_chars": 10204,
+      "transcript_segments": 829,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 46,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=46"
+    },
+    {
+      "course": "逻辑",
+      "id": "P47",
+      "title": "第6讲 专项训练6",
+      "duration": "00:23:04",
+      "transcript_chars": 7178,
+      "transcript_segments": 652,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 13,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=47"
+    },
+    {
+      "course": "逻辑",
+      "id": "P48",
+      "title": "第7讲 论证评价题-母题模型21变式21.1-21.5",
+      "duration": "01:25:05",
+      "transcript_chars": 26853,
+      "transcript_segments": 2286,
+      "contact_sheet_pixels": [
+        1950,
+        834
+      ],
+      "board_ocr_lines": 115,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=48"
+    },
+    {
+      "course": "逻辑",
+      "id": "P49",
+      "title": "第7讲 论证评价题-母题模型21变式21.6-21.7",
+      "duration": "00:57:54",
+      "transcript_chars": 18150,
+      "transcript_segments": 1603,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 58,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=49"
+    },
+    {
+      "course": "逻辑",
+      "id": "P50",
+      "title": "第7讲 专项训练7",
+      "duration": "00:36:59",
+      "transcript_chars": 11456,
+      "transcript_segments": 1026,
+      "contact_sheet_pixels": [
+        1950,
+        918
+      ],
+      "board_ocr_lines": 31,
+      "source_url": "https://www.bilibili.com/video/BV1ypPjzjEac?p=50"
+    }
+  ]
+}
