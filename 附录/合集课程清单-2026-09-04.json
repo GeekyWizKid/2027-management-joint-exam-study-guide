@@ -1,14 +1,22 @@
 {
   "season_source_bvid": "BV1p4PjzCErd",
-  "fetched_at": "2026-09-03T17:09:33+0800",
+  "fetched_at": "2026-09-04T00:10:29+0800",
   "courses": [
     {
-      "key": "logic",
-      "bvid": "BV1ypPjzjEac",
-      "title": "【已完结】27新版老吕逻辑要点7讲/管综逻辑、经综逻辑零基础入门及高分备考方案/管理类联考、经济类联考系统课程/MBA、MEM、MPAcc、会计专硕、审计专硕",
-      "page_count": 50,
-      "duration_seconds": 125340,
-      "duration": "34:49:00"
+      "key": "logic_argument",
+      "bvid": "BV1KW411S7ea",
+      "title": "2027管理类联考-【逻辑系统课】论证推理/199管综逻辑/薛睿/【MBA大师】",
+      "page_count": 72,
+      "duration_seconds": 87298,
+      "duration": "24:14:58"
+    },
+    {
+      "key": "logic_formal",
+      "bvid": "BV1As4y1E7Rz",
+      "title": "2027管理类考研 -【形式逻辑＆分析推理】/199管综/薛睿/全新逻辑系统课【MBA大师】",
+      "page_count": 63,
+      "duration_seconds": 91718,
+      "duration": "25:28:38"
     },
     {
       "key": "math",
@@ -43,7 +51,7 @@
       "duration": "13:33:11"
     }
   ],
-  "total_parts": 243,
-  "total_duration_seconds": 515024,
-  "total_duration": "143:03:44"
+  "total_parts": 328,
+  "total_duration_seconds": 568700,
+  "total_duration": "157:58:20"
 }
