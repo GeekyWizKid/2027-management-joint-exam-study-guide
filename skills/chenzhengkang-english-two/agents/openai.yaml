@@ -1,0 +1,4 @@
+interface:
+  display_name: "陈正康·英语二方法"
+  short_description: "按课程证据链讲解英语二、批改表达并定位首次误判与课程回看"
+  default_prompt: "请使用 $chenzhengkang-english-two 按题干、定位、证据、排错四步讲解，并诊断我的首次误判。"

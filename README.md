@@ -12,6 +12,7 @@
 6. [328 集总回看索引](附录/328集总回看索引.md)
 7. [全学期资料完整性与使用边界](附录/资料完整性与使用边界.md)
 8. [非数学 245 集逐集源证据审计报告](附录/非数学245集逐集源证据审计报告.json)
+9. [4 个可调用课程 Skills](skills/README.md)
 
 ## 文件说明
 
@@ -19,6 +20,16 @@
 - `.docx` 用于 Word/WPS 阅读和打印；同名 Markdown 用于搜索、编辑和查看 Mermaid 源码。
 - `分讲文档/` 可按模块单独打开；`附录/` 用于快速回看、模型或题型路由。
 - 压缩包和文件夹根目录均含 SHA-256 清单，便于核验传输完整性。
+- `skills/` 收录数学、逻辑、写作和英语二四个可安装 Codex Skill，含调用配置、课程路由、来源边界与验证记录。
+
+## 可调用课程 Skills
+
+- [`laolv-laoluo-guanzong-math`](skills/laolv-laoluo-guanzong-math/SKILL.md)：老吕、老罗管综数学。
+- [`xuerui-guanzong-logic`](skills/xuerui-guanzong-logic/SKILL.md)：薛睿形式逻辑、分析推理与论证推理。
+- [`laolv-guanzong-writing`](skills/laolv-guanzong-writing/SKILL.md)：老吕管综写作。
+- [`chenzhengkang-english-two`](skills/chenzhengkang-english-two/SKILL.md)：陈正康英语二。
+
+安装方法与调用示例见 [Skills 使用说明](skills/README.md)。
 
 ## 完整性摘要
 

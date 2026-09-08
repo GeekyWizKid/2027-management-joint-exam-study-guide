@@ -1,0 +1,4 @@
+interface:
+  display_name: "老吕·管综写作方法"
+  short_description: "按课程方法完成管综写作审题、成文、批改并定位专项训练分集"
+  default_prompt: "请使用 $laolv-guanzong-writing 按课程方法审题或批改，给出立意边界、最大失分点和可执行修改。"

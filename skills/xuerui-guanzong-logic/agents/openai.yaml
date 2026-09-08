@@ -1,0 +1,4 @@
+interface:
+  display_name: "薛睿·管综逻辑方法"
+  short_description: "按两套互补课程解答管综逻辑、诊断推理缺口并精准回看课程分集"
+  default_prompt: "请使用 $xuerui-guanzong-logic 标准化这道逻辑题，逐步裁决选项，并指出我的首次推理缺口和回看分集。"
