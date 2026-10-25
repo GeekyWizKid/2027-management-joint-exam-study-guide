@@ -1,0 +1,1547 @@
+{
+  "subject": "logic",
+  "teacher": "薛睿",
+  "verified_at": "2026-10-25",
+  "courses": [
+    {
+      "bvid": "BV1d3411V7k3",
+      "title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "uploader_mid": 40298331,
+      "source_class": "机构公开账号",
+      "verified_at": "2026-10-25",
+      "verification_method": "Bilibili x/web-interface/view API code=0",
+      "evidence_level": "metadata_verified",
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "exam": "199管综主线与十月联考（逐P区分）",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "page_count": 52,
+      "duration": 179339,
+      "research_artifact_name": "BV1d3411V7k3.view.json",
+      "research_artifact_bundled": false,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 758084786,
+          "title": "2007.1.26-40",
+          "duration": 3458,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=1",
+          "year": 2007,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 2,
+          "cid": 758084102,
+          "title": "2007.1.41—55（无48题、54题）",
+          "duration": 2742,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=2",
+          "year": 2007,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [
+            48,
+            54
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 3,
+          "cid": 758083015,
+          "title": "2007.10.31—45（无44题、45题）",
+          "duration": 3022,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=3",
+          "year": 2007,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            31,
+            45
+          ],
+          "excluded_questions": [
+            44,
+            45
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 4,
+          "cid": 758082304,
+          "title": "2007.10.46—60（无59题、60题）",
+          "duration": 2147,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=4",
+          "year": 2007,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            46,
+            60
+          ],
+          "excluded_questions": [
+            59,
+            60
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 5,
+          "cid": 758081520,
+          "title": "2008.1.26—40（无26题—30题）",
+          "duration": 1934,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=5",
+          "year": 2008,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 6,
+          "cid": 758078477,
+          "title": "2008.10.31—45（无33题）",
+          "duration": 3660,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=6",
+          "year": 2008,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            31,
+            45
+          ],
+          "excluded_questions": [
+            33
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 7,
+          "cid": 758079663,
+          "title": "2008.1.41—55（无55题）",
+          "duration": 4265,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=7",
+          "year": 2008,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [
+            55
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 8,
+          "cid": 758077628,
+          "title": "2008.10.46—60",
+          "duration": 2759,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=8",
+          "year": 2008,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            46,
+            60
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 9,
+          "cid": 758076429,
+          "title": "2009.1.26—41",
+          "duration": 3127,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=9",
+          "year": 2009,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            41
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 10,
+          "cid": 758075330,
+          "title": "2009.1.42—55",
+          "duration": 3410,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=10",
+          "year": 2009,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            42,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 11,
+          "cid": 758089511,
+          "title": "2009.10.41—55",
+          "duration": 3179,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=11",
+          "year": 2009,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 12,
+          "cid": 758090610,
+          "title": "2009.10.26—40",
+          "duration": 3212,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=12",
+          "year": 2009,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 13,
+          "cid": 758095442,
+          "title": "2010.1.26—40",
+          "duration": 4146,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=13",
+          "year": 2010,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 14,
+          "cid": 758094358,
+          "title": "逻辑2010.1.41—55",
+          "duration": 3008,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=14",
+          "year": 2010,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 15,
+          "cid": 758092877,
+          "title": "逻辑2010.10.26—40",
+          "duration": 4247,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=15",
+          "year": 2010,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 16,
+          "cid": 758091589,
+          "title": "2010.10.41—55",
+          "duration": 3234,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=16",
+          "year": 2010,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 17,
+          "cid": 758103200,
+          "title": "2011.1.26—40",
+          "duration": 4422,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=17",
+          "year": 2011,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 18,
+          "cid": 758101754,
+          "title": "2011.1.41—55",
+          "duration": 3193,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=18",
+          "year": 2011,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 19,
+          "cid": 758105983,
+          "title": "2011.10.26—40（无30题）",
+          "duration": 2634,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=19",
+          "year": 2011,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [
+            30
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 20,
+          "cid": 758105045,
+          "title": "2011.10.41—55",
+          "duration": 2614,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=20",
+          "year": 2011,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 21,
+          "cid": 758127619,
+          "title": "2012.1.26—40",
+          "duration": 2534,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=21",
+          "year": 2012,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 22,
+          "cid": 758126685,
+          "title": "2012.1.41—55",
+          "duration": 2244,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=22",
+          "year": 2012,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 23,
+          "cid": 758122877,
+          "title": "2012.10.26—40",
+          "duration": 3237,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=23",
+          "year": 2012,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 24,
+          "cid": 758124729,
+          "title": "2012.10.41—55",
+          "duration": 3577,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=24",
+          "year": 2012,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 25,
+          "cid": 758251239,
+          "title": "2013.1.26-40",
+          "duration": 4679,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=25",
+          "year": 2013,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 26,
+          "cid": 758133001,
+          "title": "2013.1.41—55",
+          "duration": 4629,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=26",
+          "year": 2013,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 27,
+          "cid": 758131681,
+          "title": "2013.10.26—41",
+          "duration": 3183,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=27",
+          "year": 2013,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            26,
+            41
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 28,
+          "cid": 758130631,
+          "title": "2013.10.41—55",
+          "duration": 3297,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=28",
+          "year": 2013,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 29,
+          "cid": 758174637,
+          "title": "2014.1.26—40",
+          "duration": 4230,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=29",
+          "year": 2014,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 30,
+          "cid": 758172967,
+          "title": "2014.1.41—55",
+          "duration": 4271,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=30",
+          "year": 2014,
+          "session": "1月联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 31,
+          "cid": 758171468,
+          "title": "2014.10.26—41",
+          "duration": 3918,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=31",
+          "year": 2014,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            26,
+            41
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 32,
+          "cid": 758176510,
+          "title": "2014.10.41—55（无44题）",
+          "duration": 2986,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=32",
+          "year": 2014,
+          "session": "10月联考",
+          "exam": "十月联考",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [
+            44
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 33,
+          "cid": 758202853,
+          "title": "2015.26—40",
+          "duration": 4465,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=33",
+          "year": 2015,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 34,
+          "cid": 777781154,
+          "title": "2015.41-55",
+          "duration": 3684,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=34",
+          "year": 2015,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 35,
+          "cid": 818117000,
+          "title": "2016.26-40",
+          "duration": 4230,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=35",
+          "year": 2016,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 36,
+          "cid": 758204656,
+          "title": "2016.41—55",
+          "duration": 4207,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=36",
+          "year": 2016,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 37,
+          "cid": 758211843,
+          "title": "2017.26—40",
+          "duration": 4001,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=37",
+          "year": 2017,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 38,
+          "cid": 758209888,
+          "title": "2017.41—55",
+          "duration": 4231,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=38",
+          "year": 2017,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 39,
+          "cid": 758216704,
+          "title": "2018.26—40（无36题、39题、40题）  2.2&2.5",
+          "duration": 2813,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=39",
+          "year": 2018,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [
+            36,
+            39,
+            40
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 40,
+          "cid": 758215051,
+          "title": "2018.41—55（无41题、42题、44题）",
+          "duration": 3367,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=40",
+          "year": 2018,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [
+            41,
+            42,
+            44
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 41,
+          "cid": 758217926,
+          "title": "2019.26—40",
+          "duration": 4343,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=41",
+          "year": 2019,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 42,
+          "cid": 758213563,
+          "title": "2019.41—55（无46题、47题） 2.2&2.5",
+          "duration": 3417,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=42",
+          "year": 2019,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [
+            46,
+            47
+          ],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 43,
+          "cid": 758224697,
+          "title": "2020.26—40",
+          "duration": 3656,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=43",
+          "year": 2020,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 44,
+          "cid": 758223382,
+          "title": "2020.41—55",
+          "duration": 3125,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=44",
+          "year": 2020,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 45,
+          "cid": 758227761,
+          "title": "2021.26—41",
+          "duration": 3526,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=45",
+          "year": 2021,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            41
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 46,
+          "cid": 758226352,
+          "title": "2021.42—55",
+          "duration": 3461,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=46",
+          "year": 2021,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            42,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 47,
+          "cid": 866641405,
+          "title": "2022真题精讲26-40",
+          "duration": 4259,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=47",
+          "year": 2022,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 48,
+          "cid": 866644750,
+          "title": "2022真题精讲41-55",
+          "duration": 3445,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=48",
+          "year": 2022,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 49,
+          "cid": 1597480363,
+          "title": "2023真题精讲26-40",
+          "duration": 4025,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=49",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 50,
+          "cid": 1597481761,
+          "title": "2023真题精讲41-55",
+          "duration": 3978,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=50",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 51,
+          "cid": 1597483319,
+          "title": "2024真题精讲26-40",
+          "duration": 2230,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=51",
+          "year": 2024,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 52,
+          "cid": 1597484030,
+          "title": "2024真题精讲41-55",
+          "duration": 1678,
+          "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=52",
+          "year": 2024,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        }
+      ]
+    },
+    {
+      "bvid": "BV1te411k7qP",
+      "title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "uploader_mid": 1239534965,
+      "source_class": "教师同名公开账号",
+      "verified_at": "2026-10-25",
+      "verification_method": "Bilibili x/web-interface/view API code=0",
+      "evidence_level": "metadata_verified",
+      "years": [
+        2023
+      ],
+      "exam": "199管综",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "page_count": 25,
+      "duration": 7649,
+      "research_artifact_name": "BV1te411k7qP.view.json",
+      "research_artifact_bundled": false,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 1367875463,
+          "title": "2023.26",
+          "duration": 693,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=1",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            26,
+            26
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 2,
+          "cid": 1367875067,
+          "title": "2023.27",
+          "duration": 281,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=2",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            27,
+            27
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 3,
+          "cid": 1367857969,
+          "title": "2023.28",
+          "duration": 195,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=3",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            28,
+            28
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 4,
+          "cid": 1367883180,
+          "title": "2023.29",
+          "duration": 287,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=4",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            29,
+            29
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 5,
+          "cid": 1367883624,
+          "title": "2023.30",
+          "duration": 188,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=5",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            30,
+            30
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 6,
+          "cid": 1367883442,
+          "title": "2023.31-32",
+          "duration": 712,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=6",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            31,
+            32
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 7,
+          "cid": 1367883858,
+          "title": "2023.33",
+          "duration": 313,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=7",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            33,
+            33
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 8,
+          "cid": 1367883806,
+          "title": "2023.34",
+          "duration": 218,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=8",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            34,
+            34
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 9,
+          "cid": 1367883808,
+          "title": "2023.35",
+          "duration": 178,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=9",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            35,
+            35
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 10,
+          "cid": 1367884116,
+          "title": "2023.36",
+          "duration": 215,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=10",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            36,
+            36
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 11,
+          "cid": 1367884115,
+          "title": "2023.37-38",
+          "duration": 397,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=11",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            37,
+            38
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 12,
+          "cid": 1367883958,
+          "title": "2023.39",
+          "duration": 261,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=12",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            39,
+            39
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 13,
+          "cid": 1367884202,
+          "title": "2023.40",
+          "duration": 97,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=13",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            40,
+            40
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 14,
+          "cid": 1367884140,
+          "title": "2023.41",
+          "duration": 166,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=14",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            41,
+            41
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 15,
+          "cid": 1367884239,
+          "title": "2023.42",
+          "duration": 321,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=15",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            42,
+            42
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 16,
+          "cid": 1367885156,
+          "title": "2023.43",
+          "duration": 286,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=16",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            43,
+            43
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 17,
+          "cid": 1367885517,
+          "title": "2023.44",
+          "duration": 164,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=17",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            44,
+            44
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 18,
+          "cid": 1367885920,
+          "title": "2023.45",
+          "duration": 301,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=18",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            45,
+            45
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 19,
+          "cid": 1367885975,
+          "title": "2023.46-47",
+          "duration": 608,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=19",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            46,
+            47
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 20,
+          "cid": 1367886212,
+          "title": "2023.48",
+          "duration": 275,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=20",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            48,
+            48
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 21,
+          "cid": 1367886251,
+          "title": "2023.49",
+          "duration": 339,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=21",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            49,
+            49
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 22,
+          "cid": 1367886325,
+          "title": "2023.50",
+          "duration": 159,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=22",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            50,
+            50
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 23,
+          "cid": 1367886388,
+          "title": "2023.52",
+          "duration": 298,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=23",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            52,
+            52
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 24,
+          "cid": 1367886389,
+          "title": "2023.53",
+          "duration": 260,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=24",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            53,
+            53
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        },
+        {
+          "page": 25,
+          "cid": 1367886518,
+          "title": "2023.54-55",
+          "duration": 437,
+          "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=25",
+          "year": 2023,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            54,
+            55
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        }
+      ]
+    },
+    {
+      "bvid": "BV1P84y1R7CM",
+      "title": "【2020年管综逻辑真题讲解】第28题 论证推理类题目",
+      "url": "https://www.bilibili.com/video/BV1P84y1R7CM/",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "uploader_mid": 1239534965,
+      "source_class": "教师同名公开账号",
+      "verified_at": "2026-10-25",
+      "verification_method": "Bilibili x/web-interface/view API code=0",
+      "evidence_level": "sample_content_verified",
+      "years": [
+        2020
+      ],
+      "exam": "199管综",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "page_count": 1,
+      "duration": 161,
+      "research_artifact_name": "BV1P84y1R7CM.view.json",
+      "research_artifact_bundled": false,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 1310755853,
+          "title": "【2020年管综逻辑真题讲解】第28题 论证推理类题目",
+          "duration": 161,
+          "url": "https://www.bilibili.com/video/BV1P84y1R7CM/?p=1",
+          "year": 2020,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            28,
+            28
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": true
+        }
+      ]
+    },
+    {
+      "bvid": "BV1ae411R7ie",
+      "title": "【2020年管综逻辑真题课】第27题",
+      "url": "https://www.bilibili.com/video/BV1ae411R7ie/",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "uploader_mid": 1239534965,
+      "source_class": "教师同名公开账号",
+      "verified_at": "2026-10-25",
+      "verification_method": "Bilibili x/web-interface/view API code=0",
+      "evidence_level": "metadata_verified",
+      "years": [
+        2020
+      ],
+      "exam": "199管综",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "page_count": 1,
+      "duration": 250,
+      "research_artifact_name": "BV1ae411R7ie.view.json",
+      "research_artifact_bundled": false,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 1305515029,
+          "title": "【2020年管综逻辑真题课】第27题",
+          "duration": 250,
+          "url": "https://www.bilibili.com/video/BV1ae411R7ie/?p=1",
+          "year": 2020,
+          "session": "年度联考",
+          "exam": "199管综主线",
+          "question_range": [
+            27,
+            27
+          ],
+          "excluded_questions": [],
+          "question_range_evidence": "分P标题；未逐题观看核验",
+          "content_verified": false
+        }
+      ]
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "bvid": "BV1qj24BJEuR",
+      "title": "26管综199薛睿-逻辑真题带刷",
+      "url": "https://www.bilibili.com/video/BV1qj24BJEuR/",
+      "uploader": "htrh436",
+      "page_count": 1,
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified_not_adopted",
+      "reason": "非机构或教师同名账号，分P不含真题年份与题号；标题中的26是备考季，不能视为2026年试卷。",
+      "research_artifact_name": "BV1qj24BJEuR.view.json",
+      "research_artifact_bundled": false
+    },
+    {
+      "bvid": "BV1LHsiz3EK6",
+      "title": "【最全】26考研管综逻辑真题带刷-薛睿",
+      "url": "https://www.bilibili.com/video/BV1LHsiz3EK6/",
+      "uploader": "fykr350",
+      "page_count": 6,
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified_not_adopted",
+      "reason": "非机构或教师同名账号，分P不含真题年份与题号；标题中的26是备考季，不能视为2026年试卷。",
+      "research_artifact_name": "BV1LHsiz3EK6.view.json",
+      "research_artifact_bundled": false
+    }
+  ],
+  "limits": [
+    "主合集52P只核验元数据及目录，未逐集观看、转写、题面或答案核验。",
+    "主合集18个主线年份加8个十月联考年份；26套不等于26个199年份。",
+    "2023教师账号合集分P未列第51题；不得用题号顺序补写。",
+    "2025、2026薛睿199真题的B站一手链接尚未核实；MBA大师官网课程目录更新不能替代B站核验。",
+    "本次未核实薛睿396经综真题合集，不混入199记录。"
+  ],
+  "other_subject_observation": {
+    "bvid": "BV1ba411h72s",
+    "research_artifact_name": "BV1ba411h72s.view.json",
+    "research_artifact_bundled": false,
+    "note": "薛睿写作官方合集，非本次既有老吕写作skill的老师，未纳入课程总数。"
+  },
+  "content_samples": [
+    {
+      "id": "xuerui-199-2020-q28-sample",
+      "bvid": "BV1P84y1R7CM",
+      "page": 1,
+      "year": 2020,
+      "question_number": 28,
+      "evidence_level": "sample_content_verified",
+      "card": "sample-card.json",
+      "method_evidence": "evidence-cards.md",
+      "teacher_answer": "C",
+      "answer_evidence_time": 159
+    }
+  ],
+  "publication_note": "原始API响应、研究截图和转写未随Skill发布；保留可公开复核的URL、BV/CID、目录和证据层级。research_artifact_name仅记录原研究文件名，不是包内依赖。"
+}

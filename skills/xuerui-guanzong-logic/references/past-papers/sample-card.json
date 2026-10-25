@@ -1,0 +1,99 @@
+{
+  "id": "xuerui-199-2020-q28-sample",
+  "exam": "199管综",
+  "year": 2020,
+  "question_number": 28,
+  "teacher": "薛睿",
+  "source": {
+    "bvid": "BV1P84y1R7CM",
+    "cid": 1310755853,
+    "page": 1,
+    "url": "https://www.bilibili.com/video/BV1P84y1R7CM/",
+    "uploader": "逻辑薛睿",
+    "uploader_mid": 1239534965,
+    "duration": 161,
+    "verified_at": "2026-10-25"
+  },
+  "evidence_level": "sample_content_verified",
+  "source_scope": "独立单题视频的有限内容核验，非整套或全课程核验",
+  "verification": {
+    "metadata": true,
+    "video_frames": [
+      8,
+      60,
+      100,
+      140,
+      155,
+      159
+    ],
+    "audio_transcript": "本地OpenAI Whisper tiny CPU自动识别；有明显同音字错误，板书优先",
+    "transcript_artifact": "研究时生成的本地带时间戳转写；未随Skill发布",
+    "question_text_source": "原视频140秒和159秒板书；研究截图未随Skill发布",
+    "question_complete_on_slide": true,
+    "official_paper_verified": false,
+    "answer_visible_on_slide": true,
+    "answer_frame": 159
+  },
+  "question": {
+    "stem": "有学校提出，将效仿免费师范生制度，提供减免学费等优惠条件以吸引成绩优秀的调剂生，提高医学人才培养质量。有专家对此提出反对意见：医生是既崇高又辛苦的职业，要有足够的爱心和兴趣才能做好，因此，宁可招不满，也不要招收调剂生。",
+    "task": "以下哪项最可能是上述专家论断的假设？",
+    "options": {
+      "A": "没有奉献精神，就无法学好医学。",
+      "B": "如果缺乏爱心，就不能从事医生这一崇高的职业。",
+      "C": "调剂生往往对医学缺乏兴趣。",
+      "D": "因优惠条件而报考医学的学生往往缺乏奉献精神。",
+      "E": "有爱心并对医学有兴趣的学生不会在意是否收费。"
+    },
+    "status": "按视频清晰板书核对，不冒称官方原卷定稿"
+  },
+  "teacher_answer": {
+    "option": "C",
+    "evidence": "159秒板书明确显示“选C”；156秒附近ASR误为“选择四选项”，以板书为准"
+  },
+  "teacher_method": [
+    {
+      "time_start": 6.14,
+      "time_end": 21,
+      "action": "识别假设问法；以“因此”为引导词划分论据与结论。",
+      "evidence": "ASR片段并与8秒题面核对"
+    },
+    {
+      "time_start": 29.44,
+      "time_end": 57.6,
+      "action": "把做好医生所需的爱心与兴趣写为必要条件，转为缺少任一条件便不适合当医生；把拒招调剂生解释为调剂生不适合当医生。",
+      "evidence": "60秒板书明确列出论据、逆否式和结论"
+    },
+    {
+      "time_start": 57.6,
+      "time_end": 83.2,
+      "action": "发现论据与结论都有“不适合当医生”，从不同的前半部分补足联系：调剂生缺少爱心或兴趣。",
+      "evidence": "100秒板书“补全逻辑”及ASR"
+    },
+    {
+      "time_start": 117.74,
+      "time_end": 159.94,
+      "action": "用选项C连接调剂生与缺乏兴趣；其余选项没有补上同一联系或换成奉献精神、优惠条件。",
+      "evidence": "140/155秒选项与159秒选C，ASR在答案字母处不可单独采信"
+    }
+  ],
+  "assistant_analysis": {
+    "type": "明确标记的独立整理，不作老师原话",
+    "topic": "论证推理·假设·补全逻辑",
+    "structure": "想做好医生→有爱心且有兴趣；缺爱心或缺兴趣→不适合当医生。若要据此排除调剂生，需要把调剂生与缺爱心/缺兴趣连接起来。",
+    "why_C": "C把调剂生与缺乏兴趣直接联系，匹配被省略的桥梁。",
+    "important_limit": "C用“往往”而非全称“所有”；此题按“最可能的假设”比较相对适切性，不把它改写成严格充分证明所有调剂生都不适合从医。",
+    "distractor_warning": "B重复题干必要条件；D同时将调剂生替换成因优惠条件报考者、将爱心兴趣替换成奉献精神；E没有直接提供有关调剂生的判断。"
+  },
+  "original_skill_route": {
+    "skill": "xuerui-guanzong-logic",
+    "chapter": "references/chapters/16-论证课·第2章：假设.md",
+    "routing_status": "该章节作为已有方法回看入口；本样例先核验视频再对应章节，未反向用章节冒充逐题课程内容"
+  },
+  "card_validation": [
+    "保留考试、年份、题号、BV、P、CID，避免只靠视频标题检索。",
+    "题干和A-E都在板书出现；官方原卷未核验，状态明确分离。",
+    "老师答案与独立推理分开；识别到ASR将C识成四，板书复核纠正。",
+    "时间片以ASR为定位提示，确证使用帧图。",
+    "目录缺题不允许生成默认答案；本样例不提升同合集其余题目的证据等级。"
+  ]
+}

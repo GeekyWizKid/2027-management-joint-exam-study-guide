@@ -1,0 +1,2556 @@
+{
+  "schema_version": 1,
+  "verified_at": "2026-10-25",
+  "teacher": "陈正康",
+  "exam": "204",
+  "exam_name": "英语二",
+  "courses": [
+    {
+      "bvid": "BV1WAZoYnEKc",
+      "title": "【陈正康】2010年-2025年英语二阅读真题逐篇超精读（全网最全）",
+      "url": "https://www.bilibili.com/video/BV1WAZoYnEKc",
+      "teacher": "陈正康",
+      "uploader": "考研英语陈正康",
+      "uploader_mid": 611537732,
+      "source_type": "teacher_account",
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified",
+      "years": [
+        2024,
+        2025
+      ],
+      "exam": "204",
+      "exam_name": "英语二",
+      "scope": "阅读理解A",
+      "duration": 11233,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 29228862601,
+          "title": "2025年阅读text1",
+          "duration": 1167,
+          "url": "https://www.bilibili.com/video/BV1WAZoYnEKc?p=1",
+          "year": 2025,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 1,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        },
+        {
+          "page": 2,
+          "cid": 29229910110,
+          "title": "2025年阅读text2",
+          "duration": 1488,
+          "url": "https://www.bilibili.com/video/BV1WAZoYnEKc?p=2",
+          "year": 2025,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 2,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        },
+        {
+          "page": 3,
+          "cid": 29229910309,
+          "title": "2025年阅读text3",
+          "duration": 1820,
+          "url": "https://www.bilibili.com/video/BV1WAZoYnEKc?p=3",
+          "year": 2025,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 3,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        },
+        {
+          "page": 4,
+          "cid": 29229910433,
+          "title": "2025年阅读text4",
+          "duration": 1665,
+          "url": "https://www.bilibili.com/video/BV1WAZoYnEKc?p=4",
+          "year": 2025,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 4,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        },
+        {
+          "page": 5,
+          "cid": 29276048845,
+          "title": "2024年阅读text1",
+          "duration": 1299,
+          "url": "https://www.bilibili.com/video/BV1WAZoYnEKc?p=5",
+          "year": 2024,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 1,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        },
+        {
+          "page": 6,
+          "cid": 29277096013,
+          "title": "2024年阅读text2",
+          "duration": 1304,
+          "url": "https://www.bilibili.com/video/BV1WAZoYnEKc?p=6",
+          "year": 2024,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 2,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        },
+        {
+          "page": 7,
+          "cid": 29428810198,
+          "title": "2024年阅读text3",
+          "duration": 1234,
+          "url": "https://www.bilibili.com/video/BV1WAZoYnEKc?p=7",
+          "year": 2024,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 3,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        },
+        {
+          "page": 8,
+          "cid": 29428810020,
+          "title": "2024年阅读text4",
+          "duration": 1256,
+          "url": "https://www.bilibili.com/video/BV1WAZoYnEKc?p=8",
+          "year": 2024,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 4,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        }
+      ],
+      "api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WAZoYnEKc",
+      "research_artifact_name": "BV1WAZoYnEKc.json",
+      "research_artifact_bundled": false,
+      "content_status": "metadata_only",
+      "playback_verified": false,
+      "subtitle_check": {
+        "scope": "P1",
+        "result": "no_public_subtitles_in_player_v2",
+        "research_artifact_name": "BV1WAZoYnEKc-player.json",
+        "research_artifact_bundled": false
+      },
+      "coverage_warning": "标题称2010–2025，实际仅2024和2025各Text1–4，不得视为2010–2025完整覆盖。"
+    },
+    {
+      "bvid": "BV1G3411b7WU",
+      "title": "【考研英语真题】英语二成套真题试卷超精讲！这才是有效刷题！",
+      "url": "https://www.bilibili.com/video/BV1G3411b7WU",
+      "teacher": "陈正康",
+      "uploader": "考研英语陈正康",
+      "uploader_mid": 611537732,
+      "source_type": "teacher_account",
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified",
+      "years": [
+        2019
+      ],
+      "exam": "204",
+      "exam_name": "英语二",
+      "scope": "整套（发布者标题及简介声明，正文未逐题核验）",
+      "duration": 9195,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 449427008,
+          "title": "英语二.1",
+          "duration": 9195,
+          "url": "https://www.bilibili.com/video/BV1G3411b7WU?p=1",
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "整套（发布者标题及简介声明，正文未逐题核验）",
+          "text": null,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "description",
+          "timestamp_evidence": null
+        }
+      ],
+      "api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1G3411b7WU",
+      "research_artifact_name": "BV1G3411b7WU.json",
+      "research_artifact_bundled": false,
+      "content_status": "metadata_only",
+      "playback_verified": false,
+      "subtitle_check": {
+        "scope": "P1",
+        "result": "no_public_subtitles_in_player_v2",
+        "research_artifact_name": "BV1G3411b7WU-player.json",
+        "research_artifact_bundled": false
+      },
+      "coverage_warning": "2019由发布者简介确认；整套内容和各题起点尚未核验。"
+    },
+    {
+      "bvid": "BV1VZxjebEBC",
+      "title": "【考研英语】陈正康英二真题阅读逐篇超精讲（2012年text1）",
+      "url": "https://www.bilibili.com/video/BV1VZxjebEBC",
+      "teacher": "陈正康",
+      "uploader": "考研英语陈正康",
+      "uploader_mid": 611537732,
+      "source_type": "teacher_account",
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified",
+      "years": [
+        2012
+      ],
+      "exam": "204",
+      "exam_name": "英语二",
+      "scope": "阅读理解A",
+      "duration": 3476,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 26011897686,
+          "title": "【考研英语】陈正康英二真题阅读逐篇超精讲（2012年text1）",
+          "duration": 3476,
+          "url": "https://www.bilibili.com/video/BV1VZxjebEBC?p=1",
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 1,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        }
+      ],
+      "api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VZxjebEBC",
+      "research_artifact_name": "BV1VZxjebEBC.json",
+      "research_artifact_bundled": false,
+      "content_status": "metadata_only",
+      "playback_verified": false,
+      "subtitle_check": {
+        "scope": "P1",
+        "result": "no_public_subtitles_in_player_v2",
+        "research_artifact_name": "BV1VZxjebEBC-player.json",
+        "research_artifact_bundled": false
+      },
+      "coverage_warning": "英语二归属来自发布者标题；未使用片头动画确认正文题目。"
+    },
+    {
+      "bvid": "BV1gvxFegENr",
+      "title": "【考研英语】陈正康英二真题阅读逐篇超精讲（2012年text2)",
+      "url": "https://www.bilibili.com/video/BV1gvxFegENr",
+      "teacher": "陈正康",
+      "uploader": "考研英语陈正康",
+      "uploader_mid": 611537732,
+      "source_type": "teacher_account",
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified",
+      "years": [
+        2012
+      ],
+      "exam": "204",
+      "exam_name": "英语二",
+      "scope": "阅读理解A",
+      "duration": 1883,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 26029590171,
+          "title": "【考研英语】陈正康英二真题阅读逐篇超精讲（2012年text2)",
+          "duration": 1883,
+          "url": "https://www.bilibili.com/video/BV1gvxFegENr?p=1",
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 2,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        }
+      ],
+      "api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gvxFegENr",
+      "research_artifact_name": "BV1gvxFegENr.json",
+      "research_artifact_bundled": false,
+      "content_status": "metadata_only",
+      "playback_verified": false,
+      "subtitle_check": {
+        "result": "not_checked"
+      },
+      "coverage_warning": "英语二归属来自发布者标题；未使用片头动画确认正文题目。"
+    },
+    {
+      "bvid": "BV17ixkezEpD",
+      "title": "【考研英语】陈正康英二真题阅读逐篇超精讲（2012年text3)",
+      "url": "https://www.bilibili.com/video/BV17ixkezEpD",
+      "teacher": "陈正康",
+      "uploader": "考研英语陈正康",
+      "uploader_mid": 611537732,
+      "source_type": "teacher_account",
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified",
+      "years": [
+        2012
+      ],
+      "exam": "204",
+      "exam_name": "英语二",
+      "scope": "阅读理解A",
+      "duration": 2216,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 26055215119,
+          "title": "【考研英语】陈正康英二真题阅读逐篇超精讲（2012年text3)",
+          "duration": 2216,
+          "url": "https://www.bilibili.com/video/BV17ixkezEpD?p=1",
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 3,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        }
+      ],
+      "api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV17ixkezEpD",
+      "research_artifact_name": "BV17ixkezEpD.json",
+      "research_artifact_bundled": false,
+      "content_status": "metadata_only",
+      "playback_verified": false,
+      "subtitle_check": {
+        "result": "not_checked"
+      },
+      "coverage_warning": "英语二归属来自发布者标题；未使用片头动画确认正文题目。"
+    },
+    {
+      "bvid": "BV1qq2JYGEt2",
+      "title": "【考研英语】陈正康英二真题阅读逐篇超精讲（2012年text4)",
+      "url": "https://www.bilibili.com/video/BV1qq2JYGEt2",
+      "teacher": "陈正康",
+      "uploader": "考研英语陈正康",
+      "uploader_mid": 611537732,
+      "source_type": "teacher_account",
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified",
+      "years": [
+        2012
+      ],
+      "exam": "204",
+      "exam_name": "英语二",
+      "scope": "阅读理解A",
+      "duration": 1640,
+      "pages": [
+        {
+          "page": 1,
+          "cid": 26198346909,
+          "title": "【考研英语】陈正康英二真题阅读逐篇超精讲（2012年text4)",
+          "duration": 1640,
+          "url": "https://www.bilibili.com/video/BV1qq2JYGEt2?p=1",
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读理解A",
+          "text": 4,
+          "question_range": null,
+          "content_status": "metadata_only",
+          "year_evidence": "page_title",
+          "timestamp_evidence": null
+        }
+      ],
+      "api_url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qq2JYGEt2",
+      "research_artifact_name": "BV1qq2JYGEt2.json",
+      "research_artifact_bundled": false,
+      "content_status": "metadata_only",
+      "playback_verified": false,
+      "subtitle_check": {
+        "result": "not_checked"
+      },
+      "coverage_warning": "英语二归属来自发布者标题；未使用片头动画确认正文题目。"
+    }
+  ],
+  "restricted_sources": [
+    {
+      "season_id": 3235,
+      "title": "【陈正康】2024考研英语全程班（英语一/二）",
+      "url": "https://www.bilibili.com/cheese/play/ss3235",
+      "teacher": "陈正康",
+      "uploader": "考研英语陈正康",
+      "uploader_mid": 611537732,
+      "verified_at": "2026-10-25",
+      "evidence_level": "paid_course_directory_verified",
+      "scope": "英语二强化/冲刺真题目录；英语一部分未纳入",
+      "exam": "204",
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "access": "stop_sell=true; account payed=0; mostly playable=false; some preview labels returned, playback unverified",
+      "api_url": "https://api.bilibili.com/pugv/view/web/season?ep_id=151174",
+      "research_artifact_name": "cheese-ep151174.json",
+      "research_artifact_bundled": false,
+      "episodes": [
+        {
+          "ep_id": 191142,
+          "api_index": 191,
+          "cid": 1226786342,
+          "title": "完型|2010年真题实战",
+          "duration": 2608,
+          "url": "https://www.bilibili.com/cheese/play/ep191142",
+          "years": [
+            2010
+          ],
+          "year": 2010,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 191144,
+          "api_index": 192,
+          "cid": 1226794012,
+          "title": "完型|2011年真题实战",
+          "duration": 2957,
+          "url": "https://www.bilibili.com/cheese/play/ep191144",
+          "years": [
+            2011
+          ],
+          "year": 2011,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 191156,
+          "api_index": 193,
+          "cid": 1226798168,
+          "title": "完型|2012年真题实战",
+          "duration": 1790,
+          "url": "https://www.bilibili.com/cheese/play/ep191156",
+          "years": [
+            2012
+          ],
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 191158,
+          "api_index": 194,
+          "cid": 1226801630,
+          "title": "完型|2013年真题实战",
+          "duration": 1697,
+          "url": "https://www.bilibili.com/cheese/play/ep191158",
+          "years": [
+            2013
+          ],
+          "year": 2013,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 191161,
+          "api_index": 195,
+          "cid": 1226804989,
+          "title": "完型|2014年真题实战",
+          "duration": 1742,
+          "url": "https://www.bilibili.com/cheese/play/ep191161",
+          "years": [
+            2014
+          ],
+          "year": 2014,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 191165,
+          "api_index": 196,
+          "cid": 1226806550,
+          "title": "完型|2015年真题实战",
+          "duration": 1639,
+          "url": "https://www.bilibili.com/cheese/play/ep191165",
+          "years": [
+            2015
+          ],
+          "year": 2015,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 191169,
+          "api_index": 197,
+          "cid": 1226809454,
+          "title": "完型|2016年真题实战",
+          "duration": 1332,
+          "url": "https://www.bilibili.com/cheese/play/ep191169",
+          "years": [
+            2016
+          ],
+          "year": 2016,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 200656,
+          "api_index": 198,
+          "cid": 1238627933,
+          "title": "新题型|多项对应解题技巧&2011年真题详解",
+          "duration": 1113,
+          "url": "https://www.bilibili.com/cheese/play/ep200656",
+          "years": [
+            2011
+          ],
+          "year": 2011,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 200673,
+          "api_index": 199,
+          "cid": 1238637994,
+          "title": "新题型|2012年真题详解",
+          "duration": 668,
+          "url": "https://www.bilibili.com/cheese/play/ep200673",
+          "years": [
+            2012
+          ],
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 209991,
+          "api_index": 200,
+          "cid": 1251692069,
+          "title": "新题型|2013年标题匹配",
+          "duration": 1203,
+          "url": "https://www.bilibili.com/cheese/play/ep209991",
+          "years": [
+            2013
+          ],
+          "year": 2013,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 209993,
+          "api_index": 201,
+          "cid": 1251695014,
+          "title": "新题型|2014年标题匹配",
+          "duration": 449,
+          "url": "https://www.bilibili.com/cheese/play/ep209993",
+          "years": [
+            2014
+          ],
+          "year": 2014,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 209996,
+          "api_index": 202,
+          "cid": 1251697793,
+          "title": "新题型|2015年标题匹配",
+          "duration": 1124,
+          "url": "https://www.bilibili.com/cheese/play/ep209996",
+          "years": [
+            2015
+          ],
+          "year": 2015,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 210005,
+          "api_index": 203,
+          "cid": 1251699507,
+          "title": "新题型|2016年标题匹配",
+          "duration": 867,
+          "url": "https://www.bilibili.com/cheese/play/ep210005",
+          "years": [
+            2016
+          ],
+          "year": 2016,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 221885,
+          "api_index": 205,
+          "cid": 1265006647,
+          "title": "翻译|2010年真题带练",
+          "duration": 845,
+          "url": "https://www.bilibili.com/cheese/play/ep221885",
+          "years": [
+            2010
+          ],
+          "year": 2010,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 222891,
+          "api_index": 206,
+          "cid": 1266272696,
+          "title": "翻译|2011年真题带练",
+          "duration": 1146,
+          "url": "https://www.bilibili.com/cheese/play/ep222891",
+          "years": [
+            2011
+          ],
+          "year": 2011,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 222893,
+          "api_index": 207,
+          "cid": 1266274328,
+          "title": "翻译|2012年真题带练",
+          "duration": 701,
+          "url": "https://www.bilibili.com/cheese/play/ep222893",
+          "years": [
+            2012
+          ],
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 222894,
+          "api_index": 208,
+          "cid": 1266276330,
+          "title": "翻译|2013年真题带练",
+          "duration": 1077,
+          "url": "https://www.bilibili.com/cheese/play/ep222894",
+          "years": [
+            2013
+          ],
+          "year": 2013,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 222896,
+          "api_index": 209,
+          "cid": 1266278056,
+          "title": "翻译|2014&2015年真题带练",
+          "duration": 3117,
+          "url": "https://www.bilibili.com/cheese/play/ep222896",
+          "years": [
+            2014,
+            2015
+          ],
+          "year": null,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 222897,
+          "api_index": 210,
+          "cid": 1266280256,
+          "title": "翻译|2016年真题带练",
+          "duration": 1315,
+          "url": "https://www.bilibili.com/cheese/play/ep222897",
+          "years": [
+            2016
+          ],
+          "year": 2016,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 247810,
+          "api_index": 212,
+          "cid": 1297766557,
+          "title": "阅读|2010年text1",
+          "duration": 3443,
+          "url": "https://www.bilibili.com/cheese/play/ep247810",
+          "years": [
+            2010
+          ],
+          "year": 2010,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 247841,
+          "api_index": 213,
+          "cid": 1297774332,
+          "title": "阅读|2010年text3",
+          "duration": 3875,
+          "url": "https://www.bilibili.com/cheese/play/ep247841",
+          "years": [
+            2010
+          ],
+          "year": 2010,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 248195,
+          "api_index": 214,
+          "cid": 1297780692,
+          "title": "阅读|2010年text4",
+          "duration": 2808,
+          "url": "https://www.bilibili.com/cheese/play/ep248195",
+          "years": [
+            2010
+          ],
+          "year": 2010,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 248271,
+          "api_index": 215,
+          "cid": 1297976719,
+          "title": "阅读|2011年text1",
+          "duration": 3668,
+          "url": "https://www.bilibili.com/cheese/play/ep248271",
+          "years": [
+            2011
+          ],
+          "year": 2011,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 248277,
+          "api_index": 216,
+          "cid": 1298021726,
+          "title": "阅读|2011年text2",
+          "duration": 3436,
+          "url": "https://www.bilibili.com/cheese/play/ep248277",
+          "years": [
+            2011
+          ],
+          "year": 2011,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 248278,
+          "api_index": 217,
+          "cid": 1298026267,
+          "title": "阅读|2011年text3",
+          "duration": 4484,
+          "url": "https://www.bilibili.com/cheese/play/ep248278",
+          "years": [
+            2011
+          ],
+          "year": 2011,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 248296,
+          "api_index": 218,
+          "cid": 1298028037,
+          "title": "阅读|2011年text4",
+          "duration": 3139,
+          "url": "https://www.bilibili.com/cheese/play/ep248296",
+          "years": [
+            2011
+          ],
+          "year": 2011,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 248532,
+          "api_index": 219,
+          "cid": 1298676476,
+          "title": "阅读|2012年text2",
+          "duration": 3262,
+          "url": "https://www.bilibili.com/cheese/play/ep248532",
+          "years": [
+            2012
+          ],
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 248533,
+          "api_index": 220,
+          "cid": 1305499179,
+          "title": "阅读|2012年text3",
+          "duration": 3162,
+          "url": "https://www.bilibili.com/cheese/play/ep248533",
+          "years": [
+            2012
+          ],
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 248534,
+          "api_index": 221,
+          "cid": 1298692154,
+          "title": "阅读|2012年text4",
+          "duration": 2639,
+          "url": "https://www.bilibili.com/cheese/play/ep248534",
+          "years": [
+            2012
+          ],
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 228256,
+          "api_index": 222,
+          "cid": 1272118931,
+          "title": "阅读|2013年text1",
+          "duration": 2508,
+          "url": "https://www.bilibili.com/cheese/play/ep228256",
+          "years": [
+            2013
+          ],
+          "year": 2013,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": true,
+          "preview_label": "全集试看",
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 228259,
+          "api_index": 223,
+          "cid": 1272123364,
+          "title": "阅读|2013年text2",
+          "duration": 2637,
+          "url": "https://www.bilibili.com/cheese/play/ep228259",
+          "years": [
+            2013
+          ],
+          "year": 2013,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 228264,
+          "api_index": 224,
+          "cid": 1272126660,
+          "title": "阅读|2013年text3",
+          "duration": 2067,
+          "url": "https://www.bilibili.com/cheese/play/ep228264",
+          "years": [
+            2013
+          ],
+          "year": 2013,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 228284,
+          "api_index": 225,
+          "cid": 1272128820,
+          "title": "阅读|2013年text4",
+          "duration": 2206,
+          "url": "https://www.bilibili.com/cheese/play/ep228284",
+          "years": [
+            2013
+          ],
+          "year": 2013,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 228379,
+          "api_index": 226,
+          "cid": 1272155089,
+          "title": "阅读|2014年text1",
+          "duration": 2318,
+          "url": "https://www.bilibili.com/cheese/play/ep228379",
+          "years": [
+            2014
+          ],
+          "year": 2014,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 228396,
+          "api_index": 227,
+          "cid": 1272156620,
+          "title": "阅读|2014年text2",
+          "duration": 3012,
+          "url": "https://www.bilibili.com/cheese/play/ep228396",
+          "years": [
+            2014
+          ],
+          "year": 2014,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 228397,
+          "api_index": 228,
+          "cid": 1272160054,
+          "title": "阅读|2014年text3",
+          "duration": 2406,
+          "url": "https://www.bilibili.com/cheese/play/ep228397",
+          "years": [
+            2014
+          ],
+          "year": 2014,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 228424,
+          "api_index": 229,
+          "cid": 1272163952,
+          "title": "阅读|2014年text4",
+          "duration": 2181,
+          "url": "https://www.bilibili.com/cheese/play/ep228424",
+          "years": [
+            2014
+          ],
+          "year": 2014,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 231064,
+          "api_index": 230,
+          "cid": 1275464007,
+          "title": "阅读|2015年text1",
+          "duration": 2264,
+          "url": "https://www.bilibili.com/cheese/play/ep231064",
+          "years": [
+            2015
+          ],
+          "year": 2015,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 231131,
+          "api_index": 231,
+          "cid": 1275495177,
+          "title": "阅读|2015年text2",
+          "duration": 2252,
+          "url": "https://www.bilibili.com/cheese/play/ep231131",
+          "years": [
+            2015
+          ],
+          "year": 2015,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 231274,
+          "api_index": 232,
+          "cid": 1275511530,
+          "title": "阅读|2015年text3",
+          "duration": 2555,
+          "url": "https://www.bilibili.com/cheese/play/ep231274",
+          "years": [
+            2015
+          ],
+          "year": 2015,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 236937,
+          "api_index": 233,
+          "cid": 1281498467,
+          "title": "阅读|2015年text4",
+          "duration": 1550,
+          "url": "https://www.bilibili.com/cheese/play/ep236937",
+          "years": [
+            2015
+          ],
+          "year": 2015,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 236944,
+          "api_index": 234,
+          "cid": 1281500309,
+          "title": "阅读|2016年text1",
+          "duration": 2234,
+          "url": "https://www.bilibili.com/cheese/play/ep236944",
+          "years": [
+            2016
+          ],
+          "year": 2016,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 236952,
+          "api_index": 235,
+          "cid": 1281549464,
+          "title": "阅读|2016年text2",
+          "duration": 2224,
+          "url": "https://www.bilibili.com/cheese/play/ep236952",
+          "years": [
+            2016
+          ],
+          "year": 2016,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 253352,
+          "api_index": 236,
+          "cid": 1304061392,
+          "title": "小作文|2010&2011年真题",
+          "duration": 3427,
+          "url": "https://www.bilibili.com/cheese/play/ep253352",
+          "years": [
+            2010,
+            2011
+          ],
+          "year": null,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 255428,
+          "api_index": 237,
+          "cid": 1305505257,
+          "title": "小作文|2012年真题",
+          "duration": 1577,
+          "url": "https://www.bilibili.com/cheese/play/ep255428",
+          "years": [
+            2012
+          ],
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 256266,
+          "api_index": 238,
+          "cid": 1306362874,
+          "title": "小作文|2013-2015年真题",
+          "duration": 4560,
+          "url": "https://www.bilibili.com/cheese/play/ep256266",
+          "years": [
+            2013,
+            2014,
+            2015
+          ],
+          "year": null,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 256196,
+          "api_index": 239,
+          "cid": 1306360873,
+          "title": "小作文|2016年真题",
+          "duration": 671,
+          "url": "https://www.bilibili.com/cheese/play/ep256196",
+          "years": [
+            2016
+          ],
+          "year": 2016,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 254059,
+          "api_index": 240,
+          "cid": 1304422591,
+          "title": "大作文|2010&2011真题",
+          "duration": 3969,
+          "url": "https://www.bilibili.com/cheese/play/ep254059",
+          "years": [
+            2010,
+            2011
+          ],
+          "year": null,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 253923,
+          "api_index": 241,
+          "cid": 1304412606,
+          "title": "大作文|2012年真题",
+          "duration": 2216,
+          "url": "https://www.bilibili.com/cheese/play/ep253923",
+          "years": [
+            2012
+          ],
+          "year": 2012,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 255446,
+          "api_index": 242,
+          "cid": 1305507345,
+          "title": "大作文|2013&2014年真题",
+          "duration": 2809,
+          "url": "https://www.bilibili.com/cheese/play/ep255446",
+          "years": [
+            2013,
+            2014
+          ],
+          "year": null,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 256195,
+          "api_index": 243,
+          "cid": 1306353018,
+          "title": "大作文|2015&2016年真题",
+          "duration": 3333,
+          "url": "https://www.bilibili.com/cheese/play/ep256195",
+          "years": [
+            2015,
+            2016
+          ],
+          "year": null,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 329384,
+          "api_index": 244,
+          "cid": 1348624527,
+          "title": "完型|2017真题",
+          "duration": 1479,
+          "url": "https://www.bilibili.com/cheese/play/ep329384",
+          "years": [
+            2017
+          ],
+          "year": 2017,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 329407,
+          "api_index": 245,
+          "cid": 1348629980,
+          "title": "完型|2018真题",
+          "duration": 1307,
+          "url": "https://www.bilibili.com/cheese/play/ep329407",
+          "years": [
+            2018
+          ],
+          "year": 2018,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 329433,
+          "api_index": 246,
+          "cid": 1348641899,
+          "title": "完型|2019真题",
+          "duration": 1251,
+          "url": "https://www.bilibili.com/cheese/play/ep329433",
+          "years": [
+            2019
+          ],
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 329629,
+          "api_index": 247,
+          "cid": 1348650560,
+          "title": "完型|2020真题",
+          "duration": 1505,
+          "url": "https://www.bilibili.com/cheese/play/ep329629",
+          "years": [
+            2020
+          ],
+          "year": 2020,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 329705,
+          "api_index": 248,
+          "cid": 1348716168,
+          "title": "完型|2021真题",
+          "duration": 1737,
+          "url": "https://www.bilibili.com/cheese/play/ep329705",
+          "years": [
+            2021
+          ],
+          "year": 2021,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 308270,
+          "api_index": 249,
+          "cid": 1340285795,
+          "title": "完型|2022真题",
+          "duration": 1855,
+          "url": "https://www.bilibili.com/cheese/play/ep308270",
+          "years": [
+            2022
+          ],
+          "year": 2022,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 309191,
+          "api_index": 250,
+          "cid": 1340623589,
+          "title": "完型|2023真题",
+          "duration": 1658,
+          "url": "https://www.bilibili.com/cheese/play/ep309191",
+          "years": [
+            2023
+          ],
+          "year": 2023,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "完型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": true,
+          "preview_label": "全集试看",
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 274790,
+          "api_index": 251,
+          "cid": 1321222739,
+          "title": "阅读|2019Text1真题",
+          "duration": 2239,
+          "url": "https://www.bilibili.com/cheese/play/ep274790",
+          "years": [
+            2019
+          ],
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": true,
+          "preview_label": "全集试看",
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 274812,
+          "api_index": 252,
+          "cid": 1321230244,
+          "title": "阅读|2019Text2真题",
+          "duration": 2158,
+          "url": "https://www.bilibili.com/cheese/play/ep274812",
+          "years": [
+            2019
+          ],
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 274813,
+          "api_index": 253,
+          "cid": 1321238066,
+          "title": "阅读|2019Text3真题",
+          "duration": 1729,
+          "url": "https://www.bilibili.com/cheese/play/ep274813",
+          "years": [
+            2019
+          ],
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 274815,
+          "api_index": 254,
+          "cid": 1321242662,
+          "title": "阅读|2019Text4真题",
+          "duration": 1891,
+          "url": "https://www.bilibili.com/cheese/play/ep274815",
+          "years": [
+            2019
+          ],
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 276089,
+          "api_index": 255,
+          "cid": 1323506834,
+          "title": "阅读|2020Text1真题",
+          "duration": 1717,
+          "url": "https://www.bilibili.com/cheese/play/ep276089",
+          "years": [
+            2020
+          ],
+          "year": 2020,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 276090,
+          "api_index": 256,
+          "cid": 1323510905,
+          "title": "阅读|2020Text2真题",
+          "duration": 2039,
+          "url": "https://www.bilibili.com/cheese/play/ep276090",
+          "years": [
+            2020
+          ],
+          "year": 2020,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 281031,
+          "api_index": 257,
+          "cid": 1327686633,
+          "title": "阅读|2020Text4真题",
+          "duration": 1842,
+          "url": "https://www.bilibili.com/cheese/play/ep281031",
+          "years": [
+            2020
+          ],
+          "year": 2020,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 281025,
+          "api_index": 258,
+          "cid": 1327631686,
+          "title": "阅读|2021text1真题",
+          "duration": 2538,
+          "url": "https://www.bilibili.com/cheese/play/ep281025",
+          "years": [
+            2021
+          ],
+          "year": 2021,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 281147,
+          "api_index": 259,
+          "cid": 1327697037,
+          "title": "阅读|2021text2真题",
+          "duration": 2324,
+          "url": "https://www.bilibili.com/cheese/play/ep281147",
+          "years": [
+            2021
+          ],
+          "year": 2021,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 281263,
+          "api_index": 260,
+          "cid": 1327772406,
+          "title": "阅读|2021Text3真题",
+          "duration": 2524,
+          "url": "https://www.bilibili.com/cheese/play/ep281263",
+          "years": [
+            2021
+          ],
+          "year": 2021,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311935,
+          "api_index": 261,
+          "cid": 1341690153,
+          "title": "阅读|2021Text4真题",
+          "duration": 2644,
+          "url": "https://www.bilibili.com/cheese/play/ep311935",
+          "years": [
+            2021
+          ],
+          "year": 2021,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 308309,
+          "api_index": 262,
+          "cid": 1340377927,
+          "title": "阅读|2022Text1真题",
+          "duration": 1890,
+          "url": "https://www.bilibili.com/cheese/play/ep308309",
+          "years": [
+            2022
+          ],
+          "year": 2022,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 308662,
+          "api_index": 263,
+          "cid": 1340395003,
+          "title": "阅读|2022Text2真题",
+          "duration": 1395,
+          "url": "https://www.bilibili.com/cheese/play/ep308662",
+          "years": [
+            2022
+          ],
+          "year": 2022,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 308692,
+          "api_index": 264,
+          "cid": 1340467354,
+          "title": "阅读|2022Text3真题",
+          "duration": 1608,
+          "url": "https://www.bilibili.com/cheese/play/ep308692",
+          "years": [
+            2022
+          ],
+          "year": 2022,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 308771,
+          "api_index": 265,
+          "cid": 1340473313,
+          "title": "阅读|2022Text4真题",
+          "duration": 1540,
+          "url": "https://www.bilibili.com/cheese/play/ep308771",
+          "years": [
+            2022
+          ],
+          "year": 2022,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311400,
+          "api_index": 266,
+          "cid": 1341587210,
+          "title": "阅读|2023Text1真题",
+          "duration": 1397,
+          "url": "https://www.bilibili.com/cheese/play/ep311400",
+          "years": [
+            2023
+          ],
+          "year": 2023,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": true,
+          "preview_label": "全集试看",
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311451,
+          "api_index": 267,
+          "cid": 1341592705,
+          "title": "阅读|2023Text2真题",
+          "duration": 1620,
+          "url": "https://www.bilibili.com/cheese/play/ep311451",
+          "years": [
+            2023
+          ],
+          "year": 2023,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311504,
+          "api_index": 268,
+          "cid": 1341595742,
+          "title": "阅读|2023Text3真题",
+          "duration": 1456,
+          "url": "https://www.bilibili.com/cheese/play/ep311504",
+          "years": [
+            2023
+          ],
+          "year": 2023,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311566,
+          "api_index": 269,
+          "cid": 1341600780,
+          "title": "阅读|2023Text4真题",
+          "duration": 1526,
+          "url": "https://www.bilibili.com/cheese/play/ep311566",
+          "years": [
+            2023
+          ],
+          "year": 2023,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "阅读",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 284005,
+          "api_index": 270,
+          "cid": 1330616237,
+          "title": "新题型|2017年真题",
+          "duration": 527,
+          "url": "https://www.bilibili.com/cheese/play/ep284005",
+          "years": [
+            2017
+          ],
+          "year": 2017,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 284017,
+          "api_index": 271,
+          "cid": 1330640060,
+          "title": "新题型|2018年真题",
+          "duration": 944,
+          "url": "https://www.bilibili.com/cheese/play/ep284017",
+          "years": [
+            2018
+          ],
+          "year": 2018,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 284036,
+          "api_index": 272,
+          "cid": 1330641768,
+          "title": "新题型|2019年真题（多项对应技巧）",
+          "duration": 902,
+          "url": "https://www.bilibili.com/cheese/play/ep284036",
+          "years": [
+            2019
+          ],
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 284039,
+          "api_index": 273,
+          "cid": 1330643318,
+          "title": "新题型|2020年真题",
+          "duration": 1306,
+          "url": "https://www.bilibili.com/cheese/play/ep284039",
+          "years": [
+            2020
+          ],
+          "year": 2020,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 284054,
+          "api_index": 274,
+          "cid": 1330646505,
+          "title": "新题型|2021年真题（标题匹配技巧）",
+          "duration": 1898,
+          "url": "https://www.bilibili.com/cheese/play/ep284054",
+          "years": [
+            2021
+          ],
+          "year": 2021,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311837,
+          "api_index": 275,
+          "cid": 1341643246,
+          "title": "新题型|2022年真题",
+          "duration": 1077,
+          "url": "https://www.bilibili.com/cheese/play/ep311837",
+          "years": [
+            2022
+          ],
+          "year": 2022,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311881,
+          "api_index": 276,
+          "cid": 1341664138,
+          "title": "新题型|2023年真题",
+          "duration": 685,
+          "url": "https://www.bilibili.com/cheese/play/ep311881",
+          "years": [
+            2023
+          ],
+          "year": 2023,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "新题型",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 308819,
+          "api_index": 277,
+          "cid": 1340499568,
+          "title": "翻译|2017真题",
+          "duration": 1369,
+          "url": "https://www.bilibili.com/cheese/play/ep308819",
+          "years": [
+            2017
+          ],
+          "year": 2017,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 309094,
+          "api_index": 278,
+          "cid": 1340506488,
+          "title": "翻译|2018真题",
+          "duration": 634,
+          "url": "https://www.bilibili.com/cheese/play/ep309094",
+          "years": [
+            2018
+          ],
+          "year": 2018,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 309096,
+          "api_index": 279,
+          "cid": 1340609302,
+          "title": "翻译|2019真题",
+          "duration": 594,
+          "url": "https://www.bilibili.com/cheese/play/ep309096",
+          "years": [
+            2019
+          ],
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 309128,
+          "api_index": 280,
+          "cid": 1340613475,
+          "title": "翻译|2020真题",
+          "duration": 529,
+          "url": "https://www.bilibili.com/cheese/play/ep309128",
+          "years": [
+            2020
+          ],
+          "year": 2020,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 309130,
+          "api_index": 281,
+          "cid": 1340616416,
+          "title": "翻译|2021真题",
+          "duration": 790,
+          "url": "https://www.bilibili.com/cheese/play/ep309130",
+          "years": [
+            2021
+          ],
+          "year": 2021,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 309151,
+          "api_index": 282,
+          "cid": 1340618472,
+          "title": "翻译|2022真题",
+          "duration": 640,
+          "url": "https://www.bilibili.com/cheese/play/ep309151",
+          "years": [
+            2022
+          ],
+          "year": 2022,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311868,
+          "api_index": 283,
+          "cid": 1341655819,
+          "title": "翻译|2023真题",
+          "duration": 733,
+          "url": "https://www.bilibili.com/cheese/play/ep311868",
+          "years": [
+            2023
+          ],
+          "year": 2023,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "翻译",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 291265,
+          "api_index": 287,
+          "cid": 1333009276,
+          "title": "小作文|2017年真题",
+          "duration": 1086,
+          "url": "https://www.bilibili.com/cheese/play/ep291265",
+          "years": [
+            2017
+          ],
+          "year": 2017,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": true,
+          "preview_label": "全集试看",
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 294237,
+          "api_index": 288,
+          "cid": 1333913465,
+          "title": "小作文|2018年真题",
+          "duration": 1202,
+          "url": "https://www.bilibili.com/cheese/play/ep294237",
+          "years": [
+            2018
+          ],
+          "year": 2018,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 294377,
+          "api_index": 289,
+          "cid": 1334088481,
+          "title": "小作文|2019年真题",
+          "duration": 1061,
+          "url": "https://www.bilibili.com/cheese/play/ep294377",
+          "years": [
+            2019
+          ],
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 294575,
+          "api_index": 290,
+          "cid": 1334122604,
+          "title": "小作文|2020年真题",
+          "duration": 1746,
+          "url": "https://www.bilibili.com/cheese/play/ep294575",
+          "years": [
+            2020
+          ],
+          "year": 2020,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 294659,
+          "api_index": 291,
+          "cid": 1334156186,
+          "title": "小作文|2021年真题",
+          "duration": 1297,
+          "url": "https://www.bilibili.com/cheese/play/ep294659",
+          "years": [
+            2021
+          ],
+          "year": 2021,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 304205,
+          "api_index": 292,
+          "cid": 1339081471,
+          "title": "大作文|2017年真题",
+          "duration": 1293,
+          "url": "https://www.bilibili.com/cheese/play/ep304205",
+          "years": [
+            2017
+          ],
+          "year": 2017,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": true,
+          "preview_label": "全集试看",
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 304227,
+          "api_index": 293,
+          "cid": 1339082823,
+          "title": "大作文|2018年真题",
+          "duration": 1725,
+          "url": "https://www.bilibili.com/cheese/play/ep304227",
+          "years": [
+            2018
+          ],
+          "year": 2018,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 304251,
+          "api_index": 294,
+          "cid": 1339089519,
+          "title": "大作文|2019年真题",
+          "duration": 2175,
+          "url": "https://www.bilibili.com/cheese/play/ep304251",
+          "years": [
+            2019
+          ],
+          "year": 2019,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 304272,
+          "api_index": 295,
+          "cid": 1339095424,
+          "title": "大作文|2020年真题",
+          "duration": 1938,
+          "url": "https://www.bilibili.com/cheese/play/ep304272",
+          "years": [
+            2020
+          ],
+          "year": 2020,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 304273,
+          "api_index": 296,
+          "cid": 1339100217,
+          "title": "大作文|2021年真题",
+          "duration": 2439,
+          "url": "https://www.bilibili.com/cheese/play/ep304273",
+          "years": [
+            2021
+          ],
+          "year": 2021,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311846,
+          "api_index": 297,
+          "cid": 1341648619,
+          "title": "大小作文|2022真题",
+          "duration": 967,
+          "url": "https://www.bilibili.com/cheese/play/ep311846",
+          "years": [
+            2022
+          ],
+          "year": 2022,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        },
+        {
+          "ep_id": 311859,
+          "api_index": 298,
+          "cid": 1341652728,
+          "title": "大小作文|2023真题",
+          "duration": 1227,
+          "url": "https://www.bilibili.com/cheese/play/ep311859",
+          "years": [
+            2023
+          ],
+          "year": 2023,
+          "exam": "204",
+          "exam_name": "英语二",
+          "scope": "大小作文",
+          "question_range": null,
+          "content_status": "restricted_directory_only",
+          "playable_flag": false,
+          "preview_label": null,
+          "timestamp_evidence": null
+        }
+      ],
+      "note": "API index 与网页展示课时序号不完全一致，使用 ep_id 链接作为稳定标识；302课时声明与303条API记录并存（含宣传课），不把总课时当真题数。"
+    }
+  ],
+  "excluded_sources": [
+    {
+      "bvid": "BV1eZ421H7X8",
+      "reason": "简介明确为英语一02–09经典阅读，不能当英语二真题。",
+      "research_artifact_name": "BV1eZ421H7X8.json",
+      "research_artifact_bundled": false
+    },
+    {
+      "bvid": "BV1Bm42137Ke",
+      "reason": "发布者金程考研辅导，未证实主讲为陈正康，不纳入该老师Skill。",
+      "research_artifact_name": "BV1Bm42137Ke.json",
+      "research_artifact_bundled": false
+    },
+    {
+      "season_id": 3732674,
+      "reason": "混合集合包含英语一2010/2011、2009及技巧课；仅独立收录标题明确英二2012的4条。",
+      "research_artifact_name": "BV1VZxjebEBC.json",
+      "research_artifact_bundled": false
+    }
+  ],
+  "coverage": {
+    "public_courses": 6,
+    "public_pages": 13,
+    "public_years": [
+      2012,
+      2019,
+      2024,
+      2025
+    ],
+    "public_reading_texts": 12,
+    "claimed_full_paper_courses": 1,
+    "content_distilled_courses": 0,
+    "restricted_directory_episodes": 103,
+    "not_confirmed_public_years": [
+      2010,
+      2011,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021,
+      2022,
+      2023,
+      2026
+    ],
+    "not_confirmed_public_note": "仅表示本次未确认可用公开解析，不表示这些视频不存在。"
+  },
+  "publication_note": "原始API响应、研究截图和转写未随Skill发布；保留可公开复核的URL、BV/CID、目录和证据层级。research_artifact_name仅记录原研究文件名，不是包内依赖。"
+}

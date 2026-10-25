@@ -1,0 +1,745 @@
+{
+  "checked_at": "2026-10-25",
+  "courses": [
+    {
+      "bvid": "BV1wD9MBfEqM",
+      "title": "【已完结】2027老吕写作要点7讲/管综写作、经综写作零基础入门及高分备考方案/199管理类联考、396经济类联考系统课程/MBA、MEM、MPAcc、MF",
+      "url": "https://www.bilibili.com/video/BV1wD9MBfEqM",
+      "teacher": "老吕",
+      "uploader": "老吕考研吕建刚",
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified",
+      "access": "public_metadata_playback_not_tested",
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "exam": "199",
+      "scope": "基础课内真题",
+      "pages": [
+        {
+          "page": 15,
+          "cid": 38181930018,
+          "title": "第4讲 第1节 2021年管理类联考论证有效性分析真题",
+          "duration": 2354,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=15",
+          "year": 2021,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 16,
+          "cid": 38181930441,
+          "title": "第4讲 第1节 2022年管理类联考论证有效性分析真题",
+          "duration": 1428,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=16",
+          "year": 2022,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 17,
+          "cid": 38213652308,
+          "title": "第4讲 第1节 2023年管理类联考论证有效性分析真题",
+          "duration": 1205,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=17",
+          "year": 2023,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 18,
+          "cid": 38186320950,
+          "title": "第4讲 第1节 2024年管理类联考论证有效性分析真题",
+          "duration": 1304,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=18",
+          "year": 2024,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 19,
+          "cid": 38213714175,
+          "title": "第4讲 第1节 2025年管理类联考论证有效性分析真题",
+          "duration": 1821,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=19",
+          "year": 2025,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 20,
+          "cid": 38149753681,
+          "title": "第4讲 第2节 2021年经济类联考论证有效性分析真题",
+          "duration": 1218,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=20",
+          "year": 2021,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 21,
+          "cid": 38149754196,
+          "title": "第4讲 第2节 2022年经济类联考论证有效性分析真题",
+          "duration": 1005,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=21",
+          "year": 2022,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 22,
+          "cid": 38149754570,
+          "title": "第4讲 第2节 2023年经济类联考论证有效性分析真题",
+          "duration": 1222,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=22",
+          "year": 2023,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 23,
+          "cid": 38149816345,
+          "title": "第4讲 第2节 2024年经济类联考论证有效性分析真题",
+          "duration": 831,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=23",
+          "year": 2024,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 24,
+          "cid": 38181995115,
+          "title": "第4讲 第2节 2025年经济类联考论证有效性分析真题",
+          "duration": 1096,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=24",
+          "year": 2025,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 25,
+          "cid": 38181995963,
+          "title": "第4讲 第2节 2026年经济类联考论证有效性分析真题",
+          "duration": 1198,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=25",
+          "year": 2026,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论证有效性分析",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 37,
+          "cid": 38272502485,
+          "title": "第7讲 第1节 2021年管理类联考论说文真题",
+          "duration": 717,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=37",
+          "year": 2021,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 38,
+          "cid": 38272502563,
+          "title": "第7讲 第1节 2022年管理类联考论说文真题",
+          "duration": 767,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=38",
+          "year": 2022,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 39,
+          "cid": 38272502644,
+          "title": "第7讲 第1节 2023年管理类联考论说文真题",
+          "duration": 776,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=39",
+          "year": 2023,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 40,
+          "cid": 38272503296,
+          "title": "第7讲 第1节 2024年管理类联考论说文真题",
+          "duration": 701,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=40",
+          "year": 2024,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 41,
+          "cid": 38272565360,
+          "title": "第7讲 第1节 2025年管理类联考论说文真题",
+          "duration": 885,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=41",
+          "year": 2025,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 42,
+          "cid": 38272565604,
+          "title": "第7讲 第1节 2026年管理类联考论说文真题",
+          "duration": 1115,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=42",
+          "year": 2026,
+          "exam": "199",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 43,
+          "cid": 38272565927,
+          "title": "第7讲 第2节 2021年经济类联考论说文真题",
+          "duration": 1071,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=43",
+          "year": 2021,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 44,
+          "cid": 38272565996,
+          "title": "第7讲 第2节 2022年经济类联考论说文真题",
+          "duration": 826,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=44",
+          "year": 2022,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 45,
+          "cid": 38272566129,
+          "title": "第7讲 第2节 2023年经济类联考论说文真题",
+          "duration": 976,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=45",
+          "year": 2023,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 46,
+          "cid": 38272566268,
+          "title": "第7讲 第2节 2024年经济类联考论说文真题",
+          "duration": 1170,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=46",
+          "year": 2024,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 47,
+          "cid": 38272566506,
+          "title": "第7讲 第2节 2025年经济类联考论说文真题",
+          "duration": 1083,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=47",
+          "year": 2025,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        },
+        {
+          "page": 48,
+          "cid": 38326897289,
+          "title": "第7讲 第2节 2026年经济类联考论说文真题",
+          "duration": 1018,
+          "url": "https://www.bilibili.com/video/BV1wD9MBfEqM?p=48",
+          "year": 2026,
+          "exam": "396",
+          "question_range": null,
+          "scope": "论说文",
+          "evidence_level": "existing_chapter_summary"
+        }
+      ],
+      "research_artifact_name": "BV1wD9MBfEqM.json",
+      "research_artifact_bundled": false
+    },
+    {
+      "bvid": "BV15R4y1W7sB",
+      "title": "【已完结】老吕考研管理类联考历年真题精讲|管综\\经综\\MBA\\MPACC\\MPA\\MLIS\\MEM\\MF\\MI均适用",
+      "url": "https://www.bilibili.com/video/BV15R4y1W7sB",
+      "teacher": "老吕",
+      "uploader": "乐学喵考研官方账号",
+      "verified_at": "2026-10-25",
+      "evidence_level": "metadata_verified",
+      "access": "public_metadata_playback_not_tested",
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "exam": "199_candidate",
+      "scope": "年度写作；标题含管综/经综，作答前核题面",
+      "pages": [
+        {
+          "page": 2,
+          "cid": 463299197,
+          "title": "2016年写作真题讲解",
+          "duration": 1446,
+          "url": "https://www.bilibili.com/video/BV15R4y1W7sB?p=2",
+          "year": 2016,
+          "exam": "199_candidate",
+          "question_range": null,
+          "scope": "年度写作；标题含管综/经综，作答前核题面",
+          "evidence_level": "metadata_verified"
+        },
+        {
+          "page": 5,
+          "cid": 469123534,
+          "title": "2017年写作真题讲解",
+          "duration": 1159,
+          "url": "https://www.bilibili.com/video/BV15R4y1W7sB?p=5",
+          "year": 2017,
+          "exam": "199_candidate",
+          "question_range": null,
+          "scope": "年度写作；标题含管综/经综，作答前核题面",
+          "evidence_level": "metadata_verified"
+        },
+        {
+          "page": 8,
+          "cid": 469126412,
+          "title": "2018年写作真题讲解",
+          "duration": 1451,
+          "url": "https://www.bilibili.com/video/BV15R4y1W7sB?p=8",
+          "year": 2018,
+          "exam": "199_candidate",
+          "question_range": null,
+          "scope": "年度写作；标题含管综/经综，作答前核题面",
+          "evidence_level": "metadata_verified"
+        },
+        {
+          "page": 11,
+          "cid": 472932558,
+          "title": "2019年写作真题讲解",
+          "duration": 1301,
+          "url": "https://www.bilibili.com/video/BV15R4y1W7sB?p=11",
+          "year": 2019,
+          "exam": "199_candidate",
+          "question_range": null,
+          "scope": "年度写作；标题含管综/经综，作答前核题面",
+          "evidence_level": "metadata_verified"
+        },
+        {
+          "page": 14,
+          "cid": 472942959,
+          "title": "2020年写作真题讲解",
+          "duration": 1493,
+          "url": "https://www.bilibili.com/video/BV15R4y1W7sB?p=14",
+          "year": 2020,
+          "exam": "199_candidate",
+          "question_range": null,
+          "scope": "年度写作；标题含管综/经综，作答前核题面",
+          "evidence_level": "metadata_verified"
+        },
+        {
+          "page": 17,
+          "cid": 472980775,
+          "title": "2021年写作真题讲解",
+          "duration": 1354,
+          "url": "https://www.bilibili.com/video/BV15R4y1W7sB?p=17",
+          "year": 2021,
+          "exam": "199_candidate",
+          "question_range": null,
+          "scope": "年度写作；标题含管综/经综，作答前核题面",
+          "evidence_level": "metadata_verified"
+        }
+      ],
+      "research_artifact_name": "BV15R4y1W7sB-view.json",
+      "research_artifact_bundled": false
+    },
+    {
+      "season_id": 1516,
+      "title": "24考研老吕写作精讲班｜管理类/经济类联考",
+      "url": "https://www.bilibili.com/cheese/play/ss1516",
+      "teacher": "老吕课程；单课主讲需播放确认",
+      "uploader": "老吕考研吕建刚",
+      "verified_at": "2026-10-25",
+      "evidence_level": "restricted_metadata",
+      "access": "paid_or_expired",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "exam": "199",
+      "scope": "目录可见，未读取付费讲解；不保证可购买或可播放",
+      "pages": [
+        {
+          "page": 29,
+          "ep_id": 218758,
+          "cid": 1259661742,
+          "title": "2014年管综写作真题精讲",
+          "duration": 4668,
+          "url": "https://www.bilibili.com/cheese/play/ep218758",
+          "years": [
+            2014
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 30,
+          "ep_id": 218836,
+          "cid": 1259669293,
+          "title": "2015年管综写作真题精讲",
+          "duration": 2945,
+          "url": "https://www.bilibili.com/cheese/play/ep218836",
+          "years": [
+            2015
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 31,
+          "ep_id": 218892,
+          "cid": 1259712552,
+          "title": "2016年管综写作真题精讲",
+          "duration": 2645,
+          "url": "https://www.bilibili.com/cheese/play/ep218892",
+          "years": [
+            2016
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 32,
+          "ep_id": 218939,
+          "cid": 1259732063,
+          "title": "2017年管综写作真题精讲",
+          "duration": 2081,
+          "url": "https://www.bilibili.com/cheese/play/ep218939",
+          "years": [
+            2017
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 33,
+          "ep_id": 218986,
+          "cid": 1259854185,
+          "title": "2018年管综写作真题精讲",
+          "duration": 2710,
+          "url": "https://www.bilibili.com/cheese/play/ep218986",
+          "years": [
+            2018
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 34,
+          "ep_id": 219024,
+          "cid": 1259896613,
+          "title": "2019年管综写作真题精讲",
+          "duration": 1961,
+          "url": "https://www.bilibili.com/cheese/play/ep219024",
+          "years": [
+            2019
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 35,
+          "ep_id": 219078,
+          "cid": 1259915914,
+          "title": "2020年管综写作真题精讲",
+          "duration": 1451,
+          "url": "https://www.bilibili.com/cheese/play/ep219078",
+          "years": [
+            2020
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 36,
+          "ep_id": 219099,
+          "cid": 1259931718,
+          "title": "2021年管综写作真题精讲",
+          "duration": 2402,
+          "url": "https://www.bilibili.com/cheese/play/ep219099",
+          "years": [
+            2021
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 37,
+          "ep_id": 219132,
+          "cid": 1259948288,
+          "title": "2022年管综写作真题精讲",
+          "duration": 1151,
+          "url": "https://www.bilibili.com/cheese/play/ep219132",
+          "years": [
+            2022
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 38,
+          "ep_id": 219135,
+          "cid": 1259963290,
+          "title": "2023年管综写作真题精讲",
+          "duration": 1242,
+          "url": "https://www.bilibili.com/cheese/play/ep219135",
+          "years": [
+            2023
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        }
+      ],
+      "research_artifact_name": "cheese2024.json",
+      "research_artifact_bundled": false
+    },
+    {
+      "season_id": 587339823,
+      "title": "老吕管综｜26考研老吕管综全程班",
+      "url": "https://www.bilibili.com/cheese/play/ss587339823",
+      "teacher": "老吕课程；单课主讲需播放确认",
+      "uploader": "老吕考研吕建刚",
+      "verified_at": "2026-10-25",
+      "evidence_level": "restricted_metadata",
+      "access": "paid_or_expired",
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "exam": "199",
+      "scope": "目录可见，未读取付费讲解；不保证可购买或可播放",
+      "pages": [
+        {
+          "page": 377,
+          "ep_id": 2016760,
+          "cid": 32628214106,
+          "title": "写作24+25年真题精讲",
+          "duration": 5615,
+          "url": "https://www.bilibili.com/cheese/play/ep2016760",
+          "years": [
+            2024,
+            2025
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 378,
+          "ep_id": 2016769,
+          "cid": 32957664054,
+          "title": "写作23年真题精讲",
+          "duration": 1502,
+          "url": "https://www.bilibili.com/cheese/play/ep2016769",
+          "years": [
+            2023
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 379,
+          "ep_id": 2066487,
+          "cid": 32957727357,
+          "title": "写作22年真题精讲",
+          "duration": 1743,
+          "url": "https://www.bilibili.com/cheese/play/ep2066487",
+          "years": [
+            2022
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 380,
+          "ep_id": 2016771,
+          "cid": 33243988610,
+          "title": "写作20+21年真题精讲（小）",
+          "duration": 5889,
+          "url": "https://www.bilibili.com/cheese/play/ep2016771",
+          "years": [
+            2020,
+            2021
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 381,
+          "ep_id": 2016773,
+          "cid": 33472908729,
+          "title": "写作18+19年真题精讲（小）",
+          "duration": 5313,
+          "url": "https://www.bilibili.com/cheese/play/ep2016773",
+          "years": [
+            2018,
+            2019
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        },
+        {
+          "page": 382,
+          "ep_id": 2016781,
+          "cid": 33693568346,
+          "title": "写作16+17年真题精讲（小）",
+          "duration": 6795,
+          "url": "https://www.bilibili.com/cheese/play/ep2016781",
+          "years": [
+            2016,
+            2017
+          ],
+          "exam": "199",
+          "question_range": null,
+          "scope": "写作年度课；小/大标记保持原样，内容未读取",
+          "evidence_level": "restricted_metadata",
+          "episode_can_view": true,
+          "playable": false
+        }
+      ],
+      "research_artifact_name": "cheese2026.json",
+      "research_artifact_bundled": false
+    }
+  ],
+  "excluded": [
+    {
+      "bvid": "BV1xx7G6REjn",
+      "reason": "标题包含写作，但实际两P均是逻辑，不计写作覆盖"
+    }
+  ],
+  "gaps": [
+    "基础课公开目录未见2026年199论效；不可据“2021-2026”范围补齐",
+    "旧年度合集标题兼容199/396，须题面核验",
+    "付费课目录不等于已取得讲解内容"
+  ],
+  "publication_note": "原始API响应、研究截图和转写未随Skill发布；保留可公开复核的URL、BV/CID、目录和证据层级。research_artifact_name仅记录原研究文件名，不是包内依赖。"
+}

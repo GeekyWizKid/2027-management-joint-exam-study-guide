@@ -17,6 +17,27 @@
 - `agents/openai.yaml`：Codex 中的显示名称与默认调用提示。
 - `references/`：课程路径、逐集索引、章节细则、来源边界、验证和精炼记录。
 
+## 历年真题解析（2026-10-25 增补）
+
+四个 Skill 新增按卷种、年份、题号或阅读 Text 定位 B 站真题课的入口，以及题面核验、整卷统计、逐题错因和跨卷复做流程。
+
+| Skill | 公开目录范围 | 真题入口 |
+| --- | --- | --- |
+| 数学 | 老罗/老吕课程2015—2026年度目录，27P；题内分钟尚未索引 | [索引](laolv-laoluo-guanzong-math/references/past-papers/index.md) |
+| 逻辑 | 薛睿2007—2024年度主线及2007—2014十月联考，另有单题课，共79P；缺题逐条注明 | [索引](xuerui-guanzong-logic/references/past-papers/index.md) |
+| 写作 | 基础课真题23P（含396）及旧年度候选6P；199论效2021—2025、论说文2021—2026 | [索引](laolv-guanzong-writing/references/past-papers/index.md) |
+| 英语二 | 2012阅读、2019成套入口、2024/2025阅读，共13P | [索引](chenzhengkang-english-two/references/past-papers/index.md) |
+
+合计148个公开分P记录，另有149条受限课程目录。它们不是297道独立真题，也不表示所有课程已完成内容提炼。新增内容证据仅包括薛睿2020年第28题样例，以及老吕三个既有写作片段的重新核验；其余新视频保持目录证据级别。
+
+每科 `references/past-papers/` 内含分集索引、可查询目录、工作流、来源与内容证据卡。检索脚本仅依赖Python标准库，可在对应Skill目录执行：
+
+```bash
+python3 scripts/find_past_paper.py --year 2023 --question 51
+```
+
+英语可用 `--text 2`，写作可用 `--type 论说文`；受限目录默认不返回，需加 `--include-restricted`。没有题内定位证据时只返回年度候选，不能编造分钟或老师具体讲法。研究音视频、原始转写和本机路径不包含在本次增补中。
+
 ## 安装
 
 将需要的完整 Skill 子文件夹复制到本机 `~/.codex/skills/`。例如，在本仓库根目录执行：

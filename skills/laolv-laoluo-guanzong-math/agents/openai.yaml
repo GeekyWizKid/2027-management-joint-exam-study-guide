@@ -1,4 +1,4 @@
 interface:
   display_name: "老吕老罗·管综数学方法"
-  short_description: "按母题模型讲解管综数学、定位首次错因并精准路由课程分集回看"
-  default_prompt: "请使用 $laolv-laoluo-guanzong-math 按课程母题讲解这道管综数学题，检查边界并诊断我的首次错因。"
+  short_description: "老吕老罗管综数学方法、历年真题视频定位与逐题错因复盘"
+  default_prompt: "请使用 $laolv-laoluo-guanzong-math 按年份定位真题解析，核对题面和证据，再逐步讲解并诊断错因。"

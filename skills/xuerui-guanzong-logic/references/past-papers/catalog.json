@@ -1,0 +1,2332 @@
+{
+  "schema_version": 1,
+  "subject": "logic",
+  "verified_at": "2026-10-25",
+  "records": [
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2007
+      ],
+      "page": 1,
+      "ep_id": null,
+      "cid": 758084786,
+      "title": "2007.1.26-40",
+      "duration": 3458,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=1",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2007
+      ],
+      "page": 2,
+      "ep_id": null,
+      "cid": 758084102,
+      "title": "2007.1.41—55（无48题、54题）",
+      "duration": 2742,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=2",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [
+        48,
+        54
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2007
+      ],
+      "page": 3,
+      "ep_id": null,
+      "cid": 758083015,
+      "title": "2007.10.31—45（无44题、45题）",
+      "duration": 3022,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=3",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        31,
+        45
+      ],
+      "excluded_questions": [
+        44,
+        45
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2007
+      ],
+      "page": 4,
+      "ep_id": null,
+      "cid": 758082304,
+      "title": "2007.10.46—60（无59题、60题）",
+      "duration": 2147,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=4",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        46,
+        60
+      ],
+      "excluded_questions": [
+        59,
+        60
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2008
+      ],
+      "page": 5,
+      "ep_id": null,
+      "cid": 758081520,
+      "title": "2008.1.26—40（无26题—30题）",
+      "duration": 1934,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=5",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2008
+      ],
+      "page": 6,
+      "ep_id": null,
+      "cid": 758078477,
+      "title": "2008.10.31—45（无33题）",
+      "duration": 3660,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=6",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        31,
+        45
+      ],
+      "excluded_questions": [
+        33
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2008
+      ],
+      "page": 7,
+      "ep_id": null,
+      "cid": 758079663,
+      "title": "2008.1.41—55（无55题）",
+      "duration": 4265,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=7",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [
+        55
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2008
+      ],
+      "page": 8,
+      "ep_id": null,
+      "cid": 758077628,
+      "title": "2008.10.46—60",
+      "duration": 2759,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=8",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        46,
+        60
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2009
+      ],
+      "page": 9,
+      "ep_id": null,
+      "cid": 758076429,
+      "title": "2009.1.26—41",
+      "duration": 3127,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=9",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        41
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2009
+      ],
+      "page": 10,
+      "ep_id": null,
+      "cid": 758075330,
+      "title": "2009.1.42—55",
+      "duration": 3410,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=10",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        42,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2009
+      ],
+      "page": 11,
+      "ep_id": null,
+      "cid": 758089511,
+      "title": "2009.10.41—55",
+      "duration": 3179,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=11",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2009
+      ],
+      "page": 12,
+      "ep_id": null,
+      "cid": 758090610,
+      "title": "2009.10.26—40",
+      "duration": 3212,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=12",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2010
+      ],
+      "page": 13,
+      "ep_id": null,
+      "cid": 758095442,
+      "title": "2010.1.26—40",
+      "duration": 4146,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=13",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2010
+      ],
+      "page": 14,
+      "ep_id": null,
+      "cid": 758094358,
+      "title": "逻辑2010.1.41—55",
+      "duration": 3008,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=14",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2010
+      ],
+      "page": 15,
+      "ep_id": null,
+      "cid": 758092877,
+      "title": "逻辑2010.10.26—40",
+      "duration": 4247,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=15",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2010
+      ],
+      "page": 16,
+      "ep_id": null,
+      "cid": 758091589,
+      "title": "2010.10.41—55",
+      "duration": 3234,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=16",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2011
+      ],
+      "page": 17,
+      "ep_id": null,
+      "cid": 758103200,
+      "title": "2011.1.26—40",
+      "duration": 4422,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=17",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2011
+      ],
+      "page": 18,
+      "ep_id": null,
+      "cid": 758101754,
+      "title": "2011.1.41—55",
+      "duration": 3193,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=18",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2011
+      ],
+      "page": 19,
+      "ep_id": null,
+      "cid": 758105983,
+      "title": "2011.10.26—40（无30题）",
+      "duration": 2634,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=19",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [
+        30
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2011
+      ],
+      "page": 20,
+      "ep_id": null,
+      "cid": 758105045,
+      "title": "2011.10.41—55",
+      "duration": 2614,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=20",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2012
+      ],
+      "page": 21,
+      "ep_id": null,
+      "cid": 758127619,
+      "title": "2012.1.26—40",
+      "duration": 2534,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=21",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2012
+      ],
+      "page": 22,
+      "ep_id": null,
+      "cid": 758126685,
+      "title": "2012.1.41—55",
+      "duration": 2244,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=22",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2012
+      ],
+      "page": 23,
+      "ep_id": null,
+      "cid": 758122877,
+      "title": "2012.10.26—40",
+      "duration": 3237,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=23",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2012
+      ],
+      "page": 24,
+      "ep_id": null,
+      "cid": 758124729,
+      "title": "2012.10.41—55",
+      "duration": 3577,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=24",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2013
+      ],
+      "page": 25,
+      "ep_id": null,
+      "cid": 758251239,
+      "title": "2013.1.26-40",
+      "duration": 4679,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=25",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2013
+      ],
+      "page": 26,
+      "ep_id": null,
+      "cid": 758133001,
+      "title": "2013.1.41—55",
+      "duration": 4629,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=26",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2013
+      ],
+      "page": 27,
+      "ep_id": null,
+      "cid": 758131681,
+      "title": "2013.10.26—41",
+      "duration": 3183,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=27",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        41
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2013
+      ],
+      "page": 28,
+      "ep_id": null,
+      "cid": 758130631,
+      "title": "2013.10.41—55",
+      "duration": 3297,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=28",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2014
+      ],
+      "page": 29,
+      "ep_id": null,
+      "cid": 758174637,
+      "title": "2014.1.26—40",
+      "duration": 4230,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=29",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2014
+      ],
+      "page": 30,
+      "ep_id": null,
+      "cid": 758172967,
+      "title": "2014.1.41—55",
+      "duration": 4271,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=30",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2014
+      ],
+      "page": 31,
+      "ep_id": null,
+      "cid": 758171468,
+      "title": "2014.10.26—41",
+      "duration": 3918,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=31",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        41
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "october_joint",
+      "years": [
+        2014
+      ],
+      "page": 32,
+      "ep_id": null,
+      "cid": 758176510,
+      "title": "2014.10.41—55（无44题）",
+      "duration": 2986,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=32",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [
+        44
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2015
+      ],
+      "page": 33,
+      "ep_id": null,
+      "cid": 758202853,
+      "title": "2015.26—40",
+      "duration": 4465,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=33",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2015
+      ],
+      "page": 34,
+      "ep_id": null,
+      "cid": 777781154,
+      "title": "2015.41-55",
+      "duration": 3684,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=34",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2016
+      ],
+      "page": 35,
+      "ep_id": null,
+      "cid": 818117000,
+      "title": "2016.26-40",
+      "duration": 4230,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=35",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2016
+      ],
+      "page": 36,
+      "ep_id": null,
+      "cid": 758204656,
+      "title": "2016.41—55",
+      "duration": 4207,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=36",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2017
+      ],
+      "page": 37,
+      "ep_id": null,
+      "cid": 758211843,
+      "title": "2017.26—40",
+      "duration": 4001,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=37",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2017
+      ],
+      "page": 38,
+      "ep_id": null,
+      "cid": 758209888,
+      "title": "2017.41—55",
+      "duration": 4231,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=38",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2018
+      ],
+      "page": 39,
+      "ep_id": null,
+      "cid": 758216704,
+      "title": "2018.26—40（无36题、39题、40题）  2.2&2.5",
+      "duration": 2813,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=39",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [
+        36,
+        39,
+        40
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2018
+      ],
+      "page": 40,
+      "ep_id": null,
+      "cid": 758215051,
+      "title": "2018.41—55（无41题、42题、44题）",
+      "duration": 3367,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=40",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [
+        41,
+        42,
+        44
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2019
+      ],
+      "page": 41,
+      "ep_id": null,
+      "cid": 758217926,
+      "title": "2019.26—40",
+      "duration": 4343,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=41",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2019
+      ],
+      "page": 42,
+      "ep_id": null,
+      "cid": 758213563,
+      "title": "2019.41—55（无46题、47题） 2.2&2.5",
+      "duration": 3417,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=42",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [
+        46,
+        47
+      ],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2020
+      ],
+      "page": 43,
+      "ep_id": null,
+      "cid": 758224697,
+      "title": "2020.26—40",
+      "duration": 3656,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=43",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2020
+      ],
+      "page": 44,
+      "ep_id": null,
+      "cid": 758223382,
+      "title": "2020.41—55",
+      "duration": 3125,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=44",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2021
+      ],
+      "page": 45,
+      "ep_id": null,
+      "cid": 758227761,
+      "title": "2021.26—41",
+      "duration": 3526,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=45",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        41
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2021
+      ],
+      "page": 46,
+      "ep_id": null,
+      "cid": 758226352,
+      "title": "2021.42—55",
+      "duration": 3461,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=46",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        42,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2022
+      ],
+      "page": 47,
+      "ep_id": null,
+      "cid": 866641405,
+      "title": "2022真题精讲26-40",
+      "duration": 4259,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=47",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2022
+      ],
+      "page": 48,
+      "ep_id": null,
+      "cid": 866644750,
+      "title": "2022真题精讲41-55",
+      "duration": 3445,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=48",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 49,
+      "ep_id": null,
+      "cid": 1597480363,
+      "title": "2023真题精讲26-40",
+      "duration": 4025,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=49",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 50,
+      "ep_id": null,
+      "cid": 1597481761,
+      "title": "2023真题精讲41-55",
+      "duration": 3978,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=50",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2024
+      ],
+      "page": 51,
+      "ep_id": null,
+      "cid": 1597483319,
+      "title": "2024真题精讲26-40",
+      "duration": 2230,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=51",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1d3411V7k3",
+      "season_id": null,
+      "course_title": "管理类联考/199管综逻辑/薛睿/2007-2024年 26套逻辑真题精讲【MBA大师】",
+      "teacher": "薛睿",
+      "uploader": "MBA大师",
+      "exam": "199",
+      "years": [
+        2024
+      ],
+      "page": 52,
+      "ep_id": null,
+      "cid": 1597484030,
+      "title": "2024真题精讲41-55",
+      "duration": 1678,
+      "url": "https://www.bilibili.com/video/BV1d3411V7k3/?p=52",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 1,
+      "ep_id": null,
+      "cid": 1367875463,
+      "title": "2023.26",
+      "duration": 693,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=1",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        26,
+        26
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 2,
+      "ep_id": null,
+      "cid": 1367875067,
+      "title": "2023.27",
+      "duration": 281,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=2",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        27,
+        27
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 3,
+      "ep_id": null,
+      "cid": 1367857969,
+      "title": "2023.28",
+      "duration": 195,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=3",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        28,
+        28
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 4,
+      "ep_id": null,
+      "cid": 1367883180,
+      "title": "2023.29",
+      "duration": 287,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=4",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        29,
+        29
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 5,
+      "ep_id": null,
+      "cid": 1367883624,
+      "title": "2023.30",
+      "duration": 188,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=5",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        30,
+        30
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 6,
+      "ep_id": null,
+      "cid": 1367883442,
+      "title": "2023.31-32",
+      "duration": 712,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=6",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        31,
+        32
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 7,
+      "ep_id": null,
+      "cid": 1367883858,
+      "title": "2023.33",
+      "duration": 313,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=7",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        33,
+        33
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 8,
+      "ep_id": null,
+      "cid": 1367883806,
+      "title": "2023.34",
+      "duration": 218,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=8",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        34,
+        34
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 9,
+      "ep_id": null,
+      "cid": 1367883808,
+      "title": "2023.35",
+      "duration": 178,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=9",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        35,
+        35
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 10,
+      "ep_id": null,
+      "cid": 1367884116,
+      "title": "2023.36",
+      "duration": 215,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=10",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        36,
+        36
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 11,
+      "ep_id": null,
+      "cid": 1367884115,
+      "title": "2023.37-38",
+      "duration": 397,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=11",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        37,
+        38
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 12,
+      "ep_id": null,
+      "cid": 1367883958,
+      "title": "2023.39",
+      "duration": 261,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=12",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        39,
+        39
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 13,
+      "ep_id": null,
+      "cid": 1367884202,
+      "title": "2023.40",
+      "duration": 97,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=13",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        40,
+        40
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 14,
+      "ep_id": null,
+      "cid": 1367884140,
+      "title": "2023.41",
+      "duration": 166,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=14",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        41,
+        41
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 15,
+      "ep_id": null,
+      "cid": 1367884239,
+      "title": "2023.42",
+      "duration": 321,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=15",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        42,
+        42
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 16,
+      "ep_id": null,
+      "cid": 1367885156,
+      "title": "2023.43",
+      "duration": 286,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=16",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        43,
+        43
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 17,
+      "ep_id": null,
+      "cid": 1367885517,
+      "title": "2023.44",
+      "duration": 164,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=17",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        44,
+        44
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 18,
+      "ep_id": null,
+      "cid": 1367885920,
+      "title": "2023.45",
+      "duration": 301,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=18",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        45,
+        45
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 19,
+      "ep_id": null,
+      "cid": 1367885975,
+      "title": "2023.46-47",
+      "duration": 608,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=19",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        46,
+        47
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 20,
+      "ep_id": null,
+      "cid": 1367886212,
+      "title": "2023.48",
+      "duration": 275,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=20",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        48,
+        48
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 21,
+      "ep_id": null,
+      "cid": 1367886251,
+      "title": "2023.49",
+      "duration": 339,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=21",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        49,
+        49
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 22,
+      "ep_id": null,
+      "cid": 1367886325,
+      "title": "2023.50",
+      "duration": 159,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=22",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        50,
+        50
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 23,
+      "ep_id": null,
+      "cid": 1367886388,
+      "title": "2023.52",
+      "duration": 298,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=23",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        52,
+        52
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 24,
+      "ep_id": null,
+      "cid": 1367886389,
+      "title": "2023.53",
+      "duration": 260,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=24",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        53,
+        53
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1te411k7qP",
+      "season_id": null,
+      "course_title": "【2023年管综逻辑真题】【薛睿】千万催更的23真题 请你查收收藏",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2023
+      ],
+      "page": 25,
+      "ep_id": null,
+      "cid": 1367886518,
+      "title": "2023.54-55",
+      "duration": 437,
+      "url": "https://www.bilibili.com/video/BV1te411k7qP/?p=25",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        54,
+        55
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1P84y1R7CM",
+      "season_id": null,
+      "course_title": "【2020年管综逻辑真题讲解】第28题 论证推理类题目",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2020
+      ],
+      "page": 1,
+      "ep_id": null,
+      "cid": 1310755853,
+      "title": "【2020年管综逻辑真题讲解】第28题 论证推理类题目",
+      "duration": 161,
+      "url": "https://www.bilibili.com/video/BV1P84y1R7CM/?p=1",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        28,
+        28
+      ],
+      "excluded_questions": [],
+      "evidence_level": "sample_content_verified",
+      "restricted": false,
+      "content_status": "sample_content_verified",
+      "verified_at": "2026-10-25"
+    },
+    {
+      "subject": "logic",
+      "bvid": "BV1ae411R7ie",
+      "season_id": null,
+      "course_title": "【2020年管综逻辑真题课】第27题",
+      "teacher": "薛睿",
+      "uploader": "逻辑薛睿",
+      "exam": "199",
+      "years": [
+        2020
+      ],
+      "page": 1,
+      "ep_id": null,
+      "cid": 1305515029,
+      "title": "【2020年管综逻辑真题课】第27题",
+      "duration": 250,
+      "url": "https://www.bilibili.com/video/BV1ae411R7ie/?p=1",
+      "scope": "逻辑真题讲解；页面标题作为定位证据，实际题面与答案须另核验",
+      "text": null,
+      "question_range": [
+        27,
+        27
+      ],
+      "excluded_questions": [],
+      "evidence_level": "metadata_verified",
+      "restricted": false,
+      "content_status": "not_extracted",
+      "verified_at": "2026-10-25"
+    }
+  ]
+}
