@@ -1,0 +1,1331 @@
+{
+  "schema_version": 1,
+  "course": "27老吕管综/经综写作考前33篇",
+  "bvid": "BV1JPMi6REXC",
+  "uploader": "老吕考研吕建刚",
+  "verified_date": "2026-11-17",
+  "evidence": "Full automatic-transcript reading with board cross-checks; summaries only, original transcripts not bundled",
+  "time_basis": "Seconds from the beginning of each part; approximate ASR topic boundaries",
+  "episodes": [
+    {
+      "page": 4,
+      "title": "第4篇 论效母题写法：得分点如何“套”方法",
+      "duration_seconds": 10045,
+      "source_url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4",
+      "cid": 39759315086,
+      "notes": "references/p04.md",
+      "clips": [
+        {
+          "start_seconds": 76,
+          "end_seconds": 301,
+          "start": "00:01:16",
+          "end": "00:05:01",
+          "summary": "从论据、推理过程、论点找问题；区分事实、主观断定、理论论据，确定哪些前提需要审查。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=76",
+          "focus": "必看。重点是“质疑哪一类前提”，不要只记“怼”。"
+        },
+        {
+          "start_seconds": 508,
+          "end_seconds": 702,
+          "start": "00:08:28",
+          "end": "00:11:42",
+          "summary": "用“丈夫理性、妻子感性”的断定演示：点明被质疑的论据→解释缺少依据→说明不能据此推出结论；区分“不一定”与“一定不”。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=508",
+          "focus": "可跳过此前关于个人性格和观影感受的举例。"
+        },
+        {
+          "start_seconds": 1309,
+          "end_seconds": 1760,
+          "start": "00:21:49",
+          "end": "00:29:20",
+          "summary": "简要回顾以偏概全；进入不当推断的识别与前两种展开法：可能有其他结果、还受其他或反面因素影响。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=1309",
+          "focus": "必看。其中以偏概全仅简短回顾，本篇没有完整重讲。29分钟后滑雪经历可跳过。"
+        },
+        {
+          "start_seconds": 1981,
+          "end_seconds": 2213,
+          "start": "00:33:01",
+          "end": "00:36:53",
+          "summary": "第三种展开法：把缺少的条件写成“如果……那么即使……也未必……”；随后归纳三种方法。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=1981",
+          "focus": "必看，和上一段合起来构成可迁移的分析工具。"
+        },
+        {
+          "start_seconds": 3026,
+          "end_seconds": 3577,
+          "start": "00:50:26",
+          "end": "00:59:37",
+          "summary": "强制充分条件：有A未必有B；用学生减负题说明遗漏其他压力来源。继而介绍连续推断、滑坡链及切断其中一环的方法。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=3026",
+          "focus": "核心方法看完后，文化软实力、生产过剩、就业等重复例题可按需补看。"
+        },
+        {
+          "start_seconds": 4786,
+          "end_seconds": 5494,
+          "start": "01:19:46",
+          "end": "01:31:34",
+          "summary": "强制必要条件：识别“必须采用M才能达到P”；反驳关键是找到同样能实现P的其他措施。用股票分红说明有效替代路径。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=4786",
+          "focus": "必看，尤其区分“其他因素”与“其他措施”；后面的道德传播例题属同法迁移。"
+        },
+        {
+          "start_seconds": 5839,
+          "end_seconds": 6259,
+          "start": "01:37:19",
+          "end": "01:44:19",
+          "summary": "归因不当：先有现象，再解释原因；区分“原因可能找错”与“原因并非唯一”；用航班晚点后的后悔演示另找原因。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=5839",
+          "focus": "必看。炒股后悔例题是同类重复；寿命例题适合补练“肯定部分原因、补充其他原因”。"
+        },
+        {
+          "start_seconds": 6878,
+          "end_seconds": 7433,
+          "start": "01:54:38",
+          "end": "02:03:53",
+          "summary": "不当类比：检查对象、地域、时间的不一致；写出有关差异怎样影响推断，并用“人和鱼→人与人”的例子落地。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=6878",
+          "focus": "必看。日本、德国企业与中国企业的例题可作为第二遍训练。"
+        },
+        {
+          "start_seconds": 8241,
+          "end_seconds": 8814,
+          "start": "02:17:21",
+          "end": "02:26:54",
+          "summary": "隐蔽的偷换概念：把论证压成S/P结构，比对前后谓项；区分“常见现象/客观规律”和“实际效用/真实存在”。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=8241",
+          "focus": "必看。较简单的“权力平衡/权力平等”可按需补看，知识头衔例题留作迁移。"
+        },
+        {
+          "start_seconds": 9088,
+          "end_seconds": 9826,
+          "start": "02:31:28",
+          "end": "02:43:46",
+          "summary": "自相矛盾：跨段寻找冲突，列出双方；结尾补充论点过于绝对，复用其他因素分析。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=9088",
+          "focus": "必看。掌握写法后，具体例题的重复口头解释可以加速；最后的鼓励、打卡安排可跳过。"
+        }
+      ],
+      "timeline": [
+        {
+          "start_seconds": 0,
+          "end_seconds": 76,
+          "start": "00:00:00",
+          "end": "00:01:16",
+          "summary": "导入：本篇解决“认出得分点”和“套上分析方法”。前30秒转写异常，不据此复述具体原话。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=0"
+        },
+        {
+          "start_seconds": 76,
+          "end_seconds": 301,
+          "start": "00:01:16",
+          "end": "00:05:01",
+          "summary": "三个找点方向；论据不成立的识别，区分事实、断定、理论。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=76"
+        },
+        {
+          "start_seconds": 301,
+          "end_seconds": 702,
+          "start": "00:05:01",
+          "end": "00:11:42",
+          "summary": "2025年性别与主观立场例题；得分点句、分析句、回扣结论；“不一定”不等于“一定不”。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=301"
+        },
+        {
+          "start_seconds": 702,
+          "end_seconds": 1164,
+          "start": "00:11:42",
+          "end": "00:19:24",
+          "summary": "回原单位工作的例题；解释“论据/论点”与“原因/结果”不是同一套划分；用反面因素质疑成功断定。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=702"
+        },
+        {
+          "start_seconds": 1164,
+          "end_seconds": 1309,
+          "start": "00:19:24",
+          "end": "00:21:49",
+          "summary": "后物质主义理论例题；审查理论适用性，结合题中理论内容提出反面可能；总结句不必机械重复。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=1164"
+        },
+        {
+          "start_seconds": 1309,
+          "end_seconds": 1342,
+          "start": "00:21:49",
+          "end": "00:22:22",
+          "summary": "以偏概全简要复习；本篇直接跳过详细展开，提示回第1篇。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=1309"
+        },
+        {
+          "start_seconds": 1342,
+          "end_seconds": 2213,
+          "start": "00:22:22",
+          "end": "00:36:53",
+          "summary": "不当推断：找论据—结论；其他结果、其他/反面因素、假设展开三种方法；中间含滑雪经历。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=1342"
+        },
+        {
+          "start_seconds": 2213,
+          "end_seconds": 3026,
+          "start": "00:36:53",
+          "end": "00:50:26",
+          "summary": "三组迁移：主观立场也可能帮助沟通；劳动权利与继续工作；个人信用体系与以租代买保障条件。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=2213"
+        },
+        {
+          "start_seconds": 3026,
+          "end_seconds": 3386,
+          "start": "00:50:26",
+          "end": "00:56:26",
+          "summary": "单步强制充分条件；家长期望降低不等于学习负担必然减轻。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=3026"
+        },
+        {
+          "start_seconds": 3386,
+          "end_seconds": 4786,
+          "start": "00:56:26",
+          "end": "01:19:46",
+          "summary": "多步推断/滑坡：文化作品与软实力、刺激需求与生产过剩、学历与就业、老年人退出与劳动力缺口；补充何时要用“可能”。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=3386"
+        },
+        {
+          "start_seconds": 4786,
+          "end_seconds": 5494,
+          "start": "01:19:46",
+          "end": "01:31:34",
+          "summary": "强制必要条件的三种句式；替代措施；股市获利不只靠买卖差价。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=4786"
+        },
+        {
+          "start_seconds": 5494,
+          "end_seconds": 5839,
+          "start": "01:31:34",
+          "end": "01:37:19",
+          "summary": "道德精神传播例题；提醒报纸、自媒体仍属媒体；讨论是否写谬误术语，优先让读者看懂具体缺口。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=5494"
+        },
+        {
+          "start_seconds": 5839,
+          "end_seconds": 6878,
+          "start": "01:37:19",
+          "end": "01:54:38",
+          "summary": "归因不当：否定原因的充分根据，或承认部分原因而指出他因；航班、股票、寿命三个例子。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=5839"
+        },
+        {
+          "start_seconds": 6878,
+          "end_seconds": 7231,
+          "start": "01:54:38",
+          "end": "02:00:31",
+          "summary": "不当类比的对象、时间、地域三类识别信号；“相关差异→结果可能不同”的写法。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=6878"
+        },
+        {
+          "start_seconds": 7231,
+          "end_seconds": 7701,
+          "start": "02:00:31",
+          "end": "02:08:21",
+          "summary": "人与鱼的反应不能直接说明人与人的沟通；跨国企业用工制度类比。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=7231"
+        },
+        {
+          "start_seconds": 7701,
+          "end_seconds": 8241,
+          "start": "02:08:21",
+          "end": "02:17:21",
+          "summary": "偷换概念与不当类比的区别；“强行等价”型，权力平衡/权力平等；分别解释概念并回扣推断。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=7701"
+        },
+        {
+          "start_seconds": 8241,
+          "end_seconds": 9088,
+          "start": "02:17:21",
+          "end": "02:31:28",
+          "summary": "隐蔽概念替换：常见现象/客观规律、实际效用/真实存在、知识头衔/知识；强调先独立找点、写完再看答案。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=8241"
+        },
+        {
+          "start_seconds": 9088,
+          "end_seconds": 9698,
+          "start": "02:31:28",
+          "end": "02:41:38",
+          "summary": "自相矛盾：跨段核对；生产过剩题、股票判断方法题；列出两边即可，不为字数硬加无关解释。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=9088"
+        },
+        {
+          "start_seconds": 9698,
+          "end_seconds": 9826,
+          "start": "02:41:38",
+          "end": "02:43:46",
+          "summary": "论点过于绝对；冬奥会与冰雪运动热潮例题，复用缺少条件与其他因素分析。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=9698"
+        },
+        {
+          "start_seconds": 9826,
+          "end_seconds": 10045,
+          "start": "02:43:46",
+          "end": "02:47:25",
+          "summary": "十类方法总收束、复习范围建议、段落打卡作业与课后训练要求。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=4&t=9826"
+        }
+      ],
+      "selected_seconds": 4647
+    },
+    {
+      "page": 7,
+      "title": "第7篇  论说文的本质：SXOY",
+      "duration_seconds": 1517,
+      "source_url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7",
+      "cid": 40240808857,
+      "notes": "references/p07.md",
+      "clips": [
+        {
+          "start_seconds": 29,
+          "end_seconds": 221,
+          "start": "00:29",
+          "end": "03:41",
+          "summary": "用“大学生考研”拆解 S、X、O、Y：谁行动、采取什么行为、影响谁、产生什么结果。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=29",
+          "focus": "能把一句主张拆成四个变量，而不只背字母。"
+        },
+        {
+          "start_seconds": 322,
+          "end_seconds": 406,
+          "start": "05:22",
+          "end": "06:46",
+          "summary": "X 是全文核心；课堂把说服落实到“做什么／不做什么”的行为选择。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=322",
+          "focus": "找到真正要倡导、反对的行动，避免只有宽泛话题。"
+        },
+        {
+          "start_seconds": 580,
+          "end_seconds": 648,
+          "start": "09:40",
+          "end": "10:48",
+          "summary": "Y 是说服对方采取 X 的理由；不能只反复宣称 X 很重要。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=580",
+          "focus": "分论点要回答“这样做能带来什么”。"
+        },
+        {
+          "start_seconds": 707,
+          "end_seconds": 747,
+          "start": "11:47",
+          "end": "12:27",
+          "summary": "Y 可以是好处，也可以是坏处；结果性质影响赞成或反对的态度。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=707",
+          "focus": "不把 Y 机械等同于正面利益。"
+        },
+        {
+          "start_seconds": 1027,
+          "end_seconds": 1097,
+          "start": "17:07",
+          "end": "18:17",
+          "summary": "区分 S 与 O：行动主体保持集中，受影响对象可以不同；以管理者、团队、组织说明。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1027",
+          "focus": "“谁来做”与“做了影响谁”不要混淆。"
+        },
+        {
+          "start_seconds": 1126,
+          "end_seconds": 1396,
+          "start": "18:46",
+          "end": "23:16",
+          "summary": "完整审题顺序：先 X，再 Y，再 S；材料已确定的变量应保持一致，寓言主体需要迁移，O 通常用于正文。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1126",
+          "focus": "会检查 Y 是否锁定、S 是否明确，理解普适主体可在标题中省略。"
+        },
+        {
+          "start_seconds": 1413,
+          "end_seconds": 1500,
+          "start": "23:33",
+          "end": "25:00",
+          "summary": "用 X 的数量、Y 是否明确归类五种材料，并总结审题次序。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1413",
+          "focus": "为第8—11篇的结构选择建立分类入口。"
+        }
+      ],
+      "timeline": [
+        {
+          "start_seconds": 0,
+          "end_seconds": 29,
+          "start": "00:00",
+          "end": "00:29",
+          "summary": "开场，提出 SXOY 框架。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=0"
+        },
+        {
+          "start_seconds": 29,
+          "end_seconds": 62,
+          "start": "00:29",
+          "end": "01:02",
+          "summary": "四个问题：谁来做、做什么、影响谁、带来什么结果。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=29"
+        },
+        {
+          "start_seconds": 62,
+          "end_seconds": 322,
+          "start": "01:02",
+          "end": "05:22",
+          "summary": "“大学生考研”示例；逐项解释变量；补充同一行为可影响多个对象。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=62"
+        },
+        {
+          "start_seconds": 322,
+          "end_seconds": 580,
+          "start": "05:22",
+          "end": "09:40",
+          "summary": "X 为什么是核心；从观点争论转到行动决策，用企业是否生产纯净水的假设例子讲解。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=322"
+        },
+        {
+          "start_seconds": 580,
+          "end_seconds": 747,
+          "start": "09:40",
+          "end": "12:27",
+          "summary": "Y 为什么是说服理由；好处与坏处、赞成与反对；熬夜等例子。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=580"
+        },
+        {
+          "start_seconds": 747,
+          "end_seconds": 865,
+          "start": "12:27",
+          "end": "14:25",
+          "summary": "S 的常见选择：个人、管理者、企业、社会；课堂对宏大主体写法的取舍建议。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=747"
+        },
+        {
+          "start_seconds": 865,
+          "end_seconds": 1027,
+          "start": "14:25",
+          "end": "17:07",
+          "summary": "反对一篇文章同时切换多个行动主体；用篇幅限制说明论证要集中。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=865"
+        },
+        {
+          "start_seconds": 1027,
+          "end_seconds": 1097,
+          "start": "17:07",
+          "end": "18:17",
+          "summary": "O 是受影响对象；对比“一类行动主体”和“多个受影响对象”。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1027"
+        },
+        {
+          "start_seconds": 1097,
+          "end_seconds": 1126,
+          "start": "18:17",
+          "end": "18:46",
+          "summary": "总结 SXOY 贯穿审题、结构和正文。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1097"
+        },
+        {
+          "start_seconds": 1126,
+          "end_seconds": 1226,
+          "start": "18:46",
+          "end": "20:26",
+          "summary": "先找 X，再核对 Y；材料锁定 Y 时须围绕指定的 X→Y 展开。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1126"
+        },
+        {
+          "start_seconds": 1226,
+          "end_seconds": 1376,
+          "start": "20:26",
+          "end": "22:56",
+          "summary": "再定 S：优先与材料一致；寓言材料选择可迁移的主体；普适 S 可省略。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1226"
+        },
+        {
+          "start_seconds": 1376,
+          "end_seconds": 1413,
+          "start": "22:56",
+          "end": "23:33",
+          "summary": "O 通常放到正文分论点；过渡到材料分类。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1376"
+        },
+        {
+          "start_seconds": 1413,
+          "end_seconds": 1465,
+          "start": "23:33",
+          "end": "24:25",
+          "summary": "单X、无X、XY、双X、XXY 的分类预告。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1413"
+        },
+        {
+          "start_seconds": 1465,
+          "end_seconds": 1517,
+          "start": "24:25",
+          "end": "25:17",
+          "summary": "重申先辨认变量，再定立意；布置课后任务并预告下节。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=7&t=1465"
+        }
+      ],
+      "selected_seconds": 811
+    },
+    {
+      "page": 8,
+      "title": "第8篇 单X型与无X型材料：审题立意与高分结构",
+      "duration_seconds": 5490,
+      "source_url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8",
+      "cid": 39787823431,
+      "notes": "references/p08.md",
+      "clips": [
+        {
+          "start_seconds": 31,
+          "end_seconds": 236,
+          "start": "00:31",
+          "end": "03:56",
+          "summary": "单X与无X的区别；共同点是材料没有锁定具体 Y，或只给开放性结果；本篇任务是审题、标题和结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=31",
+          "focus": "不把“材料有结果词”直接判为 XY。"
+        },
+        {
+          "start_seconds": 844,
+          "end_seconds": 1236,
+          "start": "14:04",
+          "end": "20:36",
+          "summary": "有好处式与好坏对比式；为什么还需辩证段、建议段；8/8/6/8行的课堂篇幅建议。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=844",
+          "focus": "分清四个主体段的功能，避免辩证段反客为主。"
+        },
+        {
+          "start_seconds": 1535,
+          "end_seconds": 2084,
+          "start": "25:35",
+          "end": "34:44",
+          "summary": "2023管综“领导艺术”：从材料认 X、判断态度、选 S；标题采用 X 型或 SX 型。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=1535",
+          "focus": "材料有主题词时优先沿用；Y 未锁定时不必给标题额外加限制。"
+        },
+        {
+          "start_seconds": 2882,
+          "end_seconds": 3333,
+          "start": "48:02",
+          "end": "55:33",
+          "summary": "2024管综“发散性思维”：为什么“与众不同”属于开放性 Y；普适主体可在标题中省略。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=2882",
+          "focus": "明确“锁定结果”与“开放结果”的实质区别。"
+        },
+        {
+          "start_seconds": 3333,
+          "end_seconds": 3618,
+          "start": "55:33",
+          "end": "01:00:18",
+          "summary": "两种偏离：正文偏离题干材料，或正文偏离自己的标题；比较标题增加 S/O/Y 后的约束。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=3333",
+          "focus": "标题写进了什么，全文就必须兑现什么。"
+        },
+        {
+          "start_seconds": 4032,
+          "end_seconds": 4533,
+          "start": "01:07:12",
+          "end": "01:15:33",
+          "summary": "2022管综鸟类材料：先认总分结构，再从总句提取“不断优化”，处理动物 S 和“会飞”Y 的迁移。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=4032",
+          "focus": "避免只抓“舍弃”细节，把总主题误缩成“取舍”。"
+        },
+        {
+          "start_seconds": 4783,
+          "end_seconds": 5221,
+          "start": "01:19:43",
+          "end": "01:27:01",
+          "summary": "无X型含义；2021经综食蚁兽材料：从行为及结果提炼“可持续发展”，再选择企业或社会主体。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=4783",
+          "focus": "材料没有直接主题词时，能依据行为—结果关系提炼 X。"
+        }
+      ],
+      "timeline": [
+        {
+          "start_seconds": 0,
+          "end_seconds": 192,
+          "start": "00:00",
+          "end": "03:12",
+          "summary": "开场；单X、无X与“未锁定Y”的定义；明确本篇只先解决审题、标题、结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=0"
+        },
+        {
+          "start_seconds": 192,
+          "end_seconds": 246,
+          "start": "03:12",
+          "end": "04:06",
+          "summary": "单X审题的关键是确定 X；标题通常不额外加入自行选择的 Y。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=192"
+        },
+        {
+          "start_seconds": 246,
+          "end_seconds": 547,
+          "start": "04:06",
+          "end": "09:07",
+          "summary": "从说服的目的解释“有好处／有坏处”，用生活与管理决策类比展开。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=246"
+        },
+        {
+          "start_seconds": 547,
+          "end_seconds": 644,
+          "start": "09:07",
+          "end": "10:44",
+          "summary": "S 与 O 的区别；两条正面理由可以针对同一或不同受影响对象。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=547"
+        },
+        {
+          "start_seconds": 644,
+          "end_seconds": 844,
+          "start": "10:44",
+          "end": "14:04",
+          "summary": "为什么好事仍需劝说：存在困难、问题、风险；由此引出辩证与建议。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=644"
+        },
+        {
+          "start_seconds": 844,
+          "end_seconds": 1132,
+          "start": "14:04",
+          "end": "18:52",
+          "summary": "“两条好处—现实问题—应对建议”；说明段落篇幅与8/8/6/8行安排。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=844"
+        },
+        {
+          "start_seconds": 1132,
+          "end_seconds": 1236,
+          "start": "18:52",
+          "end": "20:36",
+          "summary": "好坏对比式：采取 X 的好处、不采取 X 的坏处，再接问题与建议；比较两种结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=1132"
+        },
+        {
+          "start_seconds": 1236,
+          "end_seconds": 1535,
+          "start": "20:36",
+          "end": "25:35",
+          "summary": "重申 X→Y→S→O 的审题顺序；主题词、行为词、自变量的含义。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=1236"
+        },
+        {
+          "start_seconds": 1535,
+          "end_seconds": 2019,
+          "start": "25:35",
+          "end": "33:39",
+          "summary": "2023管综“领导艺术”：辨认 X、Y、S、O，确定中心主张。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=1535"
+        },
+        {
+          "start_seconds": 2019,
+          "end_seconds": 2270,
+          "start": "33:39",
+          "end": "37:50",
+          "summary": "标题的 X 型、SX 型与增加 Y 的影响；课堂建议标题直白表达主张。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=2019"
+        },
+        {
+          "start_seconds": 2270,
+          "end_seconds": 2424,
+          "start": "37:50",
+          "end": "40:24",
+          "summary": "把“领导艺术”放入有好处式结构；再说明篇幅是可浮动的建议。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=2270"
+        },
+        {
+          "start_seconds": 2424,
+          "end_seconds": 2882,
+          "start": "40:24",
+          "end": "48:02",
+          "summary": "逐段解读“领导艺术”范文：引材料、提出论点、两条影响、问题、建议、回扣材料。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=2424"
+        },
+        {
+          "start_seconds": 2882,
+          "end_seconds": 3333,
+          "start": "48:02",
+          "end": "55:33",
+          "summary": "2024管综“发散性思维”：识别开放 Y，确定个人主体，形成简明标题。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=2882"
+        },
+        {
+          "start_seconds": 3333,
+          "end_seconds": 3780,
+          "start": "55:33",
+          "end": "01:03:00",
+          "summary": "两类偏离；比较不同标题的限制条件，强调标题与正文一致。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=3333"
+        },
+        {
+          "start_seconds": 3780,
+          "end_seconds": 4032,
+          "start": "01:03:00",
+          "end": "01:07:12",
+          "summary": "用好坏对比式组织“发散性思维”；示范开头、正反论证、困难、建议、结尾。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=3780"
+        },
+        {
+          "start_seconds": 4032,
+          "end_seconds": 4533,
+          "start": "01:07:12",
+          "end": "01:15:33",
+          "summary": "2022管综鸟类材料：认总分结构，提取“不断优化”，迁移主体与结果，拟定标题。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=4032"
+        },
+        {
+          "start_seconds": 4533,
+          "end_seconds": 4783,
+          "start": "01:15:33",
+          "end": "01:19:43",
+          "summary": "“不断优化”结构与范文：管理效率、资源利用率、现实阻力和对应建议。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=4533"
+        },
+        {
+          "start_seconds": 4783,
+          "end_seconds": 5243,
+          "start": "01:19:43",
+          "end": "01:27:23",
+          "summary": "无X型及2021经综食蚁兽例：从节制使用资源、保留再生条件提炼可持续发展，确定主体与标题。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=4783"
+        },
+        {
+          "start_seconds": 5243,
+          "end_seconds": 5420,
+          "start": "01:27:23",
+          "end": "01:30:20",
+          "summary": "“可持续发展”结构与范文；两条好处、短期利益诱因、制度与资源利用措施。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=5243"
+        },
+        {
+          "start_seconds": 5420,
+          "end_seconds": 5490,
+          "start": "01:30:20",
+          "end": "01:31:30",
+          "summary": "课后任务：先交审题立意、标题、全文提纲；暂不要求完成全文。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=8&t=5420"
+        }
+      ],
+      "selected_seconds": 2821
+    },
+    {
+      "page": 9,
+      "title": "第9篇 XY型材料：审题立意与高分结构",
+      "duration_seconds": 3092,
+      "source_url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9",
+      "cid": 39787825690,
+      "notes": "references/p09.md",
+      "clips": [
+        {
+          "start_seconds": 67,
+          "end_seconds": 290,
+          "start": "01:07",
+          "end": "04:50",
+          "summary": "XY型要求全文保持材料规定的X与Y；“只有一个结果，如何写多段”引出元素拆解法。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=67",
+          "focus": "画出X→F→Y，说明F与另换一个Y的区别。"
+        },
+        {
+          "start_seconds": 466,
+          "end_seconds": 730,
+          "start": "07:46",
+          "end": "12:10",
+          "summary": "两条机制组成有好处式；F之间应能并列，F必须真的通向Y；另介绍好坏对比式。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=466",
+          "focus": "为同一材料列出两条机制，或列正反对比的两条分论点。"
+        },
+        {
+          "start_seconds": 1044,
+          "end_seconds": 1256,
+          "start": "17:24",
+          "end": "20:56",
+          "summary": "2019课堂例题：论辩属于检验的一种方式，落在较具体的“论辩”；Y锁定“发现真理”。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=1044",
+          "focus": "判断多个行为词是包含关系还是并列关系，并拟XY型标题。"
+        },
+        {
+          "start_seconds": 1360,
+          "end_seconds": 1576,
+          "start": "22:40",
+          "end": "26:16",
+          "summary": "论辩通过暴露错误、提升认知两条路径通向发现真理，再补现实阻力与建议。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=1360",
+          "focus": "写出两条完整论证链，避免只列“论辩有好处”。"
+        },
+        {
+          "start_seconds": 2232,
+          "end_seconds": 2598,
+          "start": "37:12",
+          "end": "43:18",
+          "summary": "2026足球材料的课堂分析：比较观众与球员，提炼视角与选择的关系，确定标题和论证范围。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=2232",
+          "focus": "从故事中抽出关系，不停留在足球场景，也不随意改成“促进发展”。"
+        },
+        {
+          "start_seconds": 2756,
+          "end_seconds": 3016,
+          "start": "45:56",
+          "end": "50:16",
+          "summary": "全景视角示例的两套结构、范文各段功能及最终提醒：不能偷换Y。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=2756",
+          "focus": "用信息质量、权衡能力解释X如何影响合理选择。"
+        }
+      ],
+      "timeline": [
+        {
+          "start_seconds": 0,
+          "end_seconds": 67,
+          "start": "00:00",
+          "end": "01:07",
+          "summary": "定义XY型，重申本篇学习目标：认变量、拟标题、选结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=0"
+        },
+        {
+          "start_seconds": 67,
+          "end_seconds": 212,
+          "start": "01:07",
+          "end": "03:32",
+          "summary": "一致性原则：X、Y均由材料规定，改变Y会使论证偏离材料。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=67"
+        },
+        {
+          "start_seconds": 212,
+          "end_seconds": 466,
+          "start": "03:32",
+          "end": "07:46",
+          "summary": "用路线与日常例子解释中间因素F，引出元素拆解法。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=212"
+        },
+        {
+          "start_seconds": 466,
+          "end_seconds": 635,
+          "start": "07:46",
+          "end": "10:35",
+          "summary": "有好处式结构；F的并列性与中介作用；以创新影响收入作校验。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=466"
+        },
+        {
+          "start_seconds": 635,
+          "end_seconds": 731,
+          "start": "10:35",
+          "end": "12:11",
+          "summary": "好坏对比式：有X与缺少X对同一Y的影响；与单X型区别。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=635"
+        },
+        {
+          "start_seconds": 731,
+          "end_seconds": 1099,
+          "start": "12:11",
+          "end": "18:19",
+          "summary": "2019例题审题，详细比较“检验”和“论辩”的包含关系。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=731"
+        },
+        {
+          "start_seconds": 1099,
+          "end_seconds": 1360,
+          "start": "18:19",
+          "end": "22:40",
+          "summary": "锁定发现真理，选择主体与标题；反复说明不能离开指定Y。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=1099"
+        },
+        {
+          "start_seconds": 1360,
+          "end_seconds": 1578,
+          "start": "22:40",
+          "end": "26:18",
+          "summary": "论辩的两条机制、回避论辩或情绪化等问题，以及改进建议。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=1360"
+        },
+        {
+          "start_seconds": 1578,
+          "end_seconds": 1658,
+          "start": "26:18",
+          "end": "27:38",
+          "summary": "比较正反结构与两机制结构：前者容易列点，也容易重复。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=1578"
+        },
+        {
+          "start_seconds": 1658,
+          "end_seconds": 1986,
+          "start": "27:38",
+          "end": "33:06",
+          "summary": "有好处式范文：引材料、中心论点、两条机制、问题、建议、结尾。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=1658"
+        },
+        {
+          "start_seconds": 1986,
+          "end_seconds": 2160,
+          "start": "33:06",
+          "end": "36:00",
+          "summary": "好坏对比式范文；重点比较两种结构中主体段如何变化。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=1986"
+        },
+        {
+          "start_seconds": 2160,
+          "end_seconds": 2484,
+          "start": "36:00",
+          "end": "41:24",
+          "summary": "转入2026足球材料；从对比中提炼全景视角与合理选择。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=2160"
+        },
+        {
+          "start_seconds": 2484,
+          "end_seconds": 2756,
+          "start": "41:24",
+          "end": "45:56",
+          "summary": "标题选择和立意边界；老师比较“视角—选择”与其他立意。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=2484"
+        },
+        {
+          "start_seconds": 2756,
+          "end_seconds": 2822,
+          "start": "45:56",
+          "end": "47:02",
+          "summary": "全景视角的有好处式与好坏对比式提纲。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=2756"
+        },
+        {
+          "start_seconds": 2822,
+          "end_seconds": 2983,
+          "start": "47:02",
+          "end": "49:43",
+          "summary": "两套范文结构回看：信息质量、权衡能力、信息局限与反馈机制。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=2822"
+        },
+        {
+          "start_seconds": 2983,
+          "end_seconds": 3017,
+          "start": "49:43",
+          "end": "50:17",
+          "summary": "总结本篇最常见问题：把题目指定的Y换成其他结果。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=2983"
+        },
+        {
+          "start_seconds": 3017,
+          "end_seconds": 3092,
+          "start": "50:17",
+          "end": "51:32",
+          "summary": "布置审题、标题与大纲作业，打卡及结课鼓励。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=9&t=3017"
+        }
+      ],
+      "selected_seconds": 1541
+    },
+    {
+      "page": 10,
+      "title": "第10篇 双X型材料：审题立意与高分结构",
+      "duration_seconds": 4519,
+      "source_url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10",
+      "cid": 39787826829,
+      "notes": "references/p10.md",
+      "clips": [
+        {
+          "start_seconds": 74,
+          "end_seconds": 559,
+          "start": "01:14",
+          "end": "09:19",
+          "summary": "确认两个并列的核心行为/主题词；区分双X与XXY；确定主体和标题；讲并重、偏重的基本结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=74",
+          "focus": "先认材料，再判断两个X是同等重要还是有主次。"
+        },
+        {
+          "start_seconds": 646,
+          "end_seconds": 1229,
+          "start": "10:46",
+          "end": "20:29",
+          "summary": "取舍式的适用条件；用2015“为富与为仁”材料演示审题、态度、标题及并重结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=646",
+          "focus": "取舍要有冲突或资源限制；“出现两个概念”不等于“必须二选一”。"
+        },
+        {
+          "start_seconds": 1607,
+          "end_seconds": 1726,
+          "start": "26:47",
+          "end": "28:46",
+          "summary": "关系型写法：分别讨论X₁对X₂、X₂对X₁的作用；说明这种写法对因果关系和素材适配要求更高。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=1607",
+          "focus": "区分“分别有价值”与“互相怎样影响”这两种论证任务。"
+        },
+        {
+          "start_seconds": 1903,
+          "end_seconds": 2551,
+          "start": "31:43",
+          "end": "42:31",
+          "summary": "2016“多样性与一致性”：找反复出现的主题词，避免把“教育”误作全文中心；确认社会主体，选择偏重或并重。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=1903",
+          "focus": "主题词应服从材料中心；手段可进入建议段，不必升格为中心论点。"
+        },
+        {
+          "start_seconds": 3487,
+          "end_seconds": 3935,
+          "start": "58:07",
+          "end": "01:05:35",
+          "summary": "2017“扩大生产还是研发新品”：识别有限资金、选择范围与主体；说明不能直接把“研发新品”泛化成“创新”；搭取舍结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=3487",
+          "focus": "论证必须回应题目指定的两个选项与限制条件。"
+        },
+        {
+          "start_seconds": 4276,
+          "end_seconds": 4315,
+          "start": "01:11:16",
+          "end": "01:11:55",
+          "summary": "研发建议段：分阶段投入、试验和反馈，接着回扣资金受限下的选择。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=4276",
+          "focus": "建议应处理本题风险，使所选方案能够落实。"
+        },
+        {
+          "start_seconds": 4464,
+          "end_seconds": 4519,
+          "start": "01:14:24",
+          "end": "01:15:19",
+          "summary": "汇总并重、偏重、取舍三类结构；布置“审题立意＋标题＋全文结构”的练习。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=4464",
+          "focus": "先能交出提纲，再解决具体语言和素材。"
+        }
+      ],
+      "timeline": [
+        {
+          "start_seconds": 0,
+          "end_seconds": 74,
+          "start": "00:00",
+          "end": "01:14",
+          "summary": "导入：双X与XXY的区别；本课任务为识别、标题、结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=0"
+        },
+        {
+          "start_seconds": 74,
+          "end_seconds": 353,
+          "start": "01:14",
+          "end": "05:53",
+          "summary": "双X识别流程：两个并列核心词；Y是否锁定；S沿用材料或选择合适层级；标题呈现两个X。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=74"
+        },
+        {
+          "start_seconds": 353,
+          "end_seconds": 462,
+          "start": "05:53",
+          "end": "07:42",
+          "summary": "并重式：分别论证两者价值，说明单顾其一的局限，建议兼顾。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=353"
+        },
+        {
+          "start_seconds": 462,
+          "end_seconds": 646,
+          "start": "07:42",
+          "end": "10:46",
+          "summary": "偏重式：主项写两条作用、次项作补充；以复习时间分配作生活化解释。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=462"
+        },
+        {
+          "start_seconds": 646,
+          "end_seconds": 915,
+          "start": "10:46",
+          "end": "15:15",
+          "summary": "取舍式：两者难以并行时比较选择；解释时间、资金等限制。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=646"
+        },
+        {
+          "start_seconds": 915,
+          "end_seconds": 1229,
+          "start": "15:15",
+          "end": "20:29",
+          "summary": "2015材料审题：“为富”“为仁”是两个X，形成并重立意和标题。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=915"
+        },
+        {
+          "start_seconds": 1229,
+          "end_seconds": 1607,
+          "start": "20:29",
+          "end": "26:47",
+          "summary": "并重范文：财富的作用、道德底线、单向追求的问题、两者统一；强调标题与全文主体一致。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=1229"
+        },
+        {
+          "start_seconds": 1607,
+          "end_seconds": 1903,
+          "start": "26:47",
+          "end": "31:43",
+          "summary": "关系型补充写法：富为仁提供物质条件，仁对财富追求提供规范；说明写作难点。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=1607"
+        },
+        {
+          "start_seconds": 1903,
+          "end_seconds": 2492,
+          "start": "31:43",
+          "end": "41:32",
+          "summary": "2016材料审题：多样性、一致性才是主题；教育是实现手段；社会主体；比较偏重和并重态度。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=1903"
+        },
+        {
+          "start_seconds": 2492,
+          "end_seconds": 2551,
+          "start": "41:32",
+          "end": "42:31",
+          "summary": "偏重提纲：多样性的两条作用＋忽视一致性的风险／一致性的价值＋兼顾建议。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=2492"
+        },
+        {
+          "start_seconds": 2551,
+          "end_seconds": 2872,
+          "start": "42:31",
+          "end": "47:52",
+          "summary": "偏重范文展开：社会活力、治理质量、共同规则与教育；回扣两者协调。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=2551"
+        },
+        {
+          "start_seconds": 2872,
+          "end_seconds": 3141,
+          "start": "47:52",
+          "end": "52:21",
+          "summary": "难题的简化展开：多样性对个人、对社会的作用；用分工解释效率。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=2872"
+        },
+        {
+          "start_seconds": 3141,
+          "end_seconds": 3487,
+          "start": "52:21",
+          "end": "58:07",
+          "summary": "家庭经历等延伸故事，说明专业化和社会分工；末尾回收“个人＋社会”的展开方法。复习时可略听。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=3141"
+        },
+        {
+          "start_seconds": 3487,
+          "end_seconds": 3671,
+          "start": "58:07",
+          "end": "01:01:11",
+          "summary": "2017材料识别：两个投资行为、企业主体，以及利润和风险等开放结果。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=3487"
+        },
+        {
+          "start_seconds": 3671,
+          "end_seconds": 3933,
+          "start": "01:01:11",
+          "end": "01:05:33",
+          "summary": "有限资金约束下的取舍；是否能两者兼做；“研发新品”与宽泛“创新”的范围差异；标题和提纲。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=3671"
+        },
+        {
+          "start_seconds": 3933,
+          "end_seconds": 4160,
+          "start": "01:05:33",
+          "end": "01:09:20",
+          "summary": "研发优先的范文：差异化竞争、收入来源；与扩大既有生产作比较。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=3933"
+        },
+        {
+          "start_seconds": 4160,
+          "end_seconds": 4276,
+          "start": "01:09:20",
+          "end": "01:11:16",
+          "summary": "延伸讨论产品及商业模式的生命周期，回到旧产品竞争的问题。复习时可略听。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=4160"
+        },
+        {
+          "start_seconds": 4276,
+          "end_seconds": 4315,
+          "start": "01:11:16",
+          "end": "01:11:55",
+          "summary": "建议与结尾：分阶段投入、快速验证、控制风险，重申本题选择。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=4276"
+        },
+        {
+          "start_seconds": 4315,
+          "end_seconds": 4464,
+          "start": "01:11:55",
+          "end": "01:14:24",
+          "summary": "学习答疑：专业词汇与素材如何后续补充，本阶段先掌握审题和结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=4315"
+        },
+        {
+          "start_seconds": 4464,
+          "end_seconds": 4519,
+          "start": "01:14:24",
+          "end": "01:15:19",
+          "summary": "三种态度和结构的总结；课后提纲练习。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=10&t=4464"
+        }
+      ],
+      "selected_seconds": 2377
+    },
+    {
+      "page": 11,
+      "title": "第11篇 XXY型材料：审题立意与高分结构",
+      "duration_seconds": 1943,
+      "source_url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11",
+      "cid": 39787890209,
+      "notes": "references/p11.md",
+      "clips": [
+        {
+          "start_seconds": 138,
+          "end_seconds": 323,
+          "start": "02:18",
+          "end": "05:23",
+          "summary": "XXY的论证要求、标题以及三种结构：并重推Y、偏重推Y、取舍推Y。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=138",
+          "focus": "两个X的全部论证都必须回到材料锁定的Y。"
+        },
+        {
+          "start_seconds": 323,
+          "end_seconds": 581,
+          "start": "05:23",
+          "end": "09:41",
+          "summary": "2021“道德教育＋科学教育→培养实业中坚人才”：认变量、对象、态度和标题。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=323",
+          "focus": "结果、对象不能偷换；标题可以简化，正文仍须落实共同Y。"
+        },
+        {
+          "start_seconds": 651,
+          "end_seconds": 897,
+          "start": "10:51",
+          "end": "14:57",
+          "summary": "从材料现成的解释词提炼机制：责任心、公共心、观察力、推断力和判断力；形成并重论证与建议。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=651",
+          "focus": "使用材料给出的“中间环节”，避免泛泛背诵教育的好处。"
+        },
+        {
+          "start_seconds": 904,
+          "end_seconds": 1359,
+          "start": "15:04",
+          "end": "22:39",
+          "summary": "2011“冒尖／拔尖→选拔管理人才”：看材料倾向；比较偏重和取舍两套标题、结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=904",
+          "focus": "先定态度，再安排主次及辩证段；X、Y和对象保持一致。"
+        },
+        {
+          "start_seconds": 1740,
+          "end_seconds": 1816,
+          "start": "29:00",
+          "end": "30:16",
+          "summary": "归纳三种结构的判断依据，以及各段怎样与Y连接。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=1740",
+          "focus": "看见提纲就能检查有没有“只谈X，不谈Y”的脱节段。"
+        }
+      ],
+      "timeline": [
+        {
+          "start_seconds": 0,
+          "end_seconds": 138,
+          "start": "00:00",
+          "end": "02:18",
+          "summary": "导入：XXY相当于双X再加一个由材料确定的Y；重申先识别后选方法。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=0"
+        },
+        {
+          "start_seconds": 138,
+          "end_seconds": 223,
+          "start": "02:18",
+          "end": "03:43",
+          "summary": "全文围绕X₁、X₂与Y的关系；标题尽量体现两种行为如何影响结果。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=138"
+        },
+        {
+          "start_seconds": 223,
+          "end_seconds": 323,
+          "start": "03:43",
+          "end": "05:23",
+          "summary": "并重、偏重、取舍三种“推Y”结构的通式。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=223"
+        },
+        {
+          "start_seconds": 323,
+          "end_seconds": 451,
+          "start": "05:23",
+          "end": "07:31",
+          "summary": "2021材料识别：道德教育、科学教育与实业中坚人才；确认结果和受影响对象。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=323"
+        },
+        {
+          "start_seconds": 451,
+          "end_seconds": 581,
+          "start": "07:31",
+          "end": "09:41",
+          "summary": "并重态度和标题选择；提醒正文不能把企业人才换成中小学生等其他对象。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=451"
+        },
+        {
+          "start_seconds": 581,
+          "end_seconds": 651,
+          "start": "09:41",
+          "end": "10:51",
+          "summary": "并重推Y的提纲、范文开头，以及两种教育的中心判断。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=581"
+        },
+        {
+          "start_seconds": 651,
+          "end_seconds": 752,
+          "start": "10:51",
+          "end": "12:32",
+          "summary": "道德教育论证段：直接利用材料给出的责任心、公共心等解释，落到人才培养。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=651"
+        },
+        {
+          "start_seconds": 752,
+          "end_seconds": 814,
+          "start": "12:32",
+          "end": "13:34",
+          "summary": "科学教育论证段：从观察、推断、判断能力展开专业能力。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=752"
+        },
+        {
+          "start_seconds": 814,
+          "end_seconds": 897,
+          "start": "13:34",
+          "end": "14:57",
+          "summary": "单顾其一的局限；制度文化与培训实践两条落实路径；结尾回扣共同Y。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=814"
+        },
+        {
+          "start_seconds": 897,
+          "end_seconds": 904,
+          "start": "14:57",
+          "end": "15:04",
+          "summary": "收束第一例并切换材料。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=897"
+        },
+        {
+          "start_seconds": 904,
+          "end_seconds": 1122,
+          "start": "15:04",
+          "end": "18:42",
+          "summary": "2011材料识别：冒尖、拔尖、管理人才，以及主体与对象；解释Y与O可以在具体表述中关联。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=904"
+        },
+        {
+          "start_seconds": 1122,
+          "end_seconds": 1267,
+          "start": "18:42",
+          "end": "21:07",
+          "summary": "从“拔尖多、冒尖少”读出课堂认为的倾向；展示偏重、取舍两种态度和标题。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=1122"
+        },
+        {
+          "start_seconds": 1267,
+          "end_seconds": 1359,
+          "start": "21:07",
+          "end": "22:39",
+          "summary": "比较两套提纲：冒尖的价值相同，第三段及建议随偏重或取舍而变化。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=1267"
+        },
+        {
+          "start_seconds": 1359,
+          "end_seconds": 1550,
+          "start": "22:39",
+          "end": "25:50",
+          "summary": "偏重范文：冒尖促进公平、激发动机；兼顾组织发现和培养潜力人才的作用。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=1359"
+        },
+        {
+          "start_seconds": 1550,
+          "end_seconds": 1740,
+          "start": "25:50",
+          "end": "29:00",
+          "summary": "取舍范文：比较冒尖、拔尖的效果，以公开竞争、实绩和制度支持所选机制。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=1550"
+        },
+        {
+          "start_seconds": 1740,
+          "end_seconds": 1816,
+          "start": "29:00",
+          "end": "30:16",
+          "summary": "总结并重、偏重、取舍三种推Y结构。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=1740"
+        },
+        {
+          "start_seconds": 1816,
+          "end_seconds": 1943,
+          "start": "30:16",
+          "end": "32:23",
+          "summary": "课后作业：识别变量、拟标题、列全文提纲；后续学习安排与鼓励。精简复习可略听。",
+          "url": "https://www.bilibili.com/video/BV1JPMi6REXC?p=11&t=1816"
+        }
+      ],
+      "selected_seconds": 1220
+    }
+  ]
+}

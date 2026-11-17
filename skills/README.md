@@ -1,6 +1,6 @@
 # 可调用课程 Skills
 
-本目录收录由课程逐集资料提炼而成的 4 个 Codex Skill。它们用于按对应课程体系讲题、诊断错因、规划复习和定位回看分集；不是老师本人，也不代表老师或课程方的官方产品。
+本目录收录由课程资料提炼而成的 5 个 Codex Skill。它们用于按对应课程体系讲题、诊断错因、规划复习和定位回看分集；不是老师本人，也不代表老师或课程方的官方产品。
 
 ## Skill 清单
 
@@ -9,6 +9,7 @@
 | `laolv-laoluo-guanzong-math` | 老吕、老罗管综数学：44 个考点、88 个母题模型 | [SKILL.md](laolv-laoluo-guanzong-math/SKILL.md) |
 | `xuerui-guanzong-logic` | 薛睿形式逻辑、分析推理与论证推理 | [SKILL.md](xuerui-guanzong-logic/SKILL.md) |
 | `laolv-guanzong-writing` | 老吕管综论证有效性分析与论说文 | [SKILL.md](laolv-guanzong-writing/SKILL.md) |
+| `laolv-writing-33-focus` | 老吕2027写作33篇第4、7—11篇精听、时间轴与方法训练 | [SKILL.md](laolv-writing-33-focus/SKILL.md) |
 | `chenzhengkang-english-two` | 陈正康英语二完型、阅读、新题型、翻译与写作 | [SKILL.md](chenzhengkang-english-two/SKILL.md) |
 
 每个 Skill 均保留：
@@ -38,6 +39,21 @@ python3 scripts/find_past_paper.py --year 2023 --question 51
 
 英语可用 `--text 2`，写作可用 `--type 论说文`；受限目录默认不返回，需加 `--include-restricted`。没有题内定位证据时只返回年度候选，不能编造分钟或老师具体讲法。研究音视频、原始转写和本机路径不包含在本次增补中。
 
+## 写作33篇六篇精读（2026-11-17）
+
+独立 Skill `laolv-writing-33-focus` 专门处理正式合集 BV1JPMi6REXC 的第4、7、8、9、10、11篇。它不依赖其他 Skill，按需读取单篇资料，支持关键片段定位、顺序时间轴、阅读笔记及审题提纲训练。
+
+六篇原片共7:23:26，整理了42个精选片段（3:43:37）和108段完整时间轴。内容来自完整自动转写核读及板书校对；时间为约略回看边界，可套用句式为整理改写，非官方字幕或评分标准。包内不含完整转写和音视频。
+
+- [六篇索引](laolv-writing-33-focus/references/index.md)
+- [来源与证据范围](laolv-writing-33-focus/references/sources.md)
+- [只读片段检索脚本](laolv-writing-33-focus/scripts/find_segment.py)，仅依赖Python标准库。
+
+```text
+$laolv-writing-33-focus 用15分钟复习第7篇，给关键时间段、内容概要和两道自测。
+$laolv-writing-33-focus 按篇整理第4、7—11篇：精听片段、完整时间轴、阅读笔记。
+```
+
 ## 安装
 
 将需要的完整 Skill 子文件夹复制到本机 `~/.codex/skills/`。例如，在本仓库根目录执行：
@@ -47,7 +63,7 @@ mkdir -p ~/.codex/skills
 cp -R skills/xuerui-guanzong-logic ~/.codex/skills/
 ```
 
-如需全部安装，可分别复制本目录下的四个 Skill 文件夹。重新打开 Codex 任务后，即可通过 `$skill-name` 显式调用，也可在题目与描述匹配时自动触发。
+如需安装多个，可分别复制所需的完整 Skill 文件夹。重新打开 Codex 任务后，即可通过 `$skill-name` 显式调用，也可在题目与描述匹配时自动触发。
 
 ## 调用示例
 
@@ -68,4 +84,4 @@ $chenzhengkang-english-two 分析这道阅读题的定位句、同义改写和�
 - `xuerui-guanzong-logic/references/learner-profile-2022-errors.md` 是当前学习者的个人错题档案；其他使用者应删除或替换该文件，不得把其中结论推广为普遍规律。
 - 课程名称、教师姓名和原始内容的权利归相应权利人所有；本目录提供的是学习方法提炼与索引，不是课程逐字稿。
 
-这些 Skill 按 [女娲 · Skill 造人术](https://github.com/alchaincyf/nuwa-skill) 的提炼方法构建，并分别通过结构验证、行为用例检查和女娲质量检查。
+原有四个课程 Skill 按 [女娲 · Skill 造人术](https://github.com/alchaincyf/nuwa-skill) 的提炼方法构建。新增六篇精读 Skill 使用 skill-creator 整理，完成结构、片段检索、时间覆盖及独立行为用例检查。

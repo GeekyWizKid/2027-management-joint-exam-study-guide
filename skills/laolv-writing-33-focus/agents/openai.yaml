@@ -1,0 +1,4 @@
+interface:
+  display_name: "老吕写作33篇·六篇精读"
+  short_description: "老吕写作33篇第4、7—11篇的精听时间轴、阅读笔记与方法训练"
+  default_prompt: "请使用 $laolv-writing-33-focus 整理第9篇的关键时间段、顺序时间轴和阅读笔记，并用一道短题检验我是否理解。"

@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-17",
+  "bvid": "BV1JPMi6REXC",
+  "transcripts_bundled": false,
+  "episodes": [
+    {
+      "page": 4,
+      "segments": 5153,
+      "first_start": 0.0,
+      "last_end": 10044.58,
+      "transcript_sha256": "24cec07938b0cf37b4f288f633351ae42f3d40c7a6aabfdcd1c06a36965b0c1d"
+    },
+    {
+      "page": 7,
+      "segments": 636,
+      "first_start": 0.0,
+      "last_end": 1516.24,
+      "transcript_sha256": "9d2856b21de3d80b1a57a28623d5711f13d92eac57c9ff1f73a7671bb16d4444"
+    },
+    {
+      "page": 8,
+      "segments": 2624,
+      "first_start": 0.0,
+      "last_end": 5489.299999999999,
+      "transcript_sha256": "eb8d820dfbeb373b78157c02c5f2da1e249b3543d1c5fedb4a59f2ae1864e8fc"
+    },
+    {
+      "page": 9,
+      "segments": 1380,
+      "first_start": 0.0,
+      "last_end": 3091.7999999999997,
+      "transcript_sha256": "ab18fd5b83f3e527da8c8071659196813ae998fd91369026fcea657544e0a1e5"
+    },
+    {
+      "page": 10,
+      "segments": 2337,
+      "first_start": 0.0,
+      "last_end": 4517.820000000001,
+      "transcript_sha256": "d4db25fc2ef8171265c7383f45fa7216cb47e0d0079726fef25f8357cf639741"
+    },
+    {
+      "page": 11,
+      "segments": 948,
+      "first_start": 0.0,
+      "last_end": 1943.0,
+      "transcript_sha256": "1667ec181ebb0aeb6c3cbd13f8ae28d7fd815f68d948938571e88efde3b2ecfa"
+    }
+  ]
+}
